@@ -1,0 +1,90 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : { 
+       "id" : "20728", 
+       "engine" : "MathMonster", 
+       "name" : "DÉ_számok_ melyik nagyobb", 
+       "labels" : "", 
+       "difficulty" : "1", 
+       "keyset" : "aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz", 
+       "code" : "HU", 
+       "gameTheme" : "3", 
+       "gameEnding" : "1", 
+       "screens" : [ 
+          { 
+             "questionID" : "184", 
+             "question" : "Melyik nagyobb? Egyenlő? Tedd ki a megfelelő relációs jelet!", 
+             "info" : "", 
+             "time" : "180", 
+             "questions" : [ 
+                { 
+                   "mathMonsterSentenceID" : "214", 
+                   "sentence" : "2:5 ?(>) 25%", 
+                   "is_swappable" : "0"
+                }
+             ], 
+             "wrongAnswers" : [ 
+                "=", 
+                "", 
+                ">"
+             ]
+          }, 
+          { 
+             "questionID" : "185", 
+             "question" : "Melyik nagyobb? Egyenlő? Tedd ki a megfelelő relációs jelet!", 
+             "info" : "", 
+             "time" : "180", 
+             "questions" : [ 
+                { 
+                   "mathMonsterSentenceID" : "215", 
+                   "sentence" : "35 háromötöd része ?(=) 35 60%-a", 
+                   "is_swappable" : "0"
+                }
+             ], 
+             "wrongAnswers" : [ 
+                ">", 
+                "", 
+                "="
+             ]
+          }, 
+          { 
+             "questionID" : "186", 
+             "question" : "Melyik nagyobb? Egyenlő? Tedd ki a megfelelő relációs jelet!", 
+             "info" : "", 
+             "time" : "180", 
+             "questions" : [ 
+                { 
+                   "mathMonsterSentenceID" : "216", 
+                   "sentence" : "-2\\frac{1}{3} reciproka ?(>) -\\frac{4}{7}", 
+                   "is_swappable" : "0"
+                }
+             ], 
+             "wrongAnswers" : [ 
+                "=", 
+                "", 
+                ">"
+             ]
+          }, 
+          { 
+             "questionID" : "187", 
+             "question" : "Melyik nagyobb? Egyenlő? Tedd ki a megfelelő relációs jelet!", 
+             "info" : "", 
+             "time" : "180", 
+             "questions" : [ 
+                { 
+                   "mathMonsterSentenceID" : "217", 
+                   "sentence" : "12-nek a kétharmada ?(=) 12 \\cdot \\frac{2}{3}", 
+                   "is_swappable" : "0"
+                }
+             ], 
+             "wrongAnswers" : [ 
+                ">", 
+                "", 
+                "="
+             ]
+          }
+       ], 
+       "images" : [ 
+       ]
+    }
+ }

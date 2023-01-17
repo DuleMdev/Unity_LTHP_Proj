@@ -1,0 +1,63 @@
+﻿{
+	"task" : [
+		{
+			"gameType" : "Millionaire",
+			"question" : "Hány hárommszöget látsz a képen?",
+			"questionPicture" : "triangle.png",
+			"questionPictureBorder" : "False",
+			"goodAnswers" : ["20"],
+			"wrongAnswers" : ["16", "18", "22"],
+			"goodAnswerNeed" : true,
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+		
+		{
+			"gameType" : "Millionaire",
+			"question" : "A 63 nagyobb tízes szomszédjára gondoltam. Melyik ez a szám?",
+			"questionPicture" : "",
+			"questionPictureBorder" : "False",
+			"goodAnswers" : ["70"],
+			"wrongAnswers" : ["60", "64", "62", "100", "1000"],
+			"goodAnswerNeed" : true,
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+		
+		{
+			"gameType" : "Millionaire",
+			"question" : "Válaszd ki az országunkban szabadon nem élő állatokat!",
+			"questionPicture" : "",
+			"questionPictureBorder" : "False",
+			"goodAnswers" : ["tigris", "oroszlán", "majom", "kenguru"],
+			"wrongAnswers" : ["róka", "farkas"],
+			"goodAnswerNeed" : true,
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Millionaire",
+			"question" : "Válaszd ki a vízi- vízparti élőhelyeken élő állatokat!",
+			"questionPicture" : "",
+			"questionPictureBorder" : "False",
+			"goodAnswers" : ["pelikán", "gólya", "béka"],
+			"wrongAnswers" : ["nyúl"],
+			"goodAnswerNeed" : true,
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Millionaire",
+			"question" : "Válaszd ki a vízi- vízparti élőhelyeken élő állatokat!",
+			"questionPicture" : "",s
+			"questionPictureBorder" : "False",
+			"goodAnswers" : ["pelikán", "béka"],
+			"wrongAnswers" : ["nyúl"],
+			"goodAnswerNeed" : true,
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+	]
+}

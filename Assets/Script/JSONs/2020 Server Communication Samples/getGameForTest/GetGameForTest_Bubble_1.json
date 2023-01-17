@@ -1,0 +1,158 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : { 
+       "id" : "21581", 
+       "engine" : "Bubble", 
+       "name" : "DÉ_számok_6", 
+       "labels" : "", 
+       "difficulty" : "1", 
+       "keyset" : "aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz", 
+       "code" : "HU", 
+       "gameTheme" : "1", 
+       "gameEnding" : "1", 
+       "screens" : [ 
+          { 
+             "id" : "1143", 
+             "image" : "", 
+             "question" : "\\frac{2}{5}+\\frac{4}{5}=", 
+             "info" : "", 
+             "task" : "Mennyi az eredmény? Pukkaszd ki a helytelen válaszokat!", 
+             "time" : "300", 
+             "answers" : [ 
+                { 
+                   "answerID" : "4934", 
+                   "answer" : "\\frac{6}{5}", 
+                   "is_image" : "0", 
+                   "is_correct" : "1"
+                }, 
+                { 
+                   "answerID" : "4935", 
+                   "answer" : "\\frac{6}{10}", 
+                   "is_image" : "0", 
+                   "is_correct" : "0"
+                }, 
+                { 
+                   "answerID" : "4936", 
+                   "answer" : "\\frac{8}{5}", 
+                   "is_image" : "0", 
+                   "is_correct" : "0"
+                }
+             ]
+          }, 
+          { 
+             "id" : "1144", 
+             "image" : "", 
+             "question" : "\\frac{3}{8}+\\frac{5}{16}=", 
+             "info" : "", 
+             "task" : "Mennyi az eredmény? Pukkaszd ki a helytelen válaszokat!", 
+             "time" : "180", 
+             "answers" : [ 
+                { 
+                   "answerID" : "4937", 
+                   "answer" : "\\frac{11}{16}", 
+                   "is_image" : "0", 
+                   "is_correct" : "1"
+                }, 
+                { 
+                   "answerID" : "4938", 
+                   "answer" : "\\frac{8}{16}", 
+                   "is_image" : "0", 
+                   "is_correct" : "0"
+                }, 
+                { 
+                   "answerID" : "4939", 
+                   "answer" : "\\frac{8}{24}", 
+                   "is_image" : "0", 
+                   "is_correct" : "0"
+                }
+             ]
+          }, 
+          { 
+             "id" : "1145", 
+             "image" : "", 
+             "question" : "\\frac{3}{7}-\\frac{2}{5}=", 
+             "info" : "", 
+             "task" : "Mennyi az eredmény? Pukkaszd ki a helytelen válaszokat!", 
+             "time" : "180", 
+             "answers" : [ 
+                { 
+                   "answerID" : "4940", 
+                   "answer" : "\\frac{1}{35}", 
+                   "is_image" : "0", 
+                   "is_correct" : "1"
+                }, 
+                { 
+                   "answerID" : "4941", 
+                   "answer" : "\\frac{29}{35}", 
+                   "is_image" : "0", 
+                   "is_correct" : "0"
+                }, 
+                { 
+                   "answerID" : "4942", 
+                   "answer" : "\\frac{1}{2}", 
+                   "is_image" : "0", 
+                   "is_correct" : "0"
+                }
+             ]
+          }, 
+          { 
+             "id" : "1146", 
+             "image" : "", 
+             "question" : "\\frac{5}{12}+\\frac{14}{15}=", 
+             "info" : "", 
+             "task" : "Mennyi az eredmény? Pukkaszd ki a helytelen válaszokat!", 
+             "time" : "180", 
+             "answers" : [ 
+                { 
+                   "answerID" : "4943", 
+                   "answer" : "\\frac{27}{20}", 
+                   "is_image" : "0", 
+                   "is_correct" : "1"
+                }, 
+                { 
+                   "answerID" : "4944", 
+                   "answer" : "\\frac{19}{29}", 
+                   "is_image" : "0", 
+                   "is_correct" : "0"
+                }, 
+                { 
+                   "answerID" : "4945", 
+                   "answer" : "\\frac{19}{60}", 
+                   "is_image" : "0", 
+                   "is_correct" : "0"
+                }
+             ]
+          }, 
+          { 
+             "id" : "1147", 
+             "image" : "", 
+             "question" : "\\frac{11}{12}-\\frac{5}{9}=", 
+             "info" : "", 
+             "task" : "Mennyi az eredmény? Pukkaszd ki a helytelen válaszokat!", 
+             "time" : "180", 
+             "answers" : [ 
+                { 
+                   "answerID" : "4946", 
+                   "answer" : "\\frac{13}{36}", 
+                   "is_image" : "0", 
+                   "is_correct" : "1"
+                }, 
+                { 
+                   "answerID" : "4947", 
+                   "answer" : "\\frac{6}{3}", 
+                   "is_image" : "0", 
+                   "is_correct" : "0"
+                }, 
+                { 
+                   "answerID" : "4948", 
+                   "answer" : "\\frac{6}{36}", 
+                   "is_image" : "0", 
+                   "is_correct" : "0"
+                }
+             ]
+          }
+       ], 
+       "images" : [ 
+       ]
+    }
+ }

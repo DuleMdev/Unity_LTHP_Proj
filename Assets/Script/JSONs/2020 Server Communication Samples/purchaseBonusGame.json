@@ -1,0 +1,9 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : { 
+       "maxGameScore" : "18", 
+       "maxGameLevel" : "3", 
+       "bonusGamePurchaseID" : "9", 
+       "currentBonusCoins" : "5"
+    }
+ }

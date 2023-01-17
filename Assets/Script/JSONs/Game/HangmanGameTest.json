@@ -1,0 +1,16 @@
+﻿{
+	"id": "7855",
+	"engine": "Hangman",
+	"name": "Hangman_1_2_2_1_a",
+	"gameDifficulty": "50.000",
+	"avgPlayTime": "0.000",
+	"screens": [{
+		"id": "84",
+		"time": "900",
+		"tries": "10",
+        "question" : "Találd ki a szöveget",
+        "puzzle" : "A rejtvény szövege",
+        "keyset" : "hu",
+	}],
+	"lastGamePercent": "null"
+}

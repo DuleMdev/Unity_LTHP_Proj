@@ -1,0 +1,17 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : { 
+       "userID" : "2146", 
+       "userName" : "domo001", 
+       "userEmail" : "domo001@erettsegi.ro", 
+       "joinedDate" : "2020-12-18 13:02:04", 
+       "languageID" : "26", 
+       "profilePicture" : "2146/5fdc9a3c7ef9b.png", 
+       "description" : "null", 
+       "appSettings" : { 
+          "playAnimations" : "true", 
+          "statusTableInSuper" : "true", 
+          "statusTableBetweenSuper" : "true"
+       }
+    }
+ }

@@ -1,0 +1,38 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : { 
+       "id" : "7097", 
+       "engine" : "Texty", 
+       "name" : "#1", 
+       "difficulty" : "0", 
+       "keyset" : "aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz", 
+       "code" : "HU", 
+       "screens" : [ 
+          { 
+             "id" : "559", 
+             "time" : "180", 
+             "questions" : [ 
+                { 
+                   "questionID" : "614", 
+                   "question" : "54 + 89 = [?]", 
+                   "inOrder" : "1", 
+                   "answers" : [ 
+                      "143"
+                   ]
+                }
+             ]
+          }
+       ]
+    }, 
+    "debugLocation" : { 
+       "file" : "TextyGame.php", 
+       "db" : "classyedu", 
+       "time" : { 
+          "date" : "2020-04-02 18:09:19.276794", 
+          "timezone_type" : "3", 
+          "timezone" : "Europe/Belgrade"
+       }, 
+       "function" : "getForPlay", 
+       "line" : "94"
+    }
+}

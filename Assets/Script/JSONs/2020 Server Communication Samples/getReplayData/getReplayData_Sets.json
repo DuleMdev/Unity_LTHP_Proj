@@ -1,0 +1,423 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : { 
+       "id" : "18467", 
+       "userID" : "959", 
+       "created_time" : "2021-10-13 15:53:13", 
+       "modified_time" : "2021-11-04 14:23:49", 
+       "gameEngineID" : "10", 
+       "name" : "SzJ_1_1_7_3_a", 
+       "labels" : "", 
+       "languageID" : "26", 
+       "difficulty" : "1", 
+       "gameValue" : "100", 
+       "scoreDivider" : "2", 
+       "helperThreshold" : "100", 
+       "tokenForTest" : "28nACgT9MqYamMUfGOmVhtCoq4ttWRGO", 
+       "testGameTheme" : "3", 
+       "testGameEnding" : "1", 
+       "isLaTeX" : "1", 
+       "gameID" : "18467", 
+       "engine" : "Sets", 
+       "gameEngineName" : "Sets", 
+       "gameEngineImage" : "engine_sets.png", 
+       "gameEngineWizard" : "wiz_sets", 
+       "count_the_score" : "1", 
+       "code" : "HU", 
+       "keyset" : "aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz", 
+       "owner" : { 
+          "userID" : "959", 
+          "userName" : "lukzoltan", 
+          "userEmail" : "lukzoltan@gmail.com", 
+          "joinedDate" : "2020-04-07 13:03:03", 
+          "languageID" : "26", 
+          "profilePicture" : "959/5e8c5de764c2b.png", 
+          "description" : ""
+       }, 
+       "isOwn" : "false", 
+       "marketModule" : "false", 
+       "super" : { 
+          "superGameID" : "18467", 
+          "helperGameID" : "18467", 
+          "item_order" : "0"
+       }, 
+       "curriculums" : "false", 
+       "sharedMailLists" : "false", 
+       "defaultGameTheme" : "3", 
+       "gameTheme" : "3", 
+       "gameEnding" : "1", 
+       "screens" : [ 
+          { 
+             "questionID" : "569", 
+             "question" : "Egy számegyenesen mely számok vannak a 45-től balra és melyek jobbra?", 
+             "info" : "", 
+             "time" : "300", 
+             "sets" : [ 
+                { 
+                   "setsGroupID" : "1471", 
+                   "name" : "45-től balra", 
+                   "image" : "", 
+                   "items" : [ 
+                      { 
+                         "answerID" : "5689", 
+                         "is_image" : "0", 
+                         "answer" : "7"
+                      }, 
+                      { 
+                         "answerID" : "5690", 
+                         "is_image" : "0", 
+                         "answer" : "18"
+                      }, 
+                      { 
+                         "answerID" : "5691", 
+                         "is_image" : "0", 
+                         "answer" : "44"
+                      }, 
+                      { 
+                         "answerID" : "5692", 
+                         "is_image" : "0", 
+                         "answer" : "0"
+                      }, 
+                      { 
+                         "answerID" : "5693", 
+                         "is_image" : "0", 
+                         "answer" : "36"
+                      }
+                   ]
+                }, 
+                { 
+                   "setsGroupID" : "1472", 
+                   "name" : "45-től jobbra", 
+                   "image" : "", 
+                   "items" : [ 
+                      { 
+                         "answerID" : "5694", 
+                         "is_image" : "0", 
+                         "answer" : "101"
+                      }, 
+                      { 
+                         "answerID" : "5695", 
+                         "is_image" : "0", 
+                         "answer" : "89"
+                      }, 
+                      { 
+                         "answerID" : "5696", 
+                         "is_image" : "0", 
+                         "answer" : "47"
+                      }, 
+                      { 
+                         "answerID" : "5697", 
+                         "is_image" : "0", 
+                         "answer" : "51"
+                      }, 
+                      { 
+                         "answerID" : "5698", 
+                         "is_image" : "0", 
+                         "answer" : "126"
+                      }
+                   ]
+                }
+             ], 
+             "userAnswers" : { 
+                "answers" : [ 
+                   { 
+                      "id" : "61756", 
+                      "gamelogID" : "442759", 
+                      "setsID" : "569", 
+                      "setsGroupID" : "1472", 
+                      "answerID" : "5696", 
+                      "answerTime" : "16.4088", 
+                      "isGood" : "0"
+                   }, 
+                   { 
+                      "id" : "61757", 
+                      "gamelogID" : "442759", 
+                      "setsID" : "569", 
+                      "setsGroupID" : "1472", 
+                      "answerID" : "5697", 
+                      "answerTime" : "1.08773", 
+                      "isGood" : "0"
+                   }, 
+                   { 
+                      "id" : "61758", 
+                      "gamelogID" : "442759", 
+                      "setsID" : "569", 
+                      "setsGroupID" : "1472", 
+                      "answerID" : "5698", 
+                      "answerTime" : "1.19597", 
+                      "isGood" : "0"
+                   }, 
+                   { 
+                      "id" : "61759", 
+                      "gamelogID" : "442759", 
+                      "setsID" : "569", 
+                      "setsGroupID" : "1472", 
+                      "answerID" : "5695", 
+                      "answerTime" : "1.17867", 
+                      "isGood" : "0"
+                   }, 
+                   { 
+                      "id" : "61760", 
+                      "gamelogID" : "442759", 
+                      "setsID" : "569", 
+                      "setsGroupID" : "1472", 
+                      "answerID" : "5694", 
+                      "answerTime" : "1.17345", 
+                      "isGood" : "0"
+                   }, 
+                   { 
+                      "id" : "61761", 
+                      "gamelogID" : "442759", 
+                      "setsID" : "569", 
+                      "setsGroupID" : "1471", 
+                      "answerID" : "5690", 
+                      "answerTime" : "1.63383", 
+                      "isGood" : "0"
+                   }, 
+                   { 
+                      "id" : "61762", 
+                      "gamelogID" : "442759", 
+                      "setsID" : "569", 
+                      "setsGroupID" : "1471", 
+                      "answerID" : "5689", 
+                      "answerTime" : "1.02493", 
+                      "isGood" : "0"
+                   }, 
+                   { 
+                      "id" : "61763", 
+                      "gamelogID" : "442759", 
+                      "setsID" : "569", 
+                      "setsGroupID" : "1471", 
+                      "answerID" : "5692", 
+                      "answerTime" : "1.11631", 
+                      "isGood" : "0"
+                   }, 
+                   { 
+                      "id" : "61764", 
+                      "gamelogID" : "442759", 
+                      "setsID" : "569", 
+                      "setsGroupID" : "1471", 
+                      "answerID" : "5693", 
+                      "answerTime" : "1.0732", 
+                      "isGood" : "0"
+                   },                    { 
+                      "id" : "61756", 
+                      "gamelogID" : "442759", 
+                      "setsID" : "569", 
+                      "setsGroupID" : "1472", 
+                      "answerID" : "5696", 
+                      "answerTime" : "16.4088", 
+                      "isGood" : "1"
+                   }, 
+                   { 
+                      "id" : "61757", 
+                      "gamelogID" : "442759", 
+                      "setsID" : "569", 
+                      "setsGroupID" : "1472", 
+                      "answerID" : "5697", 
+                      "answerTime" : "1.08773", 
+                      "isGood" : "1"
+                   }, 
+                   { 
+                      "id" : "61758", 
+                      "gamelogID" : "442759", 
+                      "setsID" : "569", 
+                      "setsGroupID" : "1472", 
+                      "answerID" : "5698", 
+                      "answerTime" : "1.19597", 
+                      "isGood" : "1"
+                   }, 
+                   { 
+                      "id" : "61759", 
+                      "gamelogID" : "442759", 
+                      "setsID" : "569", 
+                      "setsGroupID" : "1472", 
+                      "answerID" : "5695", 
+                      "answerTime" : "1.17867", 
+                      "isGood" : "1"
+                   }, 
+                   { 
+                      "id" : "61760", 
+                      "gamelogID" : "442759", 
+                      "setsID" : "569", 
+                      "setsGroupID" : "1472", 
+                      "answerID" : "5694", 
+                      "answerTime" : "1.17345", 
+                      "isGood" : "1"
+                   }, 
+                   { 
+                      "id" : "61761", 
+                      "gamelogID" : "442759", 
+                      "setsID" : "569", 
+                      "setsGroupID" : "1471", 
+                      "answerID" : "5690", 
+                      "answerTime" : "1.63383", 
+                      "isGood" : "1"
+                   }, 
+                   { 
+                      "id" : "61762", 
+                      "gamelogID" : "442759", 
+                      "setsID" : "569", 
+                      "setsGroupID" : "1471", 
+                      "answerID" : "5689", 
+                      "answerTime" : "1.02493", 
+                      "isGood" : "1"
+                   }, 
+                   { 
+                      "id" : "61763", 
+                      "gamelogID" : "442759", 
+                      "setsID" : "569", 
+                      "setsGroupID" : "1471", 
+                      "answerID" : "5692", 
+                      "answerTime" : "1.11631", 
+                      "isGood" : "1"
+                   }, 
+                   { 
+                      "id" : "61764", 
+                      "gamelogID" : "442759", 
+                      "setsID" : "569", 
+                      "setsGroupID" : "1471", 
+                      "answerID" : "5693", 
+                      "answerTime" : "1.0732", 
+                      "isGood" : "1"
+                   }, 
+                   { 
+                      "id" : "61765", 
+                      "gamelogID" : "442759", 
+                      "setsID" : "569", 
+                      "setsGroupID" : "1471", 
+                      "answerID" : "5691", 
+                      "answerTime" : "1.23999", 
+                      "isGood" : "1"
+                   }
+                ]
+             }
+          }
+       ], 
+       "images" : [ 
+       ], 
+       "log" : { 
+          "id" : "442759", 
+          "logTime" : "2021-10-28 19:37:09", 
+          "userID" : "2146", 
+          "subjectID" : "162", 
+          "topicID" : "241", 
+          "courseID" : "838", 
+          "curriculumID" : "1355", 
+          "gameID" : "18467", 
+          "gamePercent" : "100", 
+          "gameTime" : "30", 
+          "curriculumProgress" : "77.778", 
+          "curriculumStart" : "2021-10-28 18:50:58", 
+          "appID" : "5", 
+          "learnRoutePathID" : "1699", 
+          "learnRoutePathStart" : "2021-10-28 18:48:57", 
+          "learnRoutePathProgress" : "25.926", 
+          "currentLevel" : "2", 
+          "flowStyle" : "void", 
+          "gameIsolation" : "2021-10-28 19:08:48", 
+          "levelIsolation" : "2021-10-28 19:08:48", 
+          "levelingIsolation" : "2021-10-28 19:08:48", 
+          "curriculumCoverage" : "33.333", 
+          "learnRoutePathCoverage" : "11.111", 
+          "gameSolved" : "1", 
+          "gameTheme" : "3", 
+          "gameEnding" : "1", 
+          "currentLevelNumber" : "9", 
+          "possibleMaxLevelNumber" : "9", 
+          "replayToken" : "cA1XdL8TXTbh7s4nciVw9Q9uDEkhvVpK"
+       }, 
+       "userAnswers" : [ 
+          { 
+             "id" : "61756", 
+             "gamelogID" : "442759", 
+             "setsID" : "569", 
+             "setsGroupID" : "1472", 
+             "answerID" : "5696", 
+             "answerTime" : "16.4088", 
+             "isGood" : "1"
+          }, 
+          { 
+             "id" : "61757", 
+             "gamelogID" : "442759", 
+             "setsID" : "569", 
+             "setsGroupID" : "1472", 
+             "answerID" : "5697", 
+             "answerTime" : "1.08773", 
+             "isGood" : "1"
+          }, 
+          { 
+             "id" : "61758", 
+             "gamelogID" : "442759", 
+             "setsID" : "569", 
+             "setsGroupID" : "1472", 
+             "answerID" : "5698", 
+             "answerTime" : "1.19597", 
+             "isGood" : "1"
+          }, 
+          { 
+             "id" : "61759", 
+             "gamelogID" : "442759", 
+             "setsID" : "569", 
+             "setsGroupID" : "1472", 
+             "answerID" : "5695", 
+             "answerTime" : "1.17867", 
+             "isGood" : "1"
+          }, 
+          { 
+             "id" : "61760", 
+             "gamelogID" : "442759", 
+             "setsID" : "569", 
+             "setsGroupID" : "1472", 
+             "answerID" : "5694", 
+             "answerTime" : "1.17345", 
+             "isGood" : "1"
+          }, 
+          { 
+             "id" : "61761", 
+             "gamelogID" : "442759", 
+             "setsID" : "569", 
+             "setsGroupID" : "1471", 
+             "answerID" : "5690", 
+             "answerTime" : "1.63383", 
+             "isGood" : "1"
+          }, 
+          { 
+             "id" : "61762", 
+             "gamelogID" : "442759", 
+             "setsID" : "569", 
+             "setsGroupID" : "1471", 
+             "answerID" : "5689", 
+             "answerTime" : "1.02493", 
+             "isGood" : "1"
+          }, 
+          { 
+             "id" : "61763", 
+             "gamelogID" : "442759", 
+             "setsID" : "569", 
+             "setsGroupID" : "1471", 
+             "answerID" : "5692", 
+             "answerTime" : "1.11631", 
+             "isGood" : "1"
+          }, 
+          { 
+             "id" : "61764", 
+             "gamelogID" : "442759", 
+             "setsID" : "569", 
+             "setsGroupID" : "1471", 
+             "answerID" : "5693", 
+             "answerTime" : "1.0732", 
+             "isGood" : "1"
+          }, 
+          { 
+             "id" : "61765", 
+             "gamelogID" : "442759", 
+             "setsID" : "569", 
+             "setsGroupID" : "1471", 
+             "answerID" : "5691", 
+             "answerTime" : "1.23999", 
+             "isGood" : "1"
+          }
+       ]
+    }
+}

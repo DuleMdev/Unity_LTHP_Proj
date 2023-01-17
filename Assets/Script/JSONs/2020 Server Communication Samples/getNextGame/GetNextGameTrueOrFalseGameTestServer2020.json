@@ -1,0 +1,83 @@
+﻿{ 
+   "error" : "false", 
+   "answer" : { 
+      "pathData" : { 
+         "flowStyle" : "simple", 
+         "gameIsolation" : "2020-02-11 13:41:40", 
+         "currentLevel" : "1", 
+         "levelIsolation" : "2020-02-05 17:03:43", 
+         "userID" : "3", 
+         "learnRoutePathID" : "84", 
+         "learnRoutePathStart" : "2020-02-05 17:03:37", 
+         "subjectID" : "19", 
+         "topicID" : "107", 
+         "courseID" : "286", 
+         "curriculumID" : "499", 
+         "curriculumIsolationTime" : "2020-02-05 17:03:43"
+      }, 
+      "gameData" : { 
+         "id" : "6581", 
+         "engine" : "TrueOrFalse", 
+         "name" : "TRUEORFALSE", 
+         "labels" : "TEST", 
+         "difficulty" : "1", 
+         "keyset" : "HU", 
+         "screens" : [ 
+            { 
+               "id" : "2579", 
+               "question" : "DUCK? \\frac{1}{2}", 
+               "time" : "180", 
+               "true_or_false" : "1"
+            }
+         ],
+         "gameTheme" : "1", 
+         "gameEnding" : "1"
+      },
+		"statusData" : { 
+          "show" : "true", 
+          "isComplete" : "false", 
+          "gamePercent" : "100", 
+          "gameSolved" : "true", 
+          "gameTime" : "3", 
+          "gameScore" : "10", 
+          "maxGameScore" : "50", 
+          "starCount" : "3", 
+          "curriculumProgress" : "11.111", 
+          "curriculumCoverage" : "11.111", 
+          "curriculumScore" : "10.123", 
+          "learnRoutePathProgress" : "2.222", 
+          "learnRoutePathCoverage" : "2.222", 
+          "learnRoutePathScore" : "10.123", 
+          "levelIndicator" : "0", 
+          "levelIndicatorText" : "levelStay", 
+          "statusInfo" : "helperGoodAnswerGoToNextGame", 
+          "nextGameScore" : "100", 
+          "learnRoutePathPossibleMaxScore" : "1700", 
+          "currentLevel" : "0", 
+          "currentLevelNumber" : "1", 
+          "possibleMaxLevelNumber" : "15", 
+          "maxLevelNumber" : "15", 
+          "coinReceived" : "false", 
+          "collectedFrameGameChests" : { 
+             "characters" : [ 
+             ], 
+             "treasures" : [ 
+             ]
+          }, 
+          "disposableChestScore" : "-160", 
+          "nextChestValue" : "-170", 
+          "frameGameWalk" : "false"
+        }
+   }, 
+   "debugLocation" : { 
+      "file" : "LearnRoutePath.php", 
+      "db" : "classyedu", 
+      "time" : { 
+         "date" : "2020-02-11 13:41:40.904674", 
+         "timezone_type" : "3", 
+         "timezone" : "Europe/Belgrade"
+      }, 
+      "function" : "getSingleGameData", 
+      "line" : "831"
+   }
+}

@@ -1,0 +1,532 @@
+fileFormatVersion: 2
+guid: c641c3cba311dd548a09c827a9c1de98
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Character 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 564
+      y: 1780
+      width: 176
+      height: 176
+    spriteID: 7b68ba5ca3d3f364bb28a6fbaa1bc3ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -993, y: 936}
+  - name: Character 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 564
+      y: 1596
+      width: 184
+      height: 176
+    spriteID: 9f0f6e6f74ae05e4a8e3c61aa13d374a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -304, y: 752}
+  - name: Character 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 804
+      y: 1577
+      width: 176
+      height: 176
+    spriteID: 53f896a1456a0c84fa357509ec394047
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 617, y: 733}
+  - name: Static Floor1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1074
+      y: 1092
+      width: 804
+      height: 72
+    spriteID: 8abdaf7213265c14ca99316ac9cef6d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -42, y: 1092}
+  - name: Moving floor
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1074
+      y: 1253
+      width: 406
+      height: 72
+    spriteID: 3a9e5423f5c00a34590632f08189af00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 350, y: 1253}
+  - name: Static Floor
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1074
+      y: 1172
+      width: 727
+      height: 73
+    spriteID: c0d01dc9fd98a024b811317169a80b7d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1074, y: 1172}
+  - name: LI_FORWARD 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1596
+      width: 272
+      height: 366
+    spriteID: 5ee88b5544fed5443930a793db32e415
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1593, y: 1596}
+  - name: Stairs
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1092
+      width: 792
+      height: 496
+    spriteID: 19a0fe6bbc3472d4c810462c5107fa4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1124, y: 1032}
+  - name: LI-UP
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 804
+      y: 1092
+      width: 262
+      height: 477
+    spriteID: b46d719e62eee1c4bba5e61976c1900e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -329, y: 1021}
+  - name: LI_FORWARD
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 284
+      y: 1596
+      width: 272
+      height: 366
+    spriteID: e0b0312cb28d2714f994231309d5609b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 233, y: 1596}
+  - name: BG - Walls
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1920
+      height: 1080
+    spriteID: c7f26b966607aab48aa1fdc010ae1aa0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Characters
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: d28c5262e44736841b4c68fb9270c535
+    layerID: 44
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Character 3
+    spriteName: Character 3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7b68ba5ca3d3f364bb28a6fbaa1bc3ee
+    layerID: 42
+    mosaicPosition: {x: 564, y: 1780}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Character 2
+    spriteName: Character 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9f0f6e6f74ae05e4a8e3c61aa13d374a
+    layerID: 40
+    mosaicPosition: {x: 564, y: 1596}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Character 1
+    spriteName: Character 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 53f896a1456a0c84fa357509ec394047
+    layerID: 38
+    mosaicPosition: {x: 804, y: 1577}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Floor
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: af1819b5d36aa024399a2a2f4ceea8c7
+    layerID: 13
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Static Floor1
+    spriteName: Static Floor1
+    isGroup: 0
+    parentIndex: 4
+    spriteID: 8abdaf7213265c14ca99316ac9cef6d0
+    layerID: 19
+    mosaicPosition: {x: 1074, y: 1092}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving floor
+    spriteName: Moving floor
+    isGroup: 0
+    parentIndex: 4
+    spriteID: 3a9e5423f5c00a34590632f08189af00
+    layerID: 17
+    mosaicPosition: {x: 1074, y: 1253}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Static Floor
+    spriteName: Static Floor
+    isGroup: 0
+    parentIndex: 4
+    spriteID: c0d01dc9fd98a024b811317169a80b7d
+    layerID: 15
+    mosaicPosition: {x: 1074, y: 1172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Level - Indicators
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 04caa6120f52c164f96f954e5b7169c2
+    layerID: 30
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: LI_FORWARD 2
+    spriteName: LI_FORWARD 2
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 5ee88b5544fed5443930a793db32e415
+    layerID: 27
+    mosaicPosition: {x: 4, y: 1596}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stairs
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 13793a9e83030e74b883b3d370e155c6
+    layerID: 11
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Stairs
+    spriteName: Stairs
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 19a0fe6bbc3472d4c810462c5107fa4f
+    layerID: 9
+    mosaicPosition: {x: 4, y: 1092}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Level - Indicators
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 391b44936543ca8409ea7818e6a02acc
+    layerID: 23
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: LI-UP
+    spriteName: LI-UP
+    isGroup: 0
+    parentIndex: 12
+    spriteID: b46d719e62eee1c4bba5e61976c1900e
+    layerID: 28
+    mosaicPosition: {x: 804, y: 1092}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: LI_FORWARD
+    spriteName: LI_FORWARD
+    isGroup: 0
+    parentIndex: 12
+    spriteID: e0b0312cb28d2714f994231309d5609b
+    layerID: 25
+    mosaicPosition: {x: 284, y: 1596}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Background
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: a6f43048eabf4c442b465f6ef717f892
+    layerID: 7
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: BG - Walls
+    spriteName: BG - Walls
+    isGroup: 0
+    parentIndex: 15
+    spriteID: c7f26b966607aab48aa1fdc010ae1aa0
+    layerID: 46
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  generateGOHierarchy: 0
+  textureAssetName: LEVELS Texture
+  prefabAssetName: LEVELS Prefab
+  spriteLibAssetName: LEVELS Sprite Lib
+  skeletonAssetName: LEVELS Skeleton
+  secondarySpriteTextures: []

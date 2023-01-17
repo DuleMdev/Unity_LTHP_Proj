@@ -1,0 +1,123 @@
+﻿{
+  "error" : false,
+  "answer": {
+    "userName"      : "domo001",
+    "userEmail"     : "domo001@erettsegi.ro",
+    "profilePicture": "2146\/5fdc9a3c7ef9b.png",
+    "bronze"        : {
+      "playTime"                : "00:00:42",
+      "playCount"               : 1,
+      "bronzeCoinsFromLearning" : 1000,
+      "maxCoinsFromLearning"    : 1000,
+      "coinsFromLearningPercent": 100,
+      "badges"                  : [
+	  	  {
+              "badgeName"     : "asd",
+              "image"         : "bronze_low.png",
+              "badgeID"       : "asd",
+              "firstBadgeTime": "asd",
+              "badgeCount"    : "3"
+          },
+	      {
+              "badgeName"     : "asd",
+              "image"         : "bronze_medium.png",
+              "badgeID"       : "asd",
+              "firstBadgeTime": "asd",
+              "badgeCount"    : "4"
+          },
+	      {
+              "badgeName"     : "asd",
+              "image"         : "bronze_high.png",
+              "badgeID"       : "asd",
+              "firstBadgeTime": "asd",
+              "badgeCount"    : "5"
+          }
+	  ]
+    },
+    "silver"        : {
+      "copanyName"             : "megfigyelt1",
+      "silverCoinsFromLearning": 300,
+      "capitalGains"           : 0,
+      "companyValue"           : 300,
+      "partners"               : [
+        {
+          "name"             : "domo001",
+          "email"            : "domo001@erettsegi.ro",
+          "coinsFromLearning": 100
+        },
+        {
+          "name"             : "domo002",
+          "email"            : "domo002@erettsegi.ro",
+          "coinsFromLearning": 100
+        },
+        {
+          "name"             : "domo003",
+          "email"            : "domo003@erettsegi.ro",
+          "coinsFromLearning": 100
+        }
+      ],
+      "companyPlace"           : 1,
+      "investable"             : 30,
+      "badges"                 : [
+	      {
+              "badgeName"     : "asd",
+              "image"         : "silver_low.png",
+              "badgeID"       : "asd",
+              "firstBadgeTime": "asd",
+              "badgeCount"    : "3"
+          },
+	      {
+              "badgeName"     : "asd",
+              "image"         : "silver_medium.png",
+              "badgeID"       : "asd",
+              "firstBadgeTime": "asd",
+              "badgeCount"    : "4"
+          },
+	      {
+              "badgeName"     : "asd",
+              "image"         : "silver_high.png",
+              "badgeID"       : "asd",
+              "firstBadgeTime": "asd",
+              "badgeCount"    : "5"
+          }
+	  ],
+      "invested"               : 0,
+      "mostValuable"           : 300,
+      "leastValuable"          : 300,
+      "lastPlace"              : 1
+    },
+    "gold"          : {
+      "investmentsYield": 0,
+      "exitYield"       : 5,
+      "yield"           : 5,
+      "allGoldCoins"    : 45,
+      "mostGoldCoins"   : 5,
+      "leastGoldCoins"  : 5,
+      "place"           : 1,
+      "lastPlace"       : 1,
+      "badges"          : [
+	      {
+              "badgeName"     : "asd",
+              "image"         : "gold_low.png",
+              "badgeID"       : "asd",
+              "firstBadgeTime": "asd",
+              "badgeCount"    : "3"
+          },
+	      {
+              "badgeName"     : "asd",
+              "image"         : "gold_medium.png",
+              "badgeID"       : "asd",
+              "firstBadgeTime": "asd",
+              "badgeCount"    : "4"
+          },
+	      {
+              "badgeName"     : "asd",
+              "image"         : "gold_high.png",
+              "badgeID"       : "asd",
+              "firstBadgeTime": "asd",
+              "badgeCount"    : "5"
+          }
+	  ]
+    }
+  }
+}

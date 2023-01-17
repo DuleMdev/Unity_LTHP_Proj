@@ -1,0 +1,50 @@
+﻿{ 
+   "error" : "false", 
+   "answer" : { 
+      "pathData" : { 
+         "flowStyle" : "simple", 
+         "gameIsolation" : "2020-02-11 13:41:40", 
+         "currentLevel" : "1", 
+         "levelIsolation" : "2020-02-05 17:03:43", 
+         "userID" : "3", 
+         "learnRoutePathID" : "84", 
+         "learnRoutePathStart" : "2020-02-05 17:03:37", 
+         "subjectID" : "19", 
+         "topicID" : "107", 
+         "courseID" : "286", 
+         "curriculumID" : "499", 
+         "curriculumIsolationTime" : "2020-02-05 17:03:43"
+      }, 
+      "gameData" : { 
+		"id": "7855",
+		"engine": "Hangman",
+		"name": "Hangman_1_2_2_1_a",
+        "labels" : "TEST", 
+        "difficulty" : "1", 
+        "keyset" : "HU", 
+
+		"gameDifficulty": "50.000",
+		"avgPlayTime": "0.000",
+		"screens": [{
+			"id": "84",
+			"time": "900",
+			"tries": "10",
+			"question" : "Találd ki a szöveget",
+			"puzzle" : "x",
+		}],
+        "gameTheme" : "3", 
+        "gameEnding" : "3"
+      }
+   }, 
+   "debugLocation" : { 
+      "file" : "LearnRoutePath.php", 
+      "db" : "classyedu", 
+      "time" : { 
+         "date" : "2020-02-11 13:41:40.904674", 
+         "timezone_type" : "3", 
+         "timezone" : "Europe/Belgrade"
+      }, 
+      "function" : "getSingleGameData", 
+      "line" : "831"
+   }
+}

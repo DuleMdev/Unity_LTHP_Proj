@@ -1,0 +1,28 @@
+﻿{
+	"task" : [
+		{
+			"gameType" : "Fish",
+			"questions" : [
+				"Lékett kapott a ?(hajó) a tengeren.",
+				"A ?(papagáj|keselyű) és a ?(papagáj|keselyű) madár.",
+			],
+			
+			"answers" : [ "hajó", "halyó", "papagáj", "papagály", "kesejű", "keselyű" ],
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Fish",
+			"questions" : [
+				"Lékett kapott a ?(hajó) a tengeren.",
+				"A ?(papagáj|keselyű) és a ?(papagáj|keselyű) madár.",
+			],
+			
+			"answers" : [ "hajó", "halyó", "papagáj", "papagály", "kesejű", "keselyű" ],
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+	]
+}

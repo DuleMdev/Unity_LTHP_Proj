@@ -1,0 +1,64 @@
+﻿{
+	"show" : "true", 
+	"isComplete" : "false", 
+	"gamePercent" : "80", 
+	"gameSolved" : "false", 
+	"gameTime" : "57", 
+	"gameScore" : "80", 
+	"maxGameScore" : "100", 
+	"starCount" : "3", 
+	"curriculumProgress" : "55.556", 
+	"curriculumCoverage" : "44.444", 
+	"curriculumScore" : "259.28575", 
+	"learnRoutePathProgress" : "85.185", 
+	"learnRoutePathCoverage" : "37.037", 
+	"learnRoutePathScore" : "859.286", 
+	"levelIndicator" : "0", 
+	"levelIndicatorText" : "levelStay", 
+	"statusInfo" : "superWrongAnswerTryAgain", 
+	"nextGameScore" : "100", 
+	"learnRoutePathPossibleMaxScore" : "1800", 
+	"currentLevel" : "1", 
+	"currentLevelNumber" : "8", 
+	"possibleMaxLevelNumber" : "9", 
+	"maxLevelNumber" : "9", 
+	"coinReceived" : "false", 
+	"collectedFrameGameChests" : { 
+		"characters" : [ 
+          { 
+             "id" : "7", 
+             "userID" : "3", 
+             "name" : "another duck character", 
+             "image" : "3/05b8d28e0abddc90055efcc9138464a5.jpg", 
+             "isDefault" : "1"
+          }, 
+          { 
+             "id" : "8", 
+             "userID" : "3", 
+             "name" : "rubber duck", 
+             "image" : "3/b83f3163e7a1d095bccc3c79455cedc1.jpg", 
+             "isDefault" : "1"
+          }
+		], 
+		"treasures" : [ 
+          { 
+             "id" : "6", 
+             "userID" : "959", 
+             "name" : "Láda1", 
+             "image" : "959/b1880b47a17323d330f5f0c7960ac3fa.jpg", 
+             "extraURL" : "https://www.youtube.com/watch?v=daNV8PCLgdU&t=2150s", 
+             "isDefault" : "0"
+          }, 
+          { 
+             "id" : "7", 
+             "userID" : "959", 
+             "name" : "Láda2", 
+             "image" : "959/2ef89849a9cc00cda1414b812046180b.jpg", 
+             "extraURL" : "https://www.youtube.com/watch?v=n9Y2Eb4BaSg", 
+             "isDefault" : "0"
+          }
+		]
+	}, 
+	"disposableChestScore" : "319", 
+	"nextChestValue" : "540"
+}

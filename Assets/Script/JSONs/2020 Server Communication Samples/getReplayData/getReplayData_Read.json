@@ -1,0 +1,272 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : { 
+       "id" : "3769", 
+       "userID" : "7", 
+       "created_time" : "2018-10-30 11:21:21", 
+       "modified_time" : "2018-10-30 11:21:39", 
+       "gameEngineID" : "3", 
+       "name" : "mat_4", 
+       "labels" : "", 
+       "languageID" : "26", 
+       "difficulty" : "1", 
+       "gameValue" : "100", 
+       "scoreDivider" : "2", 
+       "helperThreshold" : "100", 
+       "tokenForTest" : "QM1uDyZFtfctitdiCw9DrNi14geyjoT4", 
+       "testGameTheme" : "3", 
+       "testGameEnding" : "1", 
+       "isLaTeX" : "1", 
+       "gameID" : "3769", 
+       "engine" : "Read", 
+       "gameEngineName" : "Read", 
+       "gameEngineImage" : "engine_read.png", 
+       "gameEngineWizard" : "wiz_read", 
+       "count_the_score" : "1", 
+       "code" : "HU", 
+       "keyset" : "aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz", 
+       "owner" : { 
+          "userID" : "7", 
+          "userName" : "BGA", 
+          "userEmail" : "bga@classyedu.com", 
+          "joinedDate" : "2018-01-16 14:33:01", 
+          "languageID" : "26", 
+          "profilePicture" : "7/5e6f6c0ce8568.png", 
+          "description" : "null"
+       }, 
+       "isOwn" : "false", 
+       "marketModule" : "false", 
+       "super" : "false", 
+       "curriculums" : "false", 
+       "sharedMailLists" : "false", 
+       "defaultGameTheme" : "3", 
+       "gameTheme" : "2", 
+       "gameEnding" : "1", 
+       "screens" : [ 
+          { 
+             "questionID" : "98", 
+             "text_title" : "Szöveges példa", 
+             "text_content" : "Egy kilogramm csokoládé 8 euróba kerül, a gyümölcsös cukorka 2 euróval olcsóbb. Egy liter narancslé a csokoládé árának felébe kerül, egy kilogramm banán a narancslé árának felébe kerül. Arankának összesen 16 eurója van, amiből vásárolhat.", 
+             "info" : "", 
+             "time" : "180", 
+             "questions" : [ 
+                { 
+                   "questionID" : "129", 
+                   "question" : "1 kg gyümölcscukor ára  ??  euró .", 
+                   "answerGroups" : [ 
+                      [ 
+                         "6", 
+                         "4", 
+                         "5", 
+                         "7", 
+                         "8"
+                      ]
+                   ]
+                }, 
+                { 
+                   "questionID" : "130", 
+                   "question" : "Aranka vehet magának  ??  kiló csokoládét .", 
+                   "answerGroups" : [ 
+                      [ 
+                         "2", 
+                         "3", 
+                         "4"
+                      ]
+                   ]
+                }, 
+                { 
+                   "questionID" : "131", 
+                   "question" : "Aranka vehet magának  ??  liter narancslevet .", 
+                   "answerGroups" : [ 
+                      [ 
+                         "4", 
+                         "1", 
+                         "3", 
+                         "5"
+                      ]
+                   ]
+                }
+             ], 
+             "userAnswers" : { 
+                "answers" : [ 
+                   { 
+                      "id" : "4002", 
+                      "gamelogID" : "443240", 
+                      "questionID" : "129", 
+                      "answerTime" : "10.5653", 
+                      "isGood" : "0", 
+                      "questionIndex" : "0", 
+                      "answerIndex" : "3", 
+                      "readID" : "98"
+                   }, 
+                   { 
+                      "id" : "4003", 
+                      "gamelogID" : "443240", 
+                      "questionID" : "129", 
+                      "answerTime" : "2.633", 
+                      "isGood" : "1", 
+                      "questionIndex" : "0", 
+                      "answerIndex" : "0", 
+                      "readID" : "98"
+                   }, 
+                   { 
+                      "id" : "4004", 
+                      "gamelogID" : "443240", 
+                      "questionID" : "130", 
+                      "answerTime" : "2.2323", 
+                      "isGood" : "0", 
+                      "questionIndex" : "0", 
+                      "answerIndex" : "2", 
+                      "readID" : "98"
+                   }, 
+                   { 
+                      "id" : "4005", 
+                      "gamelogID" : "443240", 
+                      "questionID" : "130", 
+                      "answerTime" : "1.8664", 
+                      "isGood" : "0", 
+                      "questionIndex" : "0", 
+                      "answerIndex" : "1", 
+                      "readID" : "98"
+                   }, 
+                   { 
+                      "id" : "4006", 
+                      "gamelogID" : "443240", 
+                      "questionID" : "130", 
+                      "answerTime" : "1.6665", 
+                      "isGood" : "1", 
+                      "questionIndex" : "0", 
+                      "answerIndex" : "0", 
+                      "readID" : "98"
+                   }, 
+                   { 
+                      "id" : "4007", 
+                      "gamelogID" : "443240", 
+                      "questionID" : "131", 
+                      "answerTime" : "1.9996", 
+                      "isGood" : "0", 
+                      "questionIndex" : "0", 
+                      "answerIndex" : "1", 
+                      "readID" : "98"
+                   }, 
+                   { 
+                      "id" : "4008", 
+                      "gamelogID" : "443240", 
+                      "questionID" : "131", 
+                      "answerTime" : "1.5999", 
+                      "isGood" : "1", 
+                      "questionIndex" : "0", 
+                      "answerIndex" : "0", 
+                      "readID" : "98"
+                   }
+                ]
+             }
+          }
+       ], 
+       "images" : [ 
+       ], 
+       "log" : { 
+          "id" : "443240", 
+          "logTime" : "2022-01-06 15:18:45", 
+          "userID" : "7", 
+          "subjectID" : "19", 
+          "topicID" : "82", 
+          "courseID" : "172", 
+          "curriculumID" : "343", 
+          "gameID" : "3769", 
+          "gamePercent" : "42.857", 
+          "gameTime" : "31", 
+          "curriculumProgress" : "40", 
+          "curriculumStart" : "2022-01-06 15:16:48", 
+          "appID" : "5", 
+          "learnRoutePathID" : "32", 
+          "learnRoutePathStart" : "2022-01-06 15:16:43", 
+          "learnRoutePathProgress" : "40", 
+          "currentLevel" : "0", 
+          "flowStyle" : "simple", 
+          "gameIsolation" : "2022-01-06 15:18:04", 
+          "levelIsolation" : "2022-01-06 15:16:48", 
+          "levelingIsolation" : "null", 
+          "curriculumCoverage" : "40", 
+          "learnRoutePathCoverage" : "40", 
+          "gameSolved" : "0", 
+          "gameTheme" : "3", 
+          "gameEnding" : "1", 
+          "currentLevelNumber" : "1", 
+          "possibleMaxLevelNumber" : "1", 
+          "replayToken" : "GFC6XLpqZagidtbnruEwgJ87xw1Bpk1U"
+       }, 
+       "userAnswers" : [ 
+          { 
+             "id" : "4002", 
+             "gamelogID" : "443240", 
+             "questionID" : "129", 
+             "answerTime" : "10.5653", 
+             "isGood" : "0", 
+             "questionIndex" : "0", 
+             "answerIndex" : "3", 
+             "readID" : "98"
+          }, 
+          { 
+             "id" : "4003", 
+             "gamelogID" : "443240", 
+             "questionID" : "129", 
+             "answerTime" : "2.633", 
+             "isGood" : "1", 
+             "questionIndex" : "0", 
+             "answerIndex" : "0", 
+             "readID" : "98"
+          }, 
+          { 
+             "id" : "4004", 
+             "gamelogID" : "443240", 
+             "questionID" : "130", 
+             "answerTime" : "2.2323", 
+             "isGood" : "0", 
+             "questionIndex" : "0", 
+             "answerIndex" : "2", 
+             "readID" : "98"
+          }, 
+          { 
+             "id" : "4005", 
+             "gamelogID" : "443240", 
+             "questionID" : "130", 
+             "answerTime" : "1.8664", 
+             "isGood" : "0", 
+             "questionIndex" : "0", 
+             "answerIndex" : "1", 
+             "readID" : "98"
+          }, 
+          { 
+             "id" : "4006", 
+             "gamelogID" : "443240", 
+             "questionID" : "130", 
+             "answerTime" : "1.6665", 
+             "isGood" : "1", 
+             "questionIndex" : "0", 
+             "answerIndex" : "0", 
+             "readID" : "98"
+          }, 
+          { 
+             "id" : "4007", 
+             "gamelogID" : "443240", 
+             "questionID" : "131", 
+             "answerTime" : "1.9996", 
+             "isGood" : "0", 
+             "questionIndex" : "0", 
+             "answerIndex" : "1", 
+             "readID" : "98"
+          }, 
+          { 
+             "id" : "4008", 
+             "gamelogID" : "443240", 
+             "questionID" : "131", 
+             "answerTime" : "1.5999", 
+             "isGood" : "1", 
+             "questionIndex" : "0", 
+             "answerIndex" : "0", 
+             "readID" : "98"
+          }
+       ]
+    }
+}

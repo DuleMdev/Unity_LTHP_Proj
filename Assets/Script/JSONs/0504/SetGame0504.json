@@ -1,0 +1,136 @@
+{
+	"task" : [
+		{
+			"gameType" : "Sets",
+			"question" : "Húzd a számokat a megfelelő halmazba!",
+	
+			"set" : [
+				{	"setName" : "Páros számok",
+					"setPicture" : "",
+					"items" : ["1900", "1904", "1908", "1912", "1916"] },
+			
+				{	"setName" : "Páratlan számok",
+					"setPicture" : "",
+					"items" : ["1"901, "1905", "1909", "1913", "1917", "1921", "1925", "1929"] },
+			],
+	
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Sets",
+			"question" : "Húzd a számokat a megfelelő halmazba!",
+	
+			"set" : [
+				{	"setName" : "Egyesek halmaza",
+					"setPicture" : "",
+					"items" : ["9", "8", "7", "6", "5", "4"] },
+			
+				{	"setName" : "Tízesek halmaza",
+					"setPicture" : "",
+					"items" : ["23", "22", "21", "20", "19", "18"] },
+			
+				{	"setName" : "Százasok halmaza",
+					"setPicture" : "",
+					"items" : ["116", "115", "114", "113", "112"] },
+			],
+	
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Sets",
+			"question" : "",
+	
+			"set" : [
+				{	"setName" : "nyitvatermő",
+					"setPicture" : "",
+					"items" : ["#erdeifenyo.jpg", ] },
+			
+				{	"setName" : "csonthéjas",
+					"setPicture" : "",
+					"items" : ["#szilva.jpg", "#dio.jpg", "mogyoró", "#mandula.jpg"] },
+
+				{	"setName" : "magházas",
+					"setPicture" : "",
+					"items" : ["#alma.jpg", "#korte.jpg"] },
+			],
+			
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Sets",
+			"question" : "Csoportosítsd a növényeket fogyaszthatóságuk szerint!",
+	
+			"set" : [
+				{	"setName" : "Fogyasztható termés",
+					"setPicture" : "",
+					"items" : ["uborka", "paradicsom", "#szolo.jpg", "#paprika.jpg"] },
+			
+				{	"setName" : "Nem fogyasztható termés",
+					"setPicture" : "",
+					"items" : ["tulipán toktermése", "burgonya bogyótermése", "#makk.jpg", "#toboz.jpg"] },
+
+				{	"setName" : "Fogyasztható mag",
+					"setPicture" : "",
+					"items" : ["bab", "tökmag", "#napraforgomag.jpg", "#mak.jpg"] },
+
+				{	"setName" : "Nem fogyasztható mag",
+					"setPicture" : "",
+					"items" : ["hagymamag", "répamag", "lóheremag", "#szilvamag.jpg"] },
+			],
+				
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+
+		{
+			"gameType" : "Sets",
+			"question" : "Csoportosítsd az állatokat aszerint, hogy mivel táplálkoznak!",
+	
+			"set" : [
+				{	"setName" : "Növényevő",
+					"setPicture" : "",
+					"items" : ["őz", "ló", "cserebogár", "szöcske", "tehén", "liba", "selyemhernyó"] },
+			
+				{	"setName" : "Ragadozó",
+					"setPicture" : "",
+					"items" : ["farkas", "sas", "csuka"] },
+			
+				{	"setName" : "Mindenevő",
+					"setPicture" : "",
+					"items" : ["tyúk", "vaddisznó", "medve", "borz"] },
+			],
+	
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Sets",
+			"question" : "Csoportosítsd az élőlényeket aszerint, hogy hol élnek az erdő szintjeiben!",
+	
+			"set" : [
+				{	"setName" : "Talajszint",
+					"setPicture" : "talajszint.png",
+					"items" : ["hangya", "erdei egér", "sün", "#Pafrany.jpg", "#IllatosIbolya.jpg", "gyöngyvirág", "fű"] },
+			
+				{	"setName" : "Cserjeszint",
+					"setPicture" : "cserjeszint.png",
+					"items" : ["#Butterfly.jpg", "darazsak", "méhek"] },
+			
+				{	"setName" : "Lombkoronaszint",
+					"setPicture" : "lombkorona.png",
+					"items" : ["#Squirrel.jpg", "#Woodpecker.jpg", "cserebogár", "szarvasbogár"] },
+			],
+	
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+	]
+}

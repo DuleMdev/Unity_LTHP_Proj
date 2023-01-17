@@ -1,0 +1,134 @@
+﻿{ 
+   "error" : "false", 
+   "answer" : { 
+      "pathData" : { 
+         "flowStyle" : "simple", 
+         "gameIsolation" : "2020-02-11 08:52:53", 
+         "currentLevel" : "1", 
+         "levelIsolation" : "2020-02-05 17:03:43", 
+         "userID" : "3", 
+         "learnRoutePathID" : "84", 
+         "learnRoutePathStart" : "2020-02-05 17:03:37", 
+         "subjectID" : "19", 
+         "topicID" : "107", 
+         "courseID" : "286", 
+         "curriculumID" : "499", 
+         "curriculumIsolationTime" : "2020-02-05 17:03:43"
+      }, 
+      "gameData" : { 
+         "id" : "6580", 
+         "engine" : "Affix", 
+         "name" : "AFFIX", 
+         "labels" : "TEST", 
+         "difficulty" : "1", 
+         "keyset" : "HU", 
+         "screens" : [ 
+            { 
+               "questionID" : "286", 
+               "question" : "DUCK?", 
+               "time" : "500", 
+               "questions" : [ 
+                  { 
+                     "treeItemID" : "667", 
+                     "question" : "DUCK", 
+                     "solutions" : [ 
+                        { 
+                           "solutionID" : "688", 
+                           "solution" : "DUCK x \\style [i] x \\style [bi] x \\math {x} x \\style[n] DUCK"
+                        }
+                     ]
+                  },
+				  { 
+                     "treeItemID" : "667", 
+                     "question" : "\\frac {1}{1} Egy", 
+                     "solutions" : [ 
+                        { 
+                           "solutionID" : "689", 
+                           "solution" : "1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890"
+                        }
+                     ]
+                  },
+				  { 
+                     "treeItemID" : "667", 
+                     "question" : "Kettő", 
+                     "solutions" : [ 
+                        { 
+                           "solutionID" : "6881", 
+                           "solution" : "2"
+                        }
+                     ]
+                  },
+				  { 
+                     "treeItemID" : "667", 
+                     "question" : "Három", 
+                     "solutions" : [ 
+                        { 
+                           "solutionID" : "6882", 
+                           "solution" : "3"
+                        }
+                     ]
+                  }
+               ], 
+               "distractors" : [ 
+                  { 
+                     "disctractorID" : "323", 
+                     "distractor" : "KCUD"
+                  }
+               ]
+            },
+            { 
+               "questionID" : "286", 
+               "question" : "SECOND SCREEN - DUCK?", 
+               "time" : "18", 
+               "questions" : [ 
+                  { 
+                     "treeItemID" : "667", 
+                     "question" : "DUCK", 
+                     "solutions" : [ 
+                        { 
+                           "solutionID" : "688", 
+                           "solution" : "DUCK"
+                        }
+                     ]
+                  }
+               ], 
+               "distractors" : [ 
+                  { 
+                     "disctractorID" : "323", 
+                     "distractor" : "KCUD"
+                  }
+               ]
+            }
+
+         ],
+         "gameTheme" : "2", 
+         "gameEnding" : "1",
+		 "playAnimation" : "false"
+      },
+	  "statusData" : { 
+          "show" : "true", 
+          "isComplete" : "false", 
+          "gamePercent" : "0", 
+          "gameSolved" : "false", 
+          "gameTime" : "0", 
+          "gameScore" : "0", 
+          "maxGameScore" : "0", 
+          "starCount" : "0", 
+          "curriculumProgress" : "0", 
+          "curriculumCoverage" : "0", 
+          "curriculumScore" : "0", 
+          "learnRoutePathProgress" : "0", 
+          "learnRoutePathCoverage" : "0", 
+          "learnRoutePathScore" : "0", 
+          "levelIndicator" : "-1", 
+          "levelIndicatorText" : "levelDown", 
+          "statusInfo" : "normalWrongAnswerGoToNextGame", 
+          "nextGameScore" : "50", 
+          "learnRoutePathPossibleMaxScore" : "0", 
+          "currentLevel" : "0", 
+          "currentLevelNumber" : "1", 
+          "possibleMaxLevelNumber" : "1", 
+          "maxLevelNumber" : "1"
+       }
+   }
+}

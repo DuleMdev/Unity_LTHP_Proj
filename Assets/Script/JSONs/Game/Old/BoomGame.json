@@ -1,0 +1,93 @@
+﻿{
+	"task" : [
+		{
+			"gameType" : "Boom",
+			
+			"question" : "Melyik növénynek esszük a gyökerét?",
+			"goodanswers" : [ "#zeller.jpg", "#pasztinak.jpg", "#petrezselyem.jpg", "#sargarepa.jpg", "#cekla.jpg", ],
+			"wronganswers" : [ "#alma.jpg", "#karalabe.jpg", "#zoldbab.jpg", "#uborka.jpg", ],
+			
+			"showtime" : "1.0",
+			"breaktime" : "0.5",
+			
+			"lifeNumber" : 0,
+			"round" : 3,
+			"random" : "true",
+			"needgoodanswers" : "true",
+			"showgoodanswersplace" : "true",
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Boom",
+			
+			"question" : "Válaszd ki a terméseket!",
+			"goodanswers" : [ "#szilva.jpg", "#alma.jpg", "#korte.jpg", "#paradicsom.jpg", ],
+			"wronganswers" : [ "#rozsa.jpg", "#spenot.jpg", "#salata.jpg", "#gyermeklancfu.jpg", ],
+			
+			"showtime" : "1.0",
+			"breaktime" : "0.5",
+			
+			"lifeNumber" : 0,
+			"round" : 3,
+			"random" : "true",
+			"needgoodanswers" : "true",
+			"showgoodanswersplace" : "true",
+			"time" : 60,
+		},
+		
+		{
+			"gameType" : "Boom",
+			
+			"question" : "Válaszd ki a terméseket!",
+			"goodanswers" : [ "eper", "dinnye", "uborka", "paprika", "banán", "toboz", "makk", "szőlő", ],
+			"wronganswers" : [ "pipacs", "orgona", ],
+			
+			"showtime" : "1.0",
+			"breaktime" : "0.5",
+			
+			"lifeNumber" : 0,
+			"round" : 3,
+			"random" : "true",
+			"needgoodanswers" : "true",
+			"showgoodanswersplace" : "true",
+			"time" : 60,
+		},
+	
+		{
+			"gameType" : "Boom",
+			
+			"question" : "Válaszd ki a hárommal osztható számokat a sorozatból!",
+			"goodanswers" : [ "3", "9", "12", "15", "18", ],
+			"wronganswers" : [ "2", "5", "7", "11", "16", "22", ],
+			
+			"showtime" : "1.0",
+			"breaktime" : "0.5",
+			
+			"lifeNumber" : 0,
+			"round" : 3,
+			"random" : "true",
+			"needgoodanswers" : "true",
+			"showgoodanswersplace" : "true",
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Boom",
+			
+			"question" : "Válaszd ki a hárommal osztható számokat a sorozatból!",
+			"goodanswers" : [ "3", "9", "12", "15", "18", "69", "21", "6", ],
+			"wronganswers" : [ "2", "5", "7", "11", "16", "22", "53", "14", "23", "32", ],
+
+			"showtime" : "0.8",
+			"breaktime" : "0.2",
+			
+			"lifeNumber" : 0,
+			"round" : 3,
+			"random" : "true",
+			"needgoodanswers" : "true",
+			"time" : 60,
+		},
+		
+	]
+}

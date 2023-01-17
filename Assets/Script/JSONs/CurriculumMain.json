@@ -1,0 +1,13 @@
+﻿{
+	"Megjegyzés": "Ez a json egy alap GetCurriculumForPlay választ tartalmaz, ha tesztelni szeretnénk bizonyos játékokat.",
+	"error": "false",
+	"answer": {
+		"id": "519",
+		"name": "Curriculum teszt",
+		"newCurriculumIsolationTimeForContinue": "2019-06-24 12:27:20",
+		"lastCurriculumIsolationTimeForContinue": "null",
+		"automatedGames": [],
+		"plannedGames": [
+		]
+	}
+}

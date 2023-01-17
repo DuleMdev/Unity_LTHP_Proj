@@ -1,0 +1,76 @@
+﻿{
+	"roster" : [
+		{
+			"ID" : "1",
+			"name" : "Gipsz Jakab",
+			"stars" : "20",
+			"points" : "128",
+		},
+		
+		{
+			"ID" : "2",
+			"name" : "Iksz Ipszilon",
+			"stars" : "38",
+			"points" : "259",
+		},
+
+		{
+			"ID" : "3",
+			"name" : "Hát Izsák",
+			"stars" : "12",
+			"points" : "12",
+		},
+
+		{
+			"ID" : "4",
+			"name" : "Piros Arany",
+			"stars" : "1,
+			"points" : "1",
+		},
+
+		{
+			"ID" : "5",
+			"name" : "Fekete Péter",
+			"stars" : "99",
+			"points" : "999",
+		},
+
+		{
+			"ID" : "6",
+			"name" : "Illatos Ibolya",
+			"stars" : "128",
+			"points" : "1025",
+		},
+
+		{
+			"ID" : "7",
+			"name" : "Abszurd Alfréd",
+			"stars" : "13",
+			"points" : "31",
+		},
+
+		{
+			"ID" : "8",
+			"name" : "Lókötő Lóránd",
+			"stars" : "8",
+			"points" : "91",
+		},
+		
+		{
+			"ID" : "9",
+			"name" : "Arany Ember",
+			"stars" : "101",
+			"points" : "1001",
+		},
+
+		{
+			"ID" : "10",
+			"name" : "Csodás Csilla",
+			"stars" : "56",
+			"points" : "187",
+		},
+		
+		
+		
+	]
+}

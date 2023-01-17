@@ -1,0 +1,75 @@
+{
+	"task" : [
+		{
+			"gameType" : "Affix",
+			
+			"questions" : [
+				{ 	"question" : "any-",
+					"answers" : [ "ja", ],
+				},
+				{ 	"question" : "bé-",
+					"answers" : [ "lyeg", ],
+				},
+				{ 	"question" : "cser-",
+					"answers" : [ "je", ],
+				},
+				{ 	"question" : "pá-",
+					"answers" : [ "lya", ],
+				},
+			],
+			
+			"answers" : [ "ja", "jeg", "lya", "lyeg", "je", "lya", "lye" ],
+			
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Affix",
+			
+			"questions" : [
+				{ 	"question" : "király",
+					"answers" : [ "nő", "fi" ],
+				},
+				{ 	"question" : "jeges",
+					"answers" : [ "medve", ],
+				},
+				{ 	"question" : "osztály",
+					"answers" : [ "terem", "társ" ],
+				},
+				{ 	"question" : "kulcs",
+					"answers" : [ "lyuk", "tartó" ],
+				},
+			],
+			
+			"answers" : [ "nő", "tartó", "fi", "lyuk", "medve", "társ", "terem" ],
+
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Affix",
+			
+			"questions" : [
+				{ 	"question" : "6, 8, 10",
+					"answers" : [ "12", ],
+				},
+				{ 	"question" : "7, 9, 11",
+					"answers" : [ "13", ],
+				},
+				{ 	"question" : "20, 30, 40",
+					"answers" : [ "50", ],
+				},
+				{ 	"question" : "25, 50, 75",
+					"answers" : [ "100", ],
+				},
+			],
+			
+			"answers" : [ "12", "50", "14", "95", "13", "65", "100" ],
+
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+	]
+}

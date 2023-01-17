@@ -1,0 +1,262 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : { 
+       "items" : [ 
+          { 
+             "id" : "151", 
+             "gameID" : "18133", 
+             "gameName" : "vid1", 
+             "observedGroupName" : "megfigyelt1", 
+             "isOwnInvestment" : "false", 
+             "isActive" : "false", 
+             "userCodeWords" : [ 
+                "megfigyelt1"
+             ], 
+             "itemCodeWords" : [ 
+                "megfigyelt2", 
+                "megfigyelt3"
+             ], 
+             "codeWordConflict" : "true", 
+             "userIsAlreadyInvested" : "false", 
+             "investable" : "false"
+          }, 
+          { 
+             "id" : "152", 
+             "gameID" : "18134", 
+             "gameName" : "vid2", 
+             "observedGroupName" : "megfigyelt2", 
+             "isOwnInvestment" : "false", 
+             "isActive" : "false", 
+             "userCodeWords" : [ 
+                "megfigyelt1"
+             ], 
+             "itemCodeWords" : [ 
+                "megfigyelt1", 
+                "megfigyelt3"
+             ], 
+             "codeWordConflict" : "false", 
+             "userIsAlreadyInvested" : "false", 
+             "investable" : "false"
+          }, 
+          { 
+             "id" : "153", 
+             "gameID" : "18135", 
+             "gameName" : "vid3", 
+             "observedGroupName" : "megfigyelt3", 
+             "isOwnInvestment" : "false", 
+             "isActive" : "false", 
+             "userCodeWords" : [ 
+                "megfigyelt1"
+             ], 
+             "itemCodeWords" : [ 
+                "megfigyelt1", 
+                "megfigyelt2"
+             ], 
+             "codeWordConflict" : "false", 
+             "userIsAlreadyInvested" : "false", 
+             "investable" : "false"
+          }
+       ], 
+       "ownProfile" : { 
+          "mailListItemID" : "1539140", 
+          "mailListID" : "893", 
+          "mailListName" : "startup_tesztcsoport", 
+          "observedGroupID" : "55", 
+          "observedGroupName" : "megfigyelt1", 
+          "userID" : "2146", 
+          "email" : "domo001@erettsegi.ro", 
+          "name" : "domo001", 
+          "profilePicture" : "2146/5fdc9a3c7ef9b.png", 
+          "coinsFromLearning" : "1000", 
+          "investable" : "0", 
+          "invested" : "0", 
+          "yield" : "5", 
+          "badges" : [ 
+          ], 
+          "place" : "1", 
+          "ownership" : "33.33%", 
+          "marketSituation" : { 
+             "ownPlace" : "1", 
+             "ownInvested" : "0", 
+             "minInvested" : "5", 
+             "maxInvested" : "5"
+          }
+       }, 
+       "companyProfile" : { 
+          "name" : "megfigyelt1", 
+          "coinsFromItems" : "0", 
+          "coinsFromLearning" : "300", 
+          "partners" : [ 
+             { 
+                "mailListItemID" : "1539140", 
+                "mailListID" : "893", 
+                "mailListName" : "startup_tesztcsoport", 
+                "observedGroupID" : "55", 
+                "observedGroupName" : "megfigyelt1", 
+                "userID" : "2146", 
+                "email" : "domo001@erettsegi.ro", 
+                "name" : "domo001", 
+                "profilePicture" : "2146/5fdc9a3c7ef9b.png", 
+                "coinsFromLearning" : "1000", 
+                "investable" : "0", 
+                "invested" : "0", 
+                "yield" : "5", 
+                "badges" : [ 
+                ], 
+                "place" : "1", 
+                "ownership" : "33.33%"
+             }, 
+             { 
+                "mailListItemID" : "1539141", 
+                "mailListID" : "893", 
+                "mailListName" : "startup_tesztcsoport", 
+                "observedGroupID" : "55", 
+                "observedGroupName" : "megfigyelt1", 
+                "userID" : "2147", 
+                "email" : "domo002@erettsegi.ro", 
+                "name" : "domo002", 
+                "profilePicture" : "2147/5fdc9a3c985e1.png", 
+                "coinsFromLearning" : "1000", 
+                "investable" : "0", 
+                "invested" : "0", 
+                "yield" : "5", 
+                "badges" : [ 
+                ], 
+                "place" : "1", 
+                "ownership" : "33.33%"
+             }, 
+             { 
+                "mailListItemID" : "1539142", 
+                "mailListID" : "893", 
+                "mailListName" : "startup_tesztcsoport", 
+                "observedGroupID" : "55", 
+                "observedGroupName" : "megfigyelt1", 
+                "userID" : "2148", 
+                "email" : "domo003@erettsegi.ro", 
+                "name" : "domo003", 
+                "profilePicture" : "2148/5fdc9a3cb1bfa.png", 
+                "coinsFromLearning" : "1000", 
+                "investable" : "0", 
+                "invested" : "0", 
+                "yield" : "5", 
+                "badges" : [ 
+                ], 
+                "place" : "1", 
+                "ownership" : "33.33%"
+             }
+          ], 
+          "marketSituation" : { 
+             "minCompanyValue" : "300", 
+             "maxCompanyValue" : "300", 
+             "ownCompanyValue" : "300", 
+             "ownCompanyPlace" : "1"
+          }
+       }, 
+       "currentModuleRemainingTime" : "-1", 
+       "nextModuleRemainingTime" : "-1", 
+       "webshop" : { 
+          "error" : "false", 
+          "answer" : { 
+             "id" : "1", 
+             "appID" : "11", 
+             "webshopStart" : "2021-05-31 15:55:21", 
+             "webshopEnd" : "2021-06-11 23:59:59",
+             "remainingTime": 979081,
+				"items"        : [
+				  {
+				    "id"               : 1,
+				    "webshopID"        : 1,
+				    "itemName"         : "duck1",
+				    "itemImage"        : "duck1.png",
+				    "itemPrice"        : 66,
+				    "purchasedQuantity": 1
+				  },
+				  {
+				    "id"               : 2,
+				    "webshopID"        : 1,
+				    "itemName"         : "duck2",
+				    "itemImage"        : "duck2.png",
+				    "itemPrice"        : 99,
+				    "purchasedQuantity": 2
+				  },
+				  {
+				    "id"               : 1,
+				    "webshopID"        : 1,
+				    "itemName"         : "duck1",
+				    "itemImage"        : "duck1.png",
+				    "itemPrice"        : 66,
+				    "purchasedQuantity": 0
+				  },
+				  {
+				    "id"               : 2,
+				    "webshopID"        : 1,
+				    "itemName"         : "duck2",
+				    "itemImage"        : "duck2.png",
+				    "itemPrice"        : 99,
+				    "purchasedQuantity": 0
+				  }
+			  ]
+           }
+       }, 
+       "achievements" : { 
+          "error" : "false", 
+          "answer" : { 
+             "userName" : "domo001", 
+             "userEmail" : "domo001@erettsegi.ro", 
+             "profilePicture" : "2146/5fdc9a3c7ef9b.png", 
+             "bronze" : { 
+                "playTime" : "00:00:42", 
+                "playCount" : "1", 
+                "bronzeCoinsFromLearning" : "1000", 
+                "maxCoinsFromLearning" : "1000", 
+                "coinsFromLearningPercent" : "100", 
+                "badges" : [ 
+                ]
+             }, 
+             "silver" : { 
+                "copanyName" : "megfigyelt1", 
+                "silverCoinsFromLearning" : "300", 
+                "capitalGains" : "0", 
+                "companyValue" : "300", 
+                "partners" : [ 
+                   { 
+                      "name" : "domo001", 
+                      "email" : "domo001@erettsegi.ro", 
+                      "coinsFromLearning" : "100"
+                   }, 
+                   { 
+                      "name" : "domo002", 
+                      "email" : "domo002@erettsegi.ro", 
+                      "coinsFromLearning" : "100"
+                   }, 
+                   { 
+                      "name" : "domo003", 
+                      "email" : "domo003@erettsegi.ro", 
+                      "coinsFromLearning" : "100"
+                   }
+                ], 
+                "companyPlace" : "1", 
+                "investable" : "30", 
+                "badges" : [ 
+                ], 
+                "invested" : "0", 
+                "mostValuable" : "300", 
+                "leastValuable" : "300", 
+                "lastPlace" : "1"
+             }, 
+             "gold" : { 
+                "investmentsYield" : "0", 
+                "exitYield" : "5", 
+                "yield" : "5", 
+                "allGoldCoins" : "45", 
+                "mostGoldCoins" : "5", 
+                "leastGoldCoins" : "5", 
+                "place" : "1", 
+                "lastPlace" : "1", 
+                "badges" : [ 
+                ]
+             }
+          }
+       }
+    }
+}

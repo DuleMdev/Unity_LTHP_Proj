@@ -1,0 +1,90 @@
+{ 
+    "error" : "false", 
+    "answer" : { 
+       "items" : [ 
+          { 
+             "id" : "1", 
+             "marketModuleID" : "1", 
+             "gameID" : "3515", 
+             "gameName" : "ez egy pdf termek ize", 
+             "observedGroupName" : "Mókus csoport", 
+             "isLive" : "true", 
+             "isOwnInvestment" : "false", 
+             "investable" : "false"
+          }, 
+          { 
+             "id" : "2", 
+             "marketModuleID" : "1", 
+             "gameID" : "3516", 
+             "gameName" : "ez masik termek ize", 
+             "observedGroupName" : "Mókus csoport", 
+             "isLive" : "true", 
+             "isOwnInvestment" : "false", 
+             "investable" : "false"
+          }, 
+          { 
+             "id" : "3", 
+             "marketModuleID" : "2", 
+             "gameID" : "3517", 
+             "gameName" : "sdrfgedrt", 
+             "observedGroupName" : "Mókus csoport", 
+             "isLive" : "false", 
+             "isOwnInvestment" : "false", 
+             "investable" : "false"
+          }
+       ], 
+       "ownProfile" : { 
+          "name" : "Gipsz Jakab", 
+          "yield" : "0", 
+          "investable" : "0", 
+          "invested" : "0", 
+          "marketSituation" : { 
+             "minInvested" : "0", 
+             "maxInvested" : "0", 
+             "ownInvested" : "0", 
+             "ownPlace" : "0"
+          }
+       }, 
+       "companyProfile" : { 
+          "name" : "Mókus csoport", 
+          "coinsFromItems" : "0", 
+          "coinsFromLearning" : "0", 
+          "partners" : [ 
+             { 
+                "name" : "Borsos Endre", 
+                "coinsFromLearning" : "0", 
+                "ownership" : "33.33"
+             }, 
+             { 
+                "name" : "borsoslidia", 
+                "coinsFromLearning" : "0", 
+                "ownership" : "33.33"
+             }, 
+             { 
+                "name" : "kacsa", 
+                "coinsFromLearning" : "0", 
+                "ownership" : "33.33"
+             }
+          ], 
+          "marketSituation" : { 
+             "minCompanyValue" : "0", 
+             "maxCompanyValue" : "0", 
+             "ownCompanyValue" : "0", 
+             "ownCompanyPlace" : "1"
+          }
+       }, 
+       "currentModuleRemainingTime" : "null", 
+       "nextModuleRemainingTime" : "30943"
+    }, 
+    "debugLocation" : { 
+       "file" : "Marketplace.php", 
+       "db" : "beegang_classyduck", 
+       "time" : { 
+          "date" : "2018-10-17 16:29:17.000000", 
+          "timezone_type" : "3", 
+          "timezone" : "Europe/Budapest"
+       }, 
+       "function" : "getMarketModuleItems", 
+       "line" : "319"
+    }
+ }

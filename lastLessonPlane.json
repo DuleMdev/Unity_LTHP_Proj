@@ -1,0 +1,403 @@
+{ 
+    "id" : "66", 
+    "name" : "Minden tipus", 
+    "subject" : "0", 
+    "language" : "0", 
+    "lessonMosaics" : [ 
+       { 
+          "name" : "Óra-mozaik", 
+          "multiplayer" : "0", 
+          "games" : [ 
+             { 
+                "id" : "1029", 
+                "gameType" : "Sets", 
+                "gameID" : "4-DJ-4-MT-magyar", 
+                "labels" : "MT; Alg; százas; párospáratlan; oszthatóság; római", 
+                "screens" : [ 
+                   { 
+                      "question" : "Húzd a számokat a megfelelő helyre!", 
+                      "set" : [ 
+                         { 
+                            "setName" : "páros számok", 
+                            "items" : [ 
+                               "II", 
+                               "VIII", 
+                               "CIV", 
+                               "XXII", 
+                               "MM"
+                            ]
+                         }, 
+                         { 
+                            "setName" : "páratlan számok", 
+                            "items" : [ 
+                               "V", 
+                               "IC", 
+                               "MI", 
+                               "VII", 
+                               "LIII"
+                            ]
+                         }, 
+                         { 
+                            "setName" : "osztható 3-mal", 
+                            "items" : [ 
+                               "III", 
+                               "XXI", 
+                               "IX", 
+                               "XII"
+                            ]
+                         }
+                      ]
+                   }
+                ], 
+                "pictures" : [ 
+                ]
+             }, 
+             { 
+                "id" : "999", 
+                "gameType" : "Millionaire", 
+                "gameID" : "2-CST-15-MT-magyar", 
+                "labels" : "MT; Alg; szakkifejezés-fogalom; oszthatóság; összeadás; kivonás; páros-páratlan", 
+                "screens" : [ 
+                   { 
+                      "question" : "Melyik művelet eredménye páros?", 
+                      "goodAnswers" : [ 
+                         "567*4", 
+                         "769+253", 
+                         "6546/3", 
+                         "5461-2987"
+                      ], 
+                      "wrongAnswers" : [ 
+                         "459*7", 
+                         "857+1246", 
+                         "7215/3", 
+                         "7642-4917"
+                      ]
+                   }
+                ], 
+                "pictures" : [ 
+                ]
+             }, 
+             { 
+                "id" : "782", 
+                "gameType" : "Boom", 
+                "gameID" : "2-CST-17-MT-magyar", 
+                "labels" : "MT; Alg; szakkifejezés-fogalom; szám; számjegy; ezres; helyiérték", 
+                "screens" : [ 
+                   { 
+                      "question" : "Melyik számokban áll a legnagyobb alaki értékű számjegy a legkisebb helyiértéken?", 
+                      "goodanswers" : [ 
+                         "1112", 
+                         "5007", 
+                         "5506", 
+                         "4135"
+                      ], 
+                      "wronganswers" : [ 
+                         "3706", 
+                         "465", 
+                         "4073", 
+                         "49970", 
+                         "5671", 
+                         "9990"
+                      ]
+                   }
+                ], 
+                "pictures" : [ 
+                ]
+             }, 
+             { 
+                "id" : "947", 
+                "gameType" : "Read", 
+                "gameID" : "1-ELE-19-MT-magyar", 
+                "labels" : "MT; Alg; ezres; szöveges; összetett művelet", 
+                "screens" : [ 
+                   { 
+                      "id" : "61", 
+                      "storyTitle" : "Szöveges példa", 
+                      "story" : "Marci nagyapja méhész. Nyolc méhkasa van. Minden méhkasban körülbelül 16 000 méh van. Hány méh lehet a kasokban összesen?", 
+                      "questions" : [ 
+                         { 
+                            "question" : "Marci  ??  méhész.", 
+                            "answerGroups" : [ 
+                               [ 
+                                  "nagyapja", 
+                                  "nagymamája", 
+                                  "apja", 
+                                  "apukája"
+                               ]
+                            ]
+                         }, 
+                         { 
+                            "question" : "A méhkasok száma  ?? .", 
+                            "answerGroups" : [ 
+                               [ 
+                                  "nyolc", 
+                                  "6", 
+                                  "16000", 
+                                  "több mint 100000"
+                               ]
+                            ]
+                         }, 
+                         { 
+                            "question" : "A kasokban összesen  ??  méh van összesen.", 
+                            "answerGroups" : [ 
+                               [ 
+                                  "128000", 
+                                  "12800", 
+                                  "48000", 
+                                  "148000", 
+                                  "kevesebb mint 100000"
+                               ]
+                            ]
+                         }
+                      ]
+                   }
+                ]
+             }, 
+             { 
+                "id" : "528", 
+                "gameType" : "Hangman", 
+                "gameID" : "4-M-13-MT-magyar", 
+                "labels" : "MT; Alg; szakkifejezés-fogalom; állítás; oszthatóság", 
+                "screens" : [ 
+                   { 
+                      "screenQuestion" : "Oszthatóság", 
+                      "question" : "Minden öttel osztható szám nullára, vagy ötre végződik.", 
+                      "keyset" : "hu", 
+                      "lifeNumber" : "15"
+                   }
+                ]
+             }, 
+             { 
+                "id" : "966", 
+                "gameType" : "Fish", 
+                "gameID" : "3-CST-14-MT-magyar", 
+                "labels" : "MT: szakkifejezés-fogalom; művelet; számok", 
+                "screens" : [ 
+                   { 
+                      "id" : "156", 
+                      "screenquestion" : "Keresd meg az odaillő kifejezést!", 
+                      "questions" : [ 
+                         "Ha egy műveletsorban összeadás és szorzás is szerepel, akkor a ?(szorzást) végezzük el először."
+                      ], 
+                      "answers" : [ 
+                         "szorzást", 
+                         "összeadást", 
+                         "kivonást", 
+                         "osztást"
+                      ]
+                   }, 
+                   { 
+                      "id" : "157", 
+                      "screenquestion" : "Keresd meg az odaillő kifejezést!", 
+                      "questions" : [ 
+                         "Ha egy műveletsorban összeadás és osztás is szerepel, akkor a ?(osztást) végezzük el először."
+                      ], 
+                      "answers" : [ 
+                         "osztást", 
+                         "összeadást", 
+                         "kivonást", 
+                         "szorzást"
+                      ]
+                   }, 
+                   { 
+                      "id" : "158", 
+                      "screenquestion" : "Keresd meg az odaillő kifejezést!", 
+                      "questions" : [ 
+                         "Ha egy műveletsorban kivonás és szorzás is szerepel, akkor a ?(szorzást) végezzük el először."
+                      ], 
+                      "answers" : [ 
+                         "szorzást", 
+                         "összeadást", 
+                         "kivonást", 
+                         "osztást"
+                      ]
+                   }, 
+                   { 
+                      "id" : "159", 
+                      "screenquestion" : "Keresd meg az odaillő kifejezést!", 
+                      "questions" : [ 
+                         "Ha egy műveletsorban kivonás és osztás is szerepel, akkor a ?(osztást) végezzük el először."
+                      ], 
+                      "answers" : [ 
+                         "osztást", 
+                         "összeadást", 
+                         "kivonást", 
+                         "szorzást"
+                      ]
+                   }
+                ]
+             }, 
+             { 
+                "id" : "180", 
+                "gameType" : "MathMonster", 
+                "gameID" : "1-FR-21-MA-magyar", 
+                "labels" : "KÖ jellemző szövegértés", 
+                "screens" : [ 
+                   { 
+                      "id" : "10", 
+                      "screenquestion" : "Válaszd ki a helyes választ és húzd a helyére!", 
+                      "questions" : [ 
+                         { 
+                            "question" : "Hazánk éghajlatának jellemzője, hogy egy évet ?(négy) évszakra osztunk."
+                         }
+                      ], 
+                      "wrongAnswers" : [ 
+                         "négy", 
+                         "egy", 
+                         "6", 
+                         "12", 
+                         "7", 
+                         "kilenc", 
+                         "21", 
+                         "99", 
+                         "öt\t"
+                      ]
+                   }, 
+                   { 
+                      "id" : "11", 
+                      "screenquestion" : "Válaszd ki a helyes választ és húzd a helyére!", 
+                      "questions" : [ 
+                         { 
+                            "question" : "Egy évben ?(12) hónap van."
+                         }
+                      ], 
+                      "wrongAnswers" : [ 
+                         "12", 
+                         "egy", 
+                         "6", 
+                         "12", 
+                         "7", 
+                         "kilenc", 
+                         "21", 
+                         "99", 
+                         "öt\t"
+                      ]
+                   }
+                ]
+             }, 
+             { 
+                "id" : "56", 
+                "gameType" : "TrueOrFalse", 
+                "gameID" : "1-FR-3-MA-magyar", 
+                "labels" : "IR; szövegértés; leírás; mondat", 
+                "screens" : [ 
+                   { 
+                      "question" : "\"Nézegették a jégvirágformákat, amiket még a festő és grafikusművészek is megirigyelhettek volna, olyan szépek és tökéletesek voltak, hogy utánozni nem lehetett őket.\"                                                A jégvirágokat nehéz utánozni.", 
+                      "goodAnswer" : "true", 
+                      "time" : "30"
+                   }
+                ]
+             }, 
+             { 
+                "id" : "606", 
+                "gameType" : "Bubble", 
+                "gameID" : "3-CST-5-MT-magyar", 
+                "labels" : "MT; Alg; százas; szorzás; osztás; állítás", 
+                "screens" : [ 
+                   { 
+                      "question" : "Ha egy számot elosztunk 3-mal, majd a kapott számot megszorozzuk 15-tel, akkor az eredeti szám hányszorosát kapjuk?", 
+                      "goodAnswers" : [ 
+                         "5"
+                      ], 
+                      "wrongAnswers" : [ 
+                         "12", 
+                         "18", 
+                         "3", 
+                         "45", 
+                         "15"
+                      ], 
+                      "goodAnswerPiece" : "1"
+                   }
+                ], 
+                "pictures" : [ 
+                ]
+             }, 
+             { 
+                "id" : "164", 
+                "gameType" : "Affix", 
+                "gameID" : "1-DJ-8-MA-magyar", 
+                "labels" : "NY; szakkifejezés-fogalom; rokonértelmű; szó;", 
+                "screens" : [ 
+                   { 
+                      "id" : "21", 
+                      "screenQuestion" : "Párosítsd össze  a rokon értelmű szavakat!", 
+                      "questions" : [ 
+                         { 
+                            "question" : "erszény", 
+                            "answers" : [ 
+                               "buksza", 
+                               "pénztárca"
+                            ]
+                         }, 
+                         { 
+                            "question" : "mocsár", 
+                            "answers" : [ 
+                               "láp"
+                            ]
+                         }, 
+                         { 
+                            "question" : "ház", 
+                            "answers" : [ 
+                               "lak"
+                            ]
+                         }, 
+                         { 
+                            "question" : "bicikli", 
+                            "answers" : [ 
+                               "kerékpár"
+                            ]
+                         }
+                      ], 
+                      "answers" : [ 
+                         "motor", 
+                         "autó", 
+                         "raktár", 
+                         "erdő", 
+                         "táska"
+                      ]
+                   }, 
+                   { 
+                      "id" : "22", 
+                      "screenQuestion" : "Párosítsd össze  a rokon értelmű szavakat!", 
+                      "questions" : [ 
+                         { 
+                            "question" : "nyaralás", 
+                            "answers" : [ 
+                               "üdülés"
+                            ]
+                         }, 
+                         { 
+                            "question" : "autó", 
+                            "answers" : [ 
+                               "kocsi"
+                            ]
+                         }, 
+                         { 
+                            "question" : "maszk", 
+                            "answers" : [ 
+                               "álarc"
+                            ]
+                         }, 
+                         { 
+                            "question" : "betörő", 
+                            "answers" : [ 
+                               "rabló"
+                            ]
+                         }
+                      ], 
+                      "answers" : [ 
+                         "kerékpár", 
+                         "vonat", 
+                         "sánta", 
+                         "sunyi", 
+                         "arc", 
+                         "kép"
+                      ]
+                   }
+                ]
+             }
+          ]
+       }
+    ], 
+    "synchronizeTime" : "2016-10-05 13:37:27.261"
+ }

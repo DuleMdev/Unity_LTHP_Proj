@@ -1,0 +1,96 @@
+{ 
+    "error" : "false", 
+    "answer" : [ 
+       { 
+          "learnRoutePathID" : "8", 
+          "name" : "HelloMentor - HU", 
+          "replayable" : "1", 
+          "newLearnRoutePathIsolationTimeForContinue" : "2019-09-19 15:40:49", 
+          "lastLearnRoutePathIsolationTimeForContinue" : "2019-05-14 18:27:27", 
+          "playTimeString" : "00:19:06", 
+          "progress" : "12", 
+          "scorePercent" : "100", 
+          "appPlayTimeString" : "00:19:06", 
+          "curriculumData" : [ 
+             { 
+                "subjectID" : "16", 
+                "topicID" : "47", 
+                "courseID" : "105", 
+                "curriculumID" : "202", 
+                "maxCurriculumProgress" : "60", 
+                "curriculumPlayTime" : "1146"
+             }, 
+             { 
+                "subjectID" : "16", 
+                "topicID" : "47", 
+                "courseID" : "105", 
+                "curriculumID" : "203", 
+                "maxCurriculumProgress" : "0", 
+                "curriculumPlayTime" : "0"
+             }, 
+             { 
+                "subjectID" : "16", 
+                "topicID" : "47", 
+                "courseID" : "105", 
+                "curriculumID" : "204", 
+                "maxCurriculumProgress" : "0", 
+                "curriculumPlayTime" : "0"
+             }, 
+             { 
+                "subjectID" : "16", 
+                "topicID" : "47", 
+                "courseID" : "105", 
+                "curriculumID" : "205", 
+                "maxCurriculumProgress" : "0", 
+                "curriculumPlayTime" : "0"
+             }, 
+             { 
+                "subjectID" : "16", 
+                "topicID" : "47", 
+                "courseID" : "105", 
+                "curriculumID" : "253", 
+                "maxCurriculumProgress" : "0", 
+                "curriculumPlayTime" : "0"
+             }
+          ]
+       }, 
+       { 
+          "learnRoutePathID" : "9", 
+          "name" : "HelloMentor - SK", 
+          "replayable" : "1", 
+          "newLearnRoutePathIsolationTimeForContinue" : "2019-09-19 15:40:49", 
+          "lastLearnRoutePathIsolationTimeForContinue" : "null", 
+          "playTimeString" : "00:00:00", 
+          "progress" : "0", 
+          "scorePercent" : "0", 
+          "appPlayTimeString" : "00:19:06", 
+          "curriculumData" : [ 
+             { 
+                "subjectID" : "26", 
+                "topicID" : "55", 
+                "courseID" : "113", 
+                "curriculumID" : "225", 
+                "maxCurriculumProgress" : "0", 
+                "curriculumPlayTime" : "0"
+             }, 
+             { 
+                "subjectID" : "26", 
+                "topicID" : "55", 
+                "courseID" : "113", 
+                "curriculumID" : "226", 
+                "maxCurriculumProgress" : "0", 
+                "curriculumPlayTime" : "0"
+             }, 
+             { 
+                "subjectID" : "26", 
+                "topicID" : "55", 
+                "courseID" : "113", 
+                "curriculumID" : "227", 
+                "maxCurriculumProgress" : "0", 
+                "curriculumPlayTime" : "0"
+             }
+          ]
+       }
+    ], 
+    "debugLocation" : "null"
+ }

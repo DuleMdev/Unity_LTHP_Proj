@@ -1,0 +1,26 @@
+{ 
+    "error" : "false", 
+    "answer" : { 
+       "curriculums" : [ 
+          { 
+             "curriculumID" : "499", 
+             "name" : "DUCK", 
+             "newCurriculumIsolation" : "2020-04-21 23:41:02", 
+             "lastCurriculumIsolation" : "2020-04-21 00:14:29", 
+             "lastLogID" : "251511", 
+             "cssClass" : "adminCurriculum"
+          }
+       ]
+    }, 
+    "debugLocation" : { 
+       "file" : "Curriculum.php", 
+       "db" : "classyedu", 
+       "time" : { 
+          "date" : "2020-04-21 23:41:02.703559", 
+          "timezone_type" : "3", 
+          "timezone" : "Europe/Belgrade"
+       }, 
+       "function" : "getCurriculums", 
+       "line" : "315"
+    }
+}

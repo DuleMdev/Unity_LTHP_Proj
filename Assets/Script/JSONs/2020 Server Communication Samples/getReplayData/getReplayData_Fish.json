@@ -1,0 +1,112 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : { 
+       "id" : "21293", 
+       "userID" : "2324", 
+       "created_time" : "2022-04-15 08:17:26", 
+       "modified_time" : "2022-04-15 08:37:14", 
+       "gameEngineID" : "2", 
+       "name" : "asdasdasdasd", 
+       "labels" : "", 
+       "languageID" : "26", 
+       "difficulty" : "1", 
+       "gameValue" : "100", 
+       "scoreDivider" : "2", 
+       "helperThreshold" : "100", 
+       "tokenForTest" : "2SMmcFzYpzONSujhjSFWyzZwymLo6W48", 
+       "testGameTheme" : "3", 
+       "testGameEnding" : "1", 
+       "isLaTeX" : "0", 
+       "gameID" : "21293", 
+       "engine" : "Fish", 
+       "gameEngineName" : "Fish", 
+       "gameEngineImage" : "engine_fish.png", 
+       "gameEngineWizard" : "wiz_fish", 
+       "count_the_score" : "1", 
+       "code" : "HU", 
+       "keyset" : "aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz", 
+       "owner" : { 
+          "userID" : "2324", 
+          "userName" : "NyesteZsolt", 
+          "userEmail" : "nyestezsolt99@gmail.com", 
+          "joinedDate" : "2022-02-08 13:54:26", 
+          "languageID" : "26", 
+          "profilePicture" : "2324/620268027dea1.png", 
+          "description" : "null"
+       }, 
+       "isOwn" : "false", 
+       "marketModule" : "false", 
+       "super" : "false", 
+       "curriculums" : "false", 
+       "sharedMailLists" : "false", 
+       "defaultGameTheme" : "3", 
+       "gameTheme" : "3", 
+       "gameEnding" : "3", 
+       "screens" : [ 
+          { 
+             "questionID" : "1345", 
+             "question" : "2 1 3", 
+             "info" : "", 
+             "time" : "180", 
+             "questions" : [ 
+                { 
+                   "fishSentenceID" : "1637", 
+                   "sentence" : "?(igaz)", 
+                   "is_swappable" : "0"
+                }
+             ], 
+             "answers" : [ 
+                "hamis", 
+                "igaz"
+             ], 
+             "userAnswers" : { 
+                "answers" : [ 
+                   { 
+                      "id" : "7999", 
+                      "gamelogID" : "444080", 
+                      "fishSentenceID" : "1637", 
+                      "answerTime" : "0.6996", 
+                      "isGood" : "0", 
+                      "questionIndex" : "0", 
+                      "answerIndex" : "0", 
+                      "fishID" : "1345"
+                   }
+                ]
+             }
+          }
+       ], 
+       "images" : [ 
+       ], 
+       "log" : { 
+          "id" : "444080", 
+          "logTime" : "2022-04-15 08:43:16", 
+          "userID" : "2324", 
+          "subjectID" : "195", 
+          "topicID" : "268", 
+          "courseID" : "900", 
+          "curriculumID" : "1459", 
+          "gameID" : "21293", 
+          "gamePercent" : "0", 
+          "gameTime" : "4", 
+          "curriculumProgress" : "50", 
+          "curriculumStart" : "2022-04-15 08:42:07", 
+          "appID" : "1", 
+          "learnRoutePathID" : "1725", 
+          "learnRoutePathStart" : "2022-04-15 08:40:09", 
+          "learnRoutePathProgress" : "75", 
+          "currentLevel" : "0", 
+          "flowStyle" : "simple", 
+          "gameIsolation" : "2022-04-15 08:42:54", 
+          "levelIsolation" : "2022-04-15 08:42:07", 
+          "levelingIsolation" : "null", 
+          "curriculumCoverage" : "50", 
+          "learnRoutePathCoverage" : "75", 
+          "gameSolved" : "0", 
+          "gameTheme" : "3", 
+          "gameEnding" : "3", 
+          "currentLevelNumber" : "3", 
+          "possibleMaxLevelNumber" : "4", 
+          "replayToken" : "pwS0jXi9JWKjpBGcQUBxdJRNBhEIXspQ"
+       }
+    }
+ }

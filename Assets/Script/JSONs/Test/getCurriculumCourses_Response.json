@@ -1,0 +1,12 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : { 
+       "courses" : [ 
+          { 
+             "id" : "287", 
+             "name" : "Műveletek természetes számokkal", 
+             "cssClass" : "adminCourse"
+          }
+       ]
+    }
+}

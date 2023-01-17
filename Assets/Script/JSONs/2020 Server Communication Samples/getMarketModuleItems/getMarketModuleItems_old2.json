@@ -1,0 +1,46 @@
+﻿{  "error" : false,  "answer": {      "items_"                     : [],      "items"                     : [		{			"id" : 123,
+            "gameID" : "124",
+            "observedGroupName" : "companyName 1",
+            "gameName" : "",
+            "isOwnInvestment" : true,
+            "investable" : true		},		{			"id" : 123,
+            "gameID" : "124",
+            "observedGroupName" : "companyName 2",
+            "gameName" : "",
+            "isOwnInvestment" : false,
+            "investable" : true		},		{			"id" : 123,
+            "gameID" : "124",
+            "observedGroupName" : "companyName 3",
+            "gameName" : "",
+            "isOwnInvestment" : false,
+            "investable" : true		},		{			"id" : 123,
+            "gameID" : "124",
+            "observedGroupName" : "companyName 4",
+            "gameName" : "",
+            "isOwnInvestment" : false,
+            "investable" : true		},		{			"id" : 123,
+            "gameID" : "124",
+            "observedGroupName" : "companyName 5",
+            "gameName" : "",
+            "isOwnInvestment" : false,
+            "investable" : false		},		{			"id" : 123,
+            "gameID" : "124",
+            "observedGroupName" : "companyName 6",
+            "gameName" : "",
+            "isOwnInvestment" : false,
+            "investable" : false		}	],    "ownProfile"                : {      "mailListItemID"   : 1539808,      "mailListID"       : 985,      "mailListName"     : "Startup_plus_HU",      "observedGroupID"  : 105,      "observedGroupName": "Ildikó3",      "userID"           : 2474,      "email"            : "hegyi.esztella@deakgyor.hu",      "name"             : "hegyi.esztella",      "profilePicture"   : "2474\/605c538fc6f01.png",      "coinsFromLearning": 5655,      "investable"       : 23,      "invested"         : 0,      "yield"            : 1,      "ownership"        : "33.33%",      "marketSituation"  : {        "ownPlace"   : 91,        "ownInvested": 0,        "minInvested": 0,        "maxInvested": 0      },      "badges" : [
+		{
+          "badgeName" : "bronzeLowLevel",
+          "image" : "bronze_low.png",
+          "badgeID" : 9999,
+          "firstBadgeTime" : "9999-99-99 99:99:99",
+          "badgeCount" : 999
+		},
+		{
+          "badgeName" : "bronzeMediumLevel",
+          "image" : "bronze_medium.png",
+          "badgeID" : 9999,
+          "firstBadgeTime" : "9999-99-99 99:99:99",
+          "badgeCount" : 9
+		}
+      ],    },    "companyProfile"            : {      "name"             : "Ildikó3",      "coinsFromItems"   : 7,      "coinsFromLearning": 1091.3329999999999,      "partners"         : [        {          "mailListItemID"   : 1539711,          "mailListID"       : 985,          "mailListName"     : "Startup_plus_HU",          "observedGroupID"  : 105,          "observedGroupName": "Ildikó3",          "userID"           : 2467,          "email"            : "vilagi.karolin@deakgyor.hu",          "name"             : "vilagi.karolin",          "profilePicture"   : "2467\/605c5290a7fe5.png",          "coinsFromLearning": 2625,          "investable"       : 0,          "invested"         : 0,          "yield"            : 0,          "ownership"        : "33.33%"        },        {          "mailListItemID"   : 1539808,          "mailListID"       : 985,          "mailListName"     : "Startup_plus_HU",          "observedGroupID"  : 105,          "observedGroupName": "Ildikó3",          "userID"           : 2474,          "email"            : "hegyi.esztella@deakgyor.hu",          "name"             : "hegyi.esztella",          "profilePicture"   : "2474\/605c538fc6f01.png",          "coinsFromLearning": 5655,          "investable"       : 0,          "invested"         : 0,          "yield"            : 0,          "ownership"        : "33.33%"        },        {          "mailListItemID"   : 1539843,          "mailListID"       : 985,          "mailListName"     : "Startup_plus_HU",          "observedGroupID"  : 105,          "observedGroupName": "Ildikó3",          "userID"           : 2473,          "email"            : "farkas.reka@deakgyor.hu",          "name"             : "farkas.reka",          "profilePicture"   : "2473\/605c535cb6b55.png",          "coinsFromLearning": 2633.33,          "investable"       : 0,          "invested"         : 0,          "yield"            : 0,          "ownership"        : "33.33%"        }      ],      "marketSituation"  : {        "minCompanyValue": 8,        "maxCompanyValue": 3585.9680999999996,        "ownCompanyValue": 1098.3329999999999,        "ownCompanyPlace": 85      }    },    "currentModuleRemainingTime": -1,    "nextModuleRemainingTime"   : 934497  }}

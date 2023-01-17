@@ -1,0 +1,66 @@
+﻿{ 
+    "error" : false, 
+    "answer" : [ 
+       { 
+          "requestName" : "getInvitedMailLists", 
+          "color" : "#B89AA0", 
+          "bigItems" : false, 
+          "answer" : [ 
+          ]
+       }, 
+       { 
+          "requestName" : "getPublicMailLists", 
+          "color" : "", 
+          "bigItems" : true, 
+          "answer" : [ 
+             { 
+                "id" : "54", 
+                "name" : "teszt", 
+                "appID" : "SMARTEMATHS", 
+                "picture" : "9/5f7eedd991909.png", 
+                "description" : "jhgjhgjgjgjj", 
+                "cssClass" : "publicMailList", 
+                "userStatus" : "subscribed", 
+                "owner" : { 
+                   "userID" : "9", 
+                   "profilePicture" : "9/5dfa53bc0b757.png", 
+                   "userName" : "Czomba Albert", 
+                   "userEmail" : "czalbert@gmail.com"
+                }
+             },
+			              { 
+                "id" : "54", 
+                "name" : "teszt", 
+                "appID" : "SMARTEMATHS", 
+                "picture" : "9/5f7eedd991909.png", 
+                "description" : "jhgjhgjgjgjj", 
+                "cssClass" : "publicMailList", 
+                "userStatus" : "subscribed", 
+                "owner" : { 
+                   "userID" : "9", 
+                   "profilePicture" : "9/5dfa53bc0b757.png", 
+                   "userName" : "Czomba Albert", 
+                   "userEmail" : "czalbert@gmail.com"
+                }
+             },
+			              { 
+                "id" : "54", 
+                "name" : "teszt", 
+                "appID" : "SMARTEMATHS", 
+                "picture" : "9/5f7eedd991909.png", 
+                "description" : "jhgjhgjgjgjj", 
+                "cssClass" : "publicMailList", 
+                "userStatus" : "subscribed", 
+                "owner" : { 
+                   "userID" : "9", 
+                   "profilePicture" : "9/5dfa53bc0b757.png", 
+                   "userName" : "Czomba Albert", 
+                   "userEmail" : "czalbert@gmail.com"
+                }
+             }
+
+
+          ]
+       }
+    ]
+}

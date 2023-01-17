@@ -1,0 +1,40 @@
+{
+	"task" : [
+		{
+			"gameType" : "MathMonster",
+			"questions" : [
+				{
+					"question" : "3, 6, 12, 24, ?(48)",
+					"answer" : "48",
+				},
+				{
+					"question" : "113, 118, 123, ?(128), 133",
+					"answer" : "128",
+				},
+			],
+			
+			"wrongAnswers" : [ 26, 36, 38, 124, 127, 132 ],
+			"lifeNumber" : 0,
+			"time" : 30,
+		},
+
+		{
+			"gameType" : "MathMonster",
+			"questions" : [
+				{
+					"question" : "791, 781, ?(771), 761, 751",
+					"answer" : "771",
+				},
+				{
+					"question" : "660, 648, 636, 624, ?(612)",
+					"answer" : "612",
+				},
+			],
+			
+			"wrongAnswers" : [ 701, 671, 871, 634, 652 ],
+			"lifeNumber" : 0,
+			"time" : 30,
+		},
+
+	]
+}

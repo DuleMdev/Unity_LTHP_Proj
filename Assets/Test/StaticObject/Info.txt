@@ -1,0 +1,1 @@
+Ezzel a scene-vel azt demonstrálom, hogy ha van egy GameObject-ünk amin van egy script, akkor a script az után is elérheto marad ha a gameObject-et eltávolítjuk a scene-bol.

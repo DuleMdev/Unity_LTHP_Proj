@@ -1,0 +1,249 @@
+﻿{
+	"task" : [
+		{
+			"gameType" : "Read",
+			
+			"storyTitle" : "Piroska és a farkas (részlet)",
+			"story" : "Vm9sdCBlZ3lzemVyIGVneSBhcmFueW9zIGtpc2zDoW55LCBtaW5kZW5raSBzemVyZXR0ZSwgYWtpIGNzYWsgbMOhdHRhLCBkZSBsZWdqb2JiYW4gbcOpZ2lzIGEgbmFneW1hbcOhamEuIEF6dCBzZW0gdHVkdGEsIG1pdCBhZGpvbiBuZWtpLCBtaXZlbCBrZXJlc3NlIGEga2VkdsOpdCBraXMgdW5va8OhasOhbmFrLiBFZ3lzemVyIGVneSBzesOpcCBwaXJvcyBiw6Fyc29ueXNhcGvDoXQgdmV0dCBuZWtpIGFqw6FuZMOpa2JhLCBzIG1pdmVsIGF6IG9seWFuIGrDs2wgw6FsbHQgYSBraXNsw6FueW5haywgaG9neSBhem9udMO6bCBtaW5kaWcgY3NhayBhenQgaG9yZHRhLCBlbCBpcyBuZXZlenTDqWsgcsOzbGEgUGlyb3Nrw6FuYWsuIEVneXN6ZXIgYXp0IG1vbmRqYSBuZWtpIGF6IMOpZGVzYW55amE6ICJHeWVyZSBjc2FrLCBraXNsw6FueW9tISBJdHQgZXogYSBrYWzDoWNzIMOpcyBlZ3kgw7x2ZWcgYm9yLCB2aWRkIGVsIGEgbmFneW1hbcOhbmFrLiBCZXRlZyBpcywgZ3llbmdlIGlzLCBqw7NsIGZvZyBlc25pIG5la2kgZXogYSBuw6low6FueSBmYWxhdC4gSW5kdWxqIGVsIGrDsyBrb3LDoW4sIG3DqWcgbWllbMWRdHQgYmXDoWxsIGEgaMWRc8OpZy4gSGEga2ltw6lzeiBheiB1dGPDoXJhLCB2aXNlbGtlZGogcmVuZGVzZW4sIG5lIHTDqXJqIGxlIGF6IMO6dHLDs2wsIG1lcnQgZWxlc2hldHN6LCDDqXMgZWx0w7ZyaGV0ZWQgYXogw7x2ZWdldCwgw6lzIGFra29yIGEgbmFneW1hbcOhbmFrIHNlbW1pIHNlbSBtYXJhZC4gw4lzIGhhIGJlbMOpcHN6IGEgc3pvYsOhYmEsIG5lIGZlbGVqdHMgZWwga8O2c3rDtm5uaSBuZWtpLCDDqXMgbmUga3Vra2FudHMgYmUgZWzFkWJiIG1pbmRlbiBzYXJva2JhISIgIk1pbmRlbiDDumd5IGxlc3osIGFob2d5IG1vbmRvZCIsIGZlbGVsdGUgUGlyb3NrYSBheiDDqWRlc2FueWrDoW5haywgw6lzIG1lZ8O2bGVsdGUgYsO6Y3PDunrDs3VsLiANCkEgbmFneW1hbWEgYXpvbmJhbiBiZW5uIGxha290dCBheiBlcmTFkWJlbiwgZsOpbMOzcsOhbnlpIGrDoXLDoXNyYSBhIGZhbHV0w7NsLCBhaG9sIFBpcm9za2EgbGFrb3R0LiBOb3MgaMOhdCwgYW1pbnQgYSBraXNsw6FueSBheiBlcmTFkSBzxbFyxbFqw6liZSDDqXJ0LCB0YWzDoWxrb3pvdHQgYSBmYXJrYXNzYWwuIE1pdmVsIGF6b25iYW4gbmVtIHR1ZHRhLCBob2d5IG1pbHllbiBnb25vc3ogw6FsbGF0dGFsIHZhbiBkb2xnYSwgbmVtIGbDqWx0IHTFkWxlLiAiSsOzIG5hcG90LCBQaXJvc2thIiwga8O2c3rDtm50IHLDoSBhIGZhcmthcy4gLSAiTmVrZWQgaXMsIGtlZHZlcyBmYXJrYXMuIiAtICJIb3bDoSBpZ3lla3N6ZWwgaWx5ZW4ga29yw6FuLCBrZWR2ZXMgUGlyb3NrYT8iIC0gIkEgbmFneW1hbcOhbWhvei4iIC0gIkF6dMOhbiBtaXQgdmlzemVsIGEga8O2dMOpbnllZGJlbj8iICJLYWzDoWNzb3Qgw6lzIGJvcnQuIFRlZ25hcCBzw7x0w7Z0dGUgw6lkZXNhbnnDoW07IGEgbmFneW1hbcOhbSBiZXRlZyBpcywgZ3llbmdlIGlzLCBqw7N0IGZvZyB0ZW5uaSBuZWtpIGF6IMOpdGVsLWl0YWwsIGVneSBraWNzaXQgZXLFkXJlIGthcCBtYWpkIHTFkWxlLiIgLSJQaXJvc2thLCBob2wgbGFraWsgYSBuYWd5bWFtw6FkPyIgLSAiS8O2csO8bGJlbMO8bCBtw6lnIGVneSBuZWd5ZWTDs3LDoW55aSBqw6Fyw6FzcmEgaW5uZW4sIGJlbm4gYXogZXJkxZEgc8WxcsWxasOpYmVuLCBhIGjDoXJvbSBuYWd5IHTDtmxneWZhIGFsYXR0IMOhbGwgYSBow6F6YS4gTW9neW9yw7Nzw7Z2w6lueSB2ZXN6aSBrw7Zyw7xsLCBiaXp0b3NhbiBpc21lcmVkIHRlIGlzIiwgbWFneWFyw6F6dGEgZ3lhbsO6dGxhbnVsIFBpcm9za2EuIA==",
+
+			"questions" : [
+			    {
+				    "question" : "A piroska nagymamájához vezető utat ?? övezi.",
+					"answerGroups" : [
+					    [
+     					    "mogyorósövény",
+				            "tujasor",
+				            "virágágyás",
+				            "várárok",
+						],
+					],
+				},
+				
+			    {
+								"Piroska ?(kalácsot:kiflit|körtét|levest) és ?(bort:vizet|tejet|szörpöt) visz a kötényében",
+
+				    "question" : "Piroska ?? és ?? visz a kötényében",
+					"answerGroups" : [
+					    [
+       					    "kalácsot",
+				            "kiflit",
+				            "körtét",
+				            "levest",
+						],
+					    [
+       					    "bort",
+				            "vizet",
+				            "tejet",
+				            "szörpöt",
+						],
+					],
+				},
+				
+			    {
+				    "question" : "Piroska bársonysapkája ?? színű.",
+					"answerGroups" : [
+					    [
+       					    "piros",
+				            "zöld",
+				            "kék",
+				            "sárga",
+						],
+					],
+				},
+			
+			    {
+				    "question" : "A piroska nagymamája ?? járásra lakott a falutól.",
+					"answerGroups" : [
+					    [
+       					    "fél órányi",
+				            "fél napnyi",
+				            "két percnyi",
+						],
+					],
+				},
+				
+			    {
+				    "question" : "A nagymama ?? is, ?? is.",
+					"answerGroups" : [
+					    [
+       					    "beteg",
+				            "egészséges",
+				            "fiatal",
+				            "szép",
+				            "okos",
+						],
+					    [
+       					    "gyenge",
+				            "erős",
+				            "bátor",
+				            "pletykás",
+						],
+					],
+				},				
+
+			    {
+				    "question" : "A nagymama háza ?? nagy ?? alatt áll.",
+					"answerGroups" : [
+					    [
+       					    "három",
+				            "kettő",
+				            "négy",
+				            "öt",
+				            "hat",
+						],
+					    [
+       					    "tölgyfa",
+				            "jegenyefa",
+				            "diófa",
+				            "körtefa",
+						],
+					],
+				},				
+				
+			    {
+				    "question" : "Piroska ?? találkozott az erdőben.",
+					"answerGroups" : [
+					    [
+       					    "farkassal",
+				            "nyúllal",
+				            "oroszlánnal",
+				            "egérrel",
+				            "mókussal",
+				            "őzzel",
+				            "vaddisznóval",
+				            "szarvassal",
+				            "tyúkkal",
+						],
+					],
+				},
+
+			],
+			
+			"lifeNumber" : 0,
+			"time" : 300,
+		},
+		
+		{
+			"gameType" : "Read",
+			
+			"storyTitle" : "Piroska és a farkas (részlet)",
+			"story" : "Vm9sdCBlZ3lzemVyIGVneSBhcmFueW9zIGtpc2zDoW55LCBtaW5kZW5raSBzemVyZXR0ZSwgYWtpIGNzYWsgbMOhdHRhLCBkZSBsZWdqb2JiYW4gbcOpZ2lzIGEgbmFneW1hbcOhamEuIEF6dCBzZW0gdHVkdGEsIG1pdCBhZGpvbiBuZWtpLCBtaXZlbCBrZXJlc3NlIGEga2VkdsOpdCBraXMgdW5va8OhasOhbmFrLiBFZ3lzemVyIGVneSBzesOpcCBwaXJvcyBiw6Fyc29ueXNhcGvDoXQgdmV0dCBuZWtpIGFqw6FuZMOpa2JhLCBzIG1pdmVsIGF6IG9seWFuIGrDs2wgw6FsbHQgYSBraXNsw6FueW5haywgaG9neSBhem9udMO6bCBtaW5kaWcgY3NhayBhenQgaG9yZHRhLCBlbCBpcyBuZXZlenTDqWsgcsOzbGEgUGlyb3Nrw6FuYWsuIEVneXN6ZXIgYXp0IG1vbmRqYSBuZWtpIGF6IMOpZGVzYW55amE6ICJHeWVyZSBjc2FrLCBraXNsw6FueW9tISBJdHQgZXogYSBrYWzDoWNzIMOpcyBlZ3kgw7x2ZWcgYm9yLCB2aWRkIGVsIGEgbmFneW1hbcOhbmFrLiBCZXRlZyBpcywgZ3llbmdlIGlzLCBqw7NsIGZvZyBlc25pIG5la2kgZXogYSBuw6low6FueSBmYWxhdC4gSW5kdWxqIGVsIGrDsyBrb3LDoW4sIG3DqWcgbWllbMWRdHQgYmXDoWxsIGEgaMWRc8OpZy4gSGEga2ltw6lzeiBheiB1dGPDoXJhLCB2aXNlbGtlZGogcmVuZGVzZW4sIG5lIHTDqXJqIGxlIGF6IMO6dHLDs2wsIG1lcnQgZWxlc2hldHN6LCDDqXMgZWx0w7ZyaGV0ZWQgYXogw7x2ZWdldCwgw6lzIGFra29yIGEgbmFneW1hbcOhbmFrIHNlbW1pIHNlbSBtYXJhZC4gw4lzIGhhIGJlbMOpcHN6IGEgc3pvYsOhYmEsIG5lIGZlbGVqdHMgZWwga8O2c3rDtm5uaSBuZWtpLCDDqXMgbmUga3Vra2FudHMgYmUgZWzFkWJiIG1pbmRlbiBzYXJva2JhISIgIk1pbmRlbiDDumd5IGxlc3osIGFob2d5IG1vbmRvZCIsIGZlbGVsdGUgUGlyb3NrYSBheiDDqWRlc2FueWrDoW5haywgw6lzIG1lZ8O2bGVsdGUgYsO6Y3PDunrDs3VsLiANCkEgbmFneW1hbWEgYXpvbmJhbiBiZW5uIGxha290dCBheiBlcmTFkWJlbiwgZsOpbMOzcsOhbnlpIGrDoXLDoXNyYSBhIGZhbHV0w7NsLCBhaG9sIFBpcm9za2EgbGFrb3R0LiBOb3MgaMOhdCwgYW1pbnQgYSBraXNsw6FueSBheiBlcmTFkSBzxbFyxbFqw6liZSDDqXJ0LCB0YWzDoWxrb3pvdHQgYSBmYXJrYXNzYWwuIE1pdmVsIGF6b25iYW4gbmVtIHR1ZHRhLCBob2d5IG1pbHllbiBnb25vc3ogw6FsbGF0dGFsIHZhbiBkb2xnYSwgbmVtIGbDqWx0IHTFkWxlLiAiSsOzIG5hcG90LCBQaXJvc2thIiwga8O2c3rDtm50IHLDoSBhIGZhcmthcy4gLSAiTmVrZWQgaXMsIGtlZHZlcyBmYXJrYXMuIiAtICJIb3bDoSBpZ3lla3N6ZWwgaWx5ZW4ga29yw6FuLCBrZWR2ZXMgUGlyb3NrYT8iIC0gIkEgbmFneW1hbcOhbWhvei4iIC0gIkF6dMOhbiBtaXQgdmlzemVsIGEga8O2dMOpbnllZGJlbj8iICJLYWzDoWNzb3Qgw6lzIGJvcnQuIFRlZ25hcCBzw7x0w7Z0dGUgw6lkZXNhbnnDoW07IGEgbmFneW1hbcOhbSBiZXRlZyBpcywgZ3llbmdlIGlzLCBqw7N0IGZvZyB0ZW5uaSBuZWtpIGF6IMOpdGVsLWl0YWwsIGVneSBraWNzaXQgZXLFkXJlIGthcCBtYWpkIHTFkWxlLiIgLSJQaXJvc2thLCBob2wgbGFraWsgYSBuYWd5bWFtw6FkPyIgLSAiS8O2csO8bGJlbMO8bCBtw6lnIGVneSBuZWd5ZWTDs3LDoW55aSBqw6Fyw6FzcmEgaW5uZW4sIGJlbm4gYXogZXJkxZEgc8WxcsWxasOpYmVuLCBhIGjDoXJvbSBuYWd5IHTDtmxneWZhIGFsYXR0IMOhbGwgYSBow6F6YS4gTW9neW9yw7Nzw7Z2w6lueSB2ZXN6aSBrw7Zyw7xsLCBiaXp0b3NhbiBpc21lcmVkIHRlIGlzIiwgbWFneWFyw6F6dGEgZ3lhbsO6dGxhbnVsIFBpcm9za2EuIA==",
+
+			"questions" : [
+			    {
+				    "question" : "A piroska nagymamájához vezető utat ?? övezi.",
+					"answerGroups" : [
+					    [
+     					    "mogyorósövény",
+				            "tujasor",
+				            "virágágyás",
+				            "várárok",
+						],
+					],
+				},
+				
+			    {
+								"Piroska ?(kalácsot:kiflit|körtét|levest) és ?(bort:vizet|tejet|szörpöt) visz a kötényében",
+
+				    "question" : "Piroska ?? és ?? visz a kötényében",
+					"answerGroups" : [
+					    [
+       					    "kalácsot",
+				            "kiflit",
+				            "körtét",
+				            "levest",
+						],
+					    [
+       					    "bort",
+				            "vizet",
+				            "tejet",
+				            "szörpöt",
+						],
+					],
+				},
+				
+			    {
+				    "question" : "Piroska bársonysapkája ?? színű.",
+					"answerGroups" : [
+					    [
+       					    "piros",
+				            "zöld",
+				            "kék",
+				            "sárga",
+						],
+					],
+				},
+			
+			    {
+				    "question" : "A piroska nagymamája ?? járásra lakott a falutól.",
+					"answerGroups" : [
+					    [
+       					    "fél órányi",
+				            "fél napnyi",
+				            "két percnyi",
+						],
+					],
+				},
+				
+			    {
+				    "question" : "A nagymama ?? is, ?? is.",
+					"answerGroups" : [
+					    [
+       					    "beteg",
+				            "egészséges",
+				            "fiatal",
+				            "szép",
+				            "okos",
+						],
+					    [
+       					    "gyenge",
+				            "erős",
+				            "bátor",
+				            "pletykás",
+						],
+					],
+				},				
+
+			    {
+				    "question" : "A nagymama háza ?? nagy ?? alatt áll.",
+					"answerGroups" : [
+					    [
+       					    "három",
+				            "kettő",
+				            "négy",
+				            "öt",
+				            "hat",
+						],
+					    [
+       					    "tölgyfa",
+				            "jegenyefa",
+				            "diófa",
+				            "körtefa",
+						],
+					],
+				},				
+				
+			    {
+				    "question" : "Piroska ?? találkozott az erdőben.",
+					"answerGroups" : [
+					    [
+       					    "farkassal",
+				            "nyúllal",
+				            "oroszlánnal",
+				            "egérrel",
+				            "mókussal",
+				            "őzzel",
+				            "vaddisznóval",
+				            "szarvassal",
+				            "tyúkkal",
+						],
+					],
+				},
+
+			],
+			
+			"lifeNumber" : 0,
+			"time" : 300,
+		},
+	]
+}

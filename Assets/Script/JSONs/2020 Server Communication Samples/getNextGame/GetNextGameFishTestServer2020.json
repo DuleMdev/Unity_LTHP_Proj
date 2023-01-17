@@ -1,0 +1,73 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : { 
+       "pathData" : { 
+          "flowStyle" : "simple", 
+          "gameIsolation" : "2020-07-14 13:34:17", 
+          "currentLevel" : "0", 
+          "levelIsolation" : "2019-11-27 17:52:31", 
+          "userID" : "7", 
+          "learnRoutePathID" : "16", 
+          "learnRoutePathStart" : "2019-07-11 16:33:40", 
+          "subjectID" : "19", 
+          "topicID" : "72", 
+          "courseID" : "147", 
+          "curriculumID" : "309", 
+          "curriculumIsolationTime" : "2019-11-27 17:52:31", 
+          "previousLogID" : "334440", 
+          "nextLogID" : "-1"
+       }, 
+       "gameData" : { 
+          "id" : "2465", 
+          "engine" : "Fish", 
+          "name" : "31 - Recept", 
+          "difficulty" : "0", 
+          "keyset" : "aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz", 
+          "code" : "HU", 
+          "screens" : [ 
+             { 
+                "questionID" : "184", 
+                "question" : "Húzd be a helyes választ jelző halat a megfelelő helyre. \\frac{1}{2}", 
+                "time" : "180", 
+                "questions" : [ 
+                   { 
+                      "fishSentenceID" : "214", 
+                      "sentence" : "A pala ? csinta tésztát forró ?(\\frac{1}{2}) öntjük bele.", 
+                      "is_swappable" : "0"
+                   },
+				   { 
+                      "fishSentenceID" : "214", 
+                      "sentence" : "[#block]\\frac{0 }{0}[#/block] A pala csinta tésztát forró ? (palacsintasütőbe) öntjük bele.", 
+                      "is_swappable" : "0"
+                   }
+                ], 
+                "answers" : [ 
+                   "tálba\\frac{\\frac{1}{2}}{2\\frac{1}{2}}", 
+                   "edénybe\\frac{1}{2}", 
+                   "\\frac{1}{2}",
+                   "palacsintasütőbe"
+                ]
+             },
+             { 
+                "questionID" : "184", 
+                "question" : "Húzd be a helyes választ jelző halat a megfelelő helyre.", 
+                "time" : "180", 
+                "questions" : [ 
+                   { 
+                      "fishSentenceID" : "214", 
+                      "sentence" : "A palacsinta ?(nagyon) fincsi.", 
+                      "is_swappable" : "0"
+                   }
+                ], 
+                "answers" : [ 
+                   "nagyon", 
+                   "nem", 
+                ]
+             }
+          ], 
+		  "gameTheme" : "1", 
+          "gameEnding" : "3", 
+          "playAnimation" : "true"
+       }
+    }
+ }

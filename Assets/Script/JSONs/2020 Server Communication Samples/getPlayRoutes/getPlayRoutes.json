@@ -1,0 +1,135 @@
+﻿{ 
+    "error" : false, 
+    "answer" : [ 
+       { 
+          "requestName" : "getWhereIAmOnMailLists", 
+          "color" : "", 
+          "bigItems" : false, 
+          "answer" : [ 
+             { 
+                "id" : "29", 
+                "name" : "Smartie_bemutató", 
+                "appID" : "SMARTEMATHS", 
+                "picture" : "16/5f7eedd7bb284.png", 
+                "description" : "", 
+                "cssClass" : "iAmOnMailLists", 
+                "userStatus" : "subscribed", 
+                "currentPrivileges" : [ 
+                   { 
+                      "privilege" : "accessToSharedDesktop", 
+                      "hasPrivilege" : "false"
+                   }, 
+                   { 
+                      "privilege" : "editContent", 
+                      "hasPrivilege" : "true"
+                   }, 
+                   { 
+                      "privilege" : "editMailListData", 
+                      "hasPrivilege" : "false"
+                   }, 
+                   { 
+                      "privilege" : "manageUsers", 
+                      "hasPrivilege" : "false"
+                   }, 
+                   { 
+                      "privilege" : "playContent", 
+                      "hasPrivilege" : "true"
+                   }, 
+                   { 
+                      "privilege" : "useContent", 
+                      "hasPrivilege" : "false"
+                   }
+                ], 
+                "owner" : { 
+                   "userID" : "16", 
+                   "profilePicture" : "16/5dfa53c10b9d2.png", 
+                   "userName" : "classY Test Test", 
+                   "userEmail" : "test@classyedu.com"
+                }
+             }, 
+             { 
+                "id" : "54", 
+                "name" : "teszt", 
+                "appID" : "SMARTEMATHS", 
+                "picture" : "9/5f7eedd991909.png", 
+                "description" : "jhgjhgjgjgjj", 
+                "cssClass" : "iAmOnMailLists", 
+                "userStatus" : "subscribed", 
+                "currentPrivileges" : [ 
+                   { 
+                      "privilege" : "accessToSharedDesktop", 
+                      "hasPrivilege" : "false"
+                   }, 
+                   { 
+                      "privilege" : "editContent", 
+                      "hasPrivilege" : "false"
+                   }, 
+                   { 
+                      "privilege" : "editMailListData", 
+                      "hasPrivilege" : "false"
+                   }, 
+                   { 
+                      "privilege" : "manageUsers", 
+                      "hasPrivilege" : "false"
+                   }, 
+                   { 
+                      "privilege" : "playContent", 
+                      "hasPrivilege" : "true"
+                   }, 
+                   { 
+                      "privilege" : "useContent", 
+                      "hasPrivilege" : "false"
+                   }
+                ], 
+                "owner" : { 
+                   "userID" : "9", 
+                   "profilePicture" : "9/5dfa53bc0b757.png", 
+                   "userName" : "Czomba Albert", 
+                   "userEmail" : "czalbert@gmail.com"
+                }
+             }, 
+             { 
+                "id" : "67", 
+                "name" : "BGA Csoportja", 
+                "appID" : "SMARTEMATHS", 
+                "picture" : "7/5f7eedda939c5.png", 
+                "description" : "", 
+                "cssClass" : "iAmOnMailLists", 
+                "userStatus" : "subscribed", 
+                "currentPrivileges" : [ 
+                   { 
+                      "privilege" : "accessToSharedDesktop", 
+                      "hasPrivilege" : "false"
+                   }, 
+                   { 
+                      "privilege" : "editContent", 
+                      "hasPrivilege" : "false"
+                   }, 
+                   { 
+                      "privilege" : "editMailListData", 
+                      "hasPrivilege" : "false"
+                   }, 
+                   { 
+                      "privilege" : "manageUsers", 
+                      "hasPrivilege" : "false"
+                   }, 
+                   { 
+                      "privilege" : "playContent", 
+                      "hasPrivilege" : "true"
+                   }, 
+                   { 
+                      "privilege" : "useContent", 
+                      "hasPrivilege" : "false"
+                   }
+                ], 
+                "owner" : { 
+                   "userID" : "7", 
+                   "profilePicture" : "7/5dfa53ba253e5.png", 
+                   "userName" : "BGA", 
+                   "userEmail" : "bga@classyedu.com"
+                }
+             }
+          ]
+       }
+    ]
+}

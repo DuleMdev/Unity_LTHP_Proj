@@ -1,0 +1,92 @@
+﻿{ 
+   "error" : "false", 
+   "answer" : { 
+      "id" : "6580", 
+      "engine" : "Affix", 
+      "name" : "AFFIX", 
+      "labels" : "TEST", 
+      "difficulty" : "1", 
+      "keyset" : "HU", 
+      "screens" : [ 
+         { 
+            "questionID" : "286", 
+            "question" : "DUCK?", 
+            "time" : "180", 
+            "questions" : [ 
+               { 
+                  "treeItemID" : "667", 
+                  "question" : "DUCK", 
+                  "solutions" : [ 
+                     { 
+                        "solutionID" : "688", 
+                        "solution" : "\\frac{1}{2} DUCK"
+                     }
+                  ]
+               },
+			   { 
+                  "treeItemID" : "667", 
+                  "question" : "Egy egy egy egy egy egy egy egy\negy egy egy egy egy egy egy egy", 
+                  "solutions" : [ 
+                     { 
+                        "solutionID" : "689", 
+                        "solution" : "1 1234567890123456789012345678901234567890\n1234567890123456789012345678901234567890"
+                     }
+                  ]
+               },
+	           { 
+                  "treeItemID" : "667", 
+                  "question" : "Kettő", 
+                  "solutions" : [ 
+                     { 
+                        "solutionID" : "6881", 
+                        "solution" : "2"
+                     }
+                  ]
+               },
+	           { 
+                  "treeItemID" : "667", 
+                  "question" : "Három", 
+                  "solutions" : [ 
+                     { 
+                        "solutionID" : "6882", 
+                        "solution" : "3"
+                     }
+                  ]
+               }
+            ], 
+            "distractors" : [ 
+               { 
+                  "disctractorID" : "323", 
+                  "distractor" : "KCUD"
+               }
+            ]
+         },
+         { 
+            "questionID" : "286", 
+            "question" : "SECOND SCREEN - DUCK?", 
+            "time" : "180", 
+            "questions" : [ 
+               { 
+                  "treeItemID" : "667", 
+                  "question" : "DUCK", 
+                  "solutions" : [ 
+                     { 
+                        "solutionID" : "688", 
+                        "solution" : "DUCK"
+                     }
+                  ]
+               }
+            ], 
+            "distractors" : [ 
+               { 
+                  "disctractorID" : "323", 
+                  "distractor" : "KCUD"
+               }
+            ]
+         }
+      ],
+      "gameTheme" : "1", 
+      "gameEnding" : "1",
+	  "playAnimation" : "false"
+   }
+}

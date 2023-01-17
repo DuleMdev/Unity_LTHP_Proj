@@ -1,0 +1,190 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : { 
+       "id" : "3768", 
+       "userID" : "7", 
+       "created_time" : "2018-10-30 11:15:48", 
+       "modified_time" : "0000-00-00 00:00:00", 
+       "gameEngineID" : "8", 
+       "name" : "mat_3", 
+       "labels" : "", 
+       "languageID" : "26", 
+       "difficulty" : "1", 
+       "gameValue" : "100", 
+       "scoreDivider" : "2", 
+       "helperThreshold" : "100", 
+       "tokenForTest" : "uuui9AgxGaI1HfMBPxIh1zKEBEchtGRU", 
+       "testGameTheme" : "3", 
+       "testGameEnding" : "1", 
+       "isLaTeX" : "1", 
+       "gameID" : "3768", 
+       "engine" : "Millionaire", 
+       "gameEngineName" : "Millionaire", 
+       "gameEngineImage" : "engine_millionaire.png", 
+       "gameEngineWizard" : "wiz_millionaire", 
+       "count_the_score" : "1", 
+       "code" : "HU", 
+       "keyset" : "aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz", 
+       "owner" : { 
+          "userID" : "7", 
+          "userName" : "BGA", 
+          "userEmail" : "bga@classyedu.com", 
+          "joinedDate" : "2018-01-16 14:33:01", 
+          "languageID" : "26", 
+          "profilePicture" : "7/5e6f6c0ce8568.png", 
+          "description" : "null"
+       }, 
+       "isOwn" : "false", 
+       "marketModule" : "false", 
+       "super" : "false", 
+       "curriculums" : "false", 
+       "sharedMailLists" : "false", 
+       "defaultGameTheme" : "3", 
+       "gameTheme" : "3", 
+       "gameEnding" : "1", 
+       "screens" : [ 
+          { 
+             "id" : "831", 
+             "question" : "Melyik műveletsor eredménye 1000?", 
+             "info" : "", 
+             "image" : "", 
+             "time" : "180", 
+             "answers" : [ 
+                { 
+                   "answerID" : "3253", 
+                   "answer" : "200 + 3 x 400 - 4 x 100", 
+                   "is_correct" : "1"
+                }, 
+                { 
+                   "answerID" : "3254", 
+                   "answer" : "10 x 100 - 99 x 0", 
+                   "is_correct" : "1"
+                }, 
+                { 
+                   "answerID" : "3255", 
+                   "answer" : "0 x 900 + 500 x 2", 
+                   "is_correct" : "1"
+                }, 
+                { 
+                   "answerID" : "3256", 
+                   "answer" : "100 + 200 + 300 + 400", 
+                   "is_correct" : "1"
+                }, 
+                { 
+                   "answerID" : "3257", 
+                   "answer" : "200 x 5 + 100 - 0", 
+                   "is_correct" : "0"
+                }, 
+                { 
+                   "answerID" : "3258", 
+                   "answer" : "10 x 99 + 2 x 10", 
+                   "is_correct" : "0"
+                }, 
+                { 
+                   "answerID" : "3259", 
+                   "answer" : "1600 - 900 x 2", 
+                   "is_correct" : "0"
+                }, 
+                { 
+                   "answerID" : "3260", 
+                   "answer" : "800 + 300 - 99 + 1", 
+                   "is_correct" : "0"
+                }
+             ], 
+             "userAnswers" : { 
+                "answers" : [ 
+                   { 
+                      "id" : "46261", 
+                      "gamelogID" : "443249", 
+                      "answerID" : "3255", 
+                      "answerTime" : "3.923", 
+                      "isGood" : "1", 
+                      "millionaireID" : "831"
+                   }, 
+                   { 
+                      "id" : "46262", 
+                      "gamelogID" : "443249", 
+                      "answerID" : "3254", 
+                      "answerTime" : "5.6603", 
+                      "isGood" : "1", 
+                      "millionaireID" : "831"
+                   }, 
+                   { 
+                      "id" : "46263", 
+                      "gamelogID" : "443249", 
+                      "answerID" : "3257", 
+                      "answerTime" : "0.7285", 
+                      "isGood" : "0", 
+                      "millionaireID" : "831"
+                   }, 
+                   { 
+                      "id" : "46264", 
+                      "gamelogID" : "443249", 
+                      "answerID" : "3258", 
+                      "answerTime" : "0.6392", 
+                      "isGood" : "0", 
+                      "millionaireID" : "831"
+                   }, 
+                   { 
+                      "id" : "46265", 
+                      "gamelogID" : "443249", 
+                      "answerID" : "3259", 
+                      "answerTime" : "0.2978", 
+                      "isGood" : "0", 
+                      "millionaireID" : "831"
+                   }, 
+                   { 
+                      "id" : "46266", 
+                      "gamelogID" : "443249", 
+                      "answerID" : "3256", 
+                      "answerTime" : "0.1537", 
+                      "isGood" : "1", 
+                      "millionaireID" : "831"
+                   }, 
+                   { 
+                      "id" : "46267", 
+                      "gamelogID" : "443249", 
+                      "answerID" : "3253", 
+                      "answerTime" : "0.1665", 
+                      "isGood" : "1", 
+                      "millionaireID" : "831"
+                   }
+                ]
+             }
+          }
+       ], 
+       "images" : [ 
+       ], 
+       "log" : { 
+          "id" : "443249", 
+          "logTime" : "2022-01-06 16:16:31", 
+          "userID" : "3", 
+          "subjectID" : "19", 
+          "topicID" : "82", 
+          "courseID" : "172", 
+          "curriculumID" : "343", 
+          "gameID" : "3768", 
+          "gamePercent" : "57.143", 
+          "gameTime" : "15", 
+          "curriculumProgress" : "30", 
+          "curriculumStart" : "2022-01-06 16:15:15", 
+          "appID" : "5", 
+          "learnRoutePathID" : "32", 
+          "learnRoutePathStart" : "2022-01-06 16:14:54", 
+          "learnRoutePathProgress" : "30", 
+          "currentLevel" : "0", 
+          "flowStyle" : "simple", 
+          "gameIsolation" : "2022-01-06 16:16:12", 
+          "levelIsolation" : "2022-01-06 16:15:15", 
+          "levelingIsolation" : "null", 
+          "curriculumCoverage" : "30", 
+          "learnRoutePathCoverage" : "30", 
+          "gameSolved" : "0", 
+          "gameTheme" : "3", 
+          "gameEnding" : "1", 
+          "currentLevelNumber" : "1", 
+          "possibleMaxLevelNumber" : "1", 
+          "replayToken" : "cFEzYLiPZi7o6ntAMx8MiCmjB9ky0dKP"
+       }
+    }
+}

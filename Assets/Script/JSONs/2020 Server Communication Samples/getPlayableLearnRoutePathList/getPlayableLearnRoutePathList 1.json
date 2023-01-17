@@ -1,0 +1,34 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : [ 
+       { 
+          "learnRoutePathID" : "1699", 
+          "mailListID" : "898", 
+          "name" : "motivációs teszt útvonal", 
+          "replayable" : "1", 
+          "playableFrom" : "2021-10-13 16:57:06", 
+          "playableFromTimeZone" : "Europe/Bucharest", 
+          "newLearnRoutePathIsolationTimeForContinue" : "2021-10-14 13:28:42", 
+          "flow_style" : "void", 
+          "collectBonusCoins" : "1", 
+          "frameGame" : "1", 
+          "lastLearnRoutePathIsolationTimeForContinue" : "null", 
+          "appPlayTimeString" : "00:00:37", 
+          "playTimeString" : "00:00:00", 
+          "progress" : "0", 
+          "scorePercent" : "0", 
+          "score" : "0", 
+          "maxScore" : "0", 
+          "hasFrameGameChests" : "true", 
+          "possibleMaxScore" : "1800", 
+          "frameGameCharacters" : { 
+          }, 
+          "lastLogID" : "-1", 
+          "levelInfo" : { 
+             "currentLevelNumber" : "9", 
+             "possibleMaxLevelNumber" : "9", 
+             "error" : "false"
+          }
+       }
+    ]
+}

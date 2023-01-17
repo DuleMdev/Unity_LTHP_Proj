@@ -1,0 +1,54 @@
+﻿{
+	"task" : [
+		{
+			"gameType" : "MathMonster",
+			"questions" : [
+				{
+					"question" : "12x?(6)=72",
+					"answer" : "6",
+				},
+				{
+					"question" : "48:6=?(8)",
+					"answer" : "8",
+				},
+			],
+			
+			"wrongAnswers" : [ 2, 3, 5, 6 ],
+			"lifeNumber" : 0,
+			"time" : 30,
+		},
+
+		{
+			"gameType" : "MathMonster",
+			"questions" : [
+				{
+					"question" : "3x(14+?(2))=48",
+					"answer" : "2",
+				},
+				{
+					"question" : "(6+?(3)):3=3",
+					"answer" : "3",
+				},
+			],
+			
+			"wrongAnswers" : [ 8, 6, 5 ],
+			"lifeNumber" : 0,
+			"time" : 30,
+		},
+
+		{
+			"gameType" : "MathMonster",
+			"questions" : [
+				{
+					"question" : "7x?(5)=35",
+					"answer" : "5",
+				},
+			],
+			
+			"wrongAnswers" : [ 8, 6, 2, 3 ],
+			"lifeNumber" : 0,
+			"time" : 30,
+		},
+
+	]
+}

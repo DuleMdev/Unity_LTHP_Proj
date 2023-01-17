@@ -1,0 +1,99 @@
+{
+	"task" : [
+		{
+			"gameType" : "Fish",
+			"questions" : [
+				"Léket kapott a ?(hajó) a tengeren.",
+				"A ?(papagáj|keselyű) és a ?(papagáj|keselyű) madár.",
+			],
+			
+			"answers" : [ "hajó", "halyó", "papagáj", "papagály", "kesejű", "keselyű" ],
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Fish",
+			"questions" : [
+				"Léket kapott a ?(hajó) a tengeren.",
+				"A ?(papagáj|keselyű) és a ?(papagáj|keselyű) madár.",
+			],
+			
+			"answers" : [ "hajó", "halyó", "papagáj", "papagály", "kesejű", "keselyű" ],
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Fish",
+			"questions" : [
+				"100, 110, ?(120), 130, ?(140)",
+				"191, ?(193), 195, 197, ?(199), 201",
+			],
+			
+			"answers" : [ "120", "140", "193", "199", "111", "198" ],
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Fish",
+			"questions" : [
+				"992, ?(994), 996, ?(998), 1000",
+				"780, 775, ?(770), ?(765), 760",
+			],
+			
+			"answers" : [ "994", "998", "770", "765", "997", "785" ],
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Fish",
+			"questions" : [
+				"8, 16, ?(24), 32, ?(40), 48",
+				"40, ?(36), 32, ?(28), 24, 20",
+			],
+			
+			"answers" : [ "24", "40", "36", "28", "44", "45" ],
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Fish",
+			"questions" : [
+				"18, ?(27), 36, ?(45), 54",
+				"970, ?(960), ?(950), 940, 930",
+			],
+			
+			"answers" : [ "27", "45", "960", "950", "34", "910" ],
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Fish",
+			"questions" : [
+				"A sapkámról leszakadt a ?(bojt).",
+				"Péter ?(fogja) édesanyja kezét.",
+			],
+			
+			"answers" : [ "bojt", "fogja", "bolyt", "foglya" ],
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Fish",
+			"questions" : [
+				"A hangyák nagy ?(bolyt) építenek.",
+				"A vitéznek kiesett a kezéből ?(szablya).",
+			],
+			
+			"answers" : [ "bolyt", "szablya", "bojt", "szabja" ],
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+	]
+}

@@ -1,0 +1,161 @@
+﻿{
+  "error"  : false,
+  "answer" : {
+    "id"               : 20811,
+    "userID"           : 3,
+    "created_time"     : "2022-03-09 14:18:39",
+    "modified_time"    : "0000-00-00 00:00:00",
+    "gameEngineID"     : 14,
+    "name"             : "asd#1",
+    "labels"           : "asd",
+    "languageID"       : 26,
+    "difficulty"       : 1,
+    "gameValue"        : 100,
+    "scoreDivider"     : 2,
+    "helperThreshold"  : 100,
+    "tokenForTest"     : null,
+    "testGameTheme"    : 3,
+    "testGameEnding"   : 1,
+    "isLaTeX"          : 1,
+    "gameID"           : 20811,
+    "engine"           : "Texty",
+    "gameEngineName"   : "Texty",
+    "gameEngineImage"  : "engine_texty.png",
+    "gameEngineWizard" : "wiz_texty",
+    "count_the_score"  : 1,
+    "code"             : "HU",
+    "keyset"           : "a\u00e1bcde\u00e9fghi\u00edjklmno\u00f3\u00f6\u0151pqrstu\u00fa\u00fc\u0171vwxyz",
+    "owner"            : {
+      "userID"         : 3,
+      "userName"       : "duck",
+      "userEmail"      : "zsolt.ptrvari@gmail.com",
+      "joinedDate"     : "2017-06-12 14:04:03",
+      "languageID"     : 26,
+      "profilePicture" : "3\/6165ab451fae9.png",
+      "description"    : ""
+    },
+    "isOwn"            : true,
+    "marketModule"     : false,
+    "super"            : false,
+    "curriculums"      : false,
+    "sharedMailLists"  : false,
+    "defaultGameTheme" : 3,
+    "gameTheme"        : 3,
+    "gameEnding"       : 2,
+    "screens"          : [
+      {
+        "id"          : 1620,
+        "task"        : "asd",
+        "text"        : "Valami szöveg",
+        "time"        : 180,
+        "questions"   : [
+          {
+            "questionID" : 1884,
+            "question"   : "-9 + 16 = [?]",
+            "inOrder"    : 1,
+            "answers"    : [7]
+          }
+        ],
+        "userAnswers" : {
+          "answers" : [
+            {
+              "id"            : 15787,
+              "textyID"       : 1620,
+              "questionID"    : 1884,
+              "answer"        : 0,
+              "answerTime"    : 3.06563,
+              "isGood"        : 0,
+              "gameLogID"     : 444017,
+              "questionIndex" : 0
+            }, {
+              "id"            : 15788,
+              "textyID"       : 1620,
+              "questionID"    : 1884,
+              "answer"        : 7,
+              "answerTime"    : 3.17363,
+              "isGood"        : 1,
+              "gameLogID"     : 444017,
+              "questionIndex" : 0
+            }
+          ]
+        }
+      },
+	  {
+        "id"          : 1620,
+        "task"        : "asd",
+        "text"        : "Második képernyő",
+        "time"        : 180,
+        "questions"   : [
+          {
+            "questionID" : 1884,
+            "question"   : "Folytasd a számsort 1, 2, [?] , 4, [?] ",
+            "inOrder"    : 1,
+            "answers"    : [3, 5]
+          },
+          {
+            "questionID" : 1885,
+            "question"   : "2 * 2 = [?]",
+            "inOrder"    : 1,
+            "answers"    : [4]
+          },
+	  
+        ],
+        "userAnswers" : {
+          "answers" : [
+            {
+              "id"            : 15787,
+              "textyID"       : 1620,
+              "questionID"    : 1884,
+              "answer"        : 3,
+              "answerTime"    : 3.06563,
+              "isGood"        : 1,
+              "gameLogID"     : 444017,
+              "questionIndex" : 0
+            }, 
+			{
+              "id"            : 15788,
+              "textyID"       : 1620,
+              "questionID"    : 1884,
+              "answer"        : 6,
+              "answerTime"    : 3.17363,
+              "isGood"        : 0,
+              "gameLogID"     : 444017,
+              "questionIndex" : 1
+            }, 
+			{
+              "id"            : 15788,
+              "textyID"       : 1620,
+              "questionID"    : 1885,
+              "answer"        : 3,
+              "answerTime"    : 3.17363,
+              "isGood"        : 0,
+              "gameLogID"     : 444017,
+              "questionIndex" : 0
+            }, 
+			{
+              "id"            : 15788,
+              "textyID"       : 1620,
+              "questionID"    : 1884,
+              "answer"        : 5,
+              "answerTime"    : 3.17363,
+              "isGood"        : 1,
+              "gameLogID"     : 444017,
+              "questionIndex" : 1
+            }, 
+			{
+              "id"            : 15788,
+              "textyID"       : 1620,
+              "questionID"    : 1885,
+              "answer"        : 4,
+              "answerTime"    : 3.17363,
+              "isGood"        : 1,
+              "gameLogID"     : 444017,
+              "questionIndex" : 0
+            }
+          ]
+        }
+      }
+    ],
+    "images"           : []
+  }
+}

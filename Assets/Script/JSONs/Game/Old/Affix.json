@@ -1,0 +1,48 @@
+﻿{
+	"task" : [
+		{
+			"gameType" : "Affix",
+			
+			"questions" : [
+				{ 	"question" : "könyv",
+					"answers" : [ "-el", ],
+				},
+				{ 	"question" : "hal",
+					"answers" : [ "-ász", ],
+				},
+				{ 	"question" : "seb",
+					"answers" : [ "-ész", ],
+				},
+				{ 	"question" : "vad",
+					"answers" : [ "-ász", ],
+				},
+			],
+			
+			"answers" : [ "-el", "-ász", "-és", "-ész", "-ás", "-el", "-ász" ],
+			
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Affix",
+			
+			"questions" : [
+				{ 	"question" : "könyv",
+					"answers" : [ "-el", ],
+				},
+				{ 	"question" : "szerep",
+					"answers" : [ "-el", ],
+				},
+				{ 	"question" : "seb",
+					"answers" : [ "-ész", ],
+				},
+			],
+			
+			"answers" : [ "-el", "-és", "-ész", "-el", "-ász" ],
+
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+	]
+}

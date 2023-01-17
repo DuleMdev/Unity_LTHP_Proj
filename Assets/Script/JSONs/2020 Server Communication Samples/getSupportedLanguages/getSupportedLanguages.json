@@ -1,0 +1,74 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : [ 
+       { 
+          "id" : "15", 
+          "code" : "EN", 
+          "name" : "English", 
+          "translate_change" : "2020-10-12 12:07:01", 
+          "keyset" : "abcdefghijklmnopqrstuvwxyz"
+       }, 
+       { 
+          "id" : "26", 
+          "code" : "HU", 
+          "name" : "Hungarian", 
+          "translate_change" : "2020-10-12 12:02:06", 
+          "keyset" : "aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz"
+       }, 
+       { 
+          "id" : "51", 
+          "code" : "RO", 
+          "name" : "Romanian", 
+          "translate_change" : "2020-09-28 11:28:14", 
+          "keyset" : "aăâbcdefghiîjklmnopqrsștțuvwxyz"
+       }, 
+       { 
+          "id" : "55", 
+          "code" : "SK", 
+          "name" : "Slovak", 
+          "translate_change" : "2020-09-28 11:28:14", 
+          "keyset" : "aáäbcčdďeéfghiíjklĺľmnňoóôpqrŕsštťuúvwxyýzž"
+       }
+    ], 
+    "debug" : { 
+       "memory_peak_usage" : "729.22 KiB", 
+       "time" : "2020-10-19 16:05:58 Europe/Belgrade", 
+       "execTime" : "0.420142626", 
+       "backtrace" : [ 
+          { 
+             "file" : "LanguageGenerator.php", 
+             "line" : "409", 
+             "function" : "getBacktrace", 
+             "class" : "Result", 
+             "type" : "::"
+          }, 
+          { 
+             "file" : "Core.php", 
+             "line" : "292", 
+             "function" : "getSupportedLanguages", 
+             "class" : "LanguageGenerator", 
+             "object" : { 
+             }, 
+             "type" : "->"
+          }, 
+          { 
+             "file" : "Core.php", 
+             "line" : "174", 
+             "function" : "cmdWithoutUserID", 
+             "class" : "Core", 
+             "object" : { 
+             }, 
+             "type" : "->"
+          }, 
+          { 
+             "file" : "Core.php", 
+             "line" : "12", 
+             "function" : "runCommand", 
+             "class" : "Core", 
+             "object" : { 
+             }, 
+             "type" : "->"
+          }
+       ]
+    }
+}

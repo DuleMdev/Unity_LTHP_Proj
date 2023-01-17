@@ -1,0 +1,62 @@
+﻿{ 
+   "error" : "false", 
+   "answer" : { 
+      "pathData" : { 
+         "flowStyle" : "simple", 
+         "gameIsolation" : "2020-02-10 11:49:47", 
+         "currentLevel" : "1", 
+         "levelIsolation" : "2020-02-05 17:03:43", 
+         "userID" : "3", 
+         "learnRoutePathID" : "84", 
+         "learnRoutePathStart" : "2020-02-05 17:03:37", 
+         "subjectID" : "19", 
+         "topicID" : "107", 
+         "courseID" : "286", 
+         "curriculumID" : "499", 
+         "curriculumIsolationTime" : "2020-02-05 17:03:43"
+      }, 
+      "gameData" : {
+       	"questionID": "7855",
+       	"engine": "Read",
+       	"name": "Read_1_2_2_1_a",
+       	"gameDifficulty": "50.000",
+       	"avgPlayTime": "0.000",
+       	"screens": [{
+       		"questionID": "84",
+       		"time": "900",
+               "text_title" : "Ez a szöveg címe",
+               "text_content" : "Itt van a szöveg tartalma \n új sor remélhetőleg\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy",
+               "questions" : [
+                   {
+				       "questionID" : "129", 
+                       "question" : "?? és a ?? törpe hadsereg akik szép sorjában mennek a bányába aranyat bányászni vagy répát (nem tudom)",
+                       "answerGroups" : [
+                           [ "Hófehérke", "Piroska" ],
+                           [ "hét", "három", "nyolc" ],
+                       ]
+                   },
+                   {
+				       "questionID" : "130", 
+                       "question" : "?? és a ?? törpe hadsereg akik szép sorjában mennek a bányába aranyat bányászni vagy répát (nem tudom)",
+                       "answerGroups" : [
+                           [ "Hófehérke", "Piroska" ],
+                           [ "hét", "három", "nyolc" ],
+                       ]
+                   },
+               ]
+       	}],
+         "gameTheme" : "1", 
+         "gameEnding" : "1"
+       }, 
+   "debugLocation" : { 
+      "file" : "LearnRoutePath.php", 
+      "db" : "classyedu", 
+      "time" : { 
+         "date" : "2020-02-10 11:49:48.045492", 
+         "timezone_type" : "3", 
+         "timezone" : "Europe/Belgrade"
+      }, 
+      "function" : "getSingleGameData", 
+      "line" : "831"
+   }
+}

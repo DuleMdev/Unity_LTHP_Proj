@@ -1,0 +1,15 @@
+{ 
+    "error" : "false", 
+    "answer" : "learnRoutePathIsComplete", 
+    "debugLocation" : { 
+       "file" : "LearnRoutePath.php", 
+       "db" : "classyedu_classyedu", 
+       "time" : { 
+          "date" : "2020-03-20 19:18:35.089201", 
+          "timezone_type" : "3", 
+          "timezone" : "Europe/Budapest"
+       }, 
+       "function" : "getNextSimpleGame", 
+       "line" : "824"
+    }
+}

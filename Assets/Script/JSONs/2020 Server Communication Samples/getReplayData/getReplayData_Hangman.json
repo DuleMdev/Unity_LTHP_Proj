@@ -1,0 +1,163 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : { 
+       "id" : "3772", 
+       "userID" : "7", 
+       "created_time" : "2018-10-30 11:42:18", 
+       "modified_time" : "0000-00-00 00:00:00", 
+       "gameEngineID" : "6", 
+       "name" : "mat_7", 
+       "labels" : "", 
+       "languageID" : "26", 
+       "difficulty" : "1", 
+       "gameValue" : "100", 
+       "scoreDivider" : "2", 
+       "helperThreshold" : "100", 
+       "tokenForTest" : "EsXfJs9d8bUD7HU7m84FA3thLP2hKDWt", 
+       "testGameTheme" : "3", 
+       "testGameEnding" : "1", 
+       "isLaTeX" : "1", 
+       "gameID" : "3772", 
+       "engine" : "Hangman", 
+       "gameEngineName" : "Hangman", 
+       "gameEngineImage" : "engine_hangman.png", 
+       "gameEngineWizard" : "wiz_hangman", 
+       "count_the_score" : "1", 
+       "code" : "HU", 
+       "keyset" : "aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz", 
+       "owner" : { 
+          "userID" : "7", 
+          "userName" : "BGA", 
+          "userEmail" : "bga@classyedu.com", 
+          "joinedDate" : "2018-01-16 14:33:01", 
+          "languageID" : "26", 
+          "profilePicture" : "7/5e6f6c0ce8568.png", 
+          "description" : "null"
+       }, 
+       "isOwn" : "false", 
+       "marketModule" : "false", 
+       "super" : "false", 
+       "curriculums" : "false", 
+       "sharedMailLists" : "false", 
+       "defaultGameTheme" : "3", 
+       "gameTheme" : "2", 
+       "gameEnding" : "1", 
+       "screens" : [ 
+          { 
+             "id" : "211", 
+             "question" : "A tíz többszöröse a", 
+             "puzzle" : "száz", 
+             "tries" : "15", 
+             "time" : "180", 
+             "userAnswers" : { 
+                "answers" : [ 
+                   { 
+                      "id" : "7751", 
+                      "gamelogID" : "443253", 
+                      "questionID" : "211", 
+                      "answer" : "e", 
+                      "isGood" : "0", 
+                      "answerTime" : "0.7694"
+                   },                    { 
+                      "id" : "7751", 
+                      "gamelogID" : "443253", 
+                      "questionID" : "211", 
+                      "answer" : "s", 
+                      "isGood" : "1", 
+                      "answerTime" : "0.7694"
+                   }, 
+                                      { 
+                      "id" : "7751", 
+                      "gamelogID" : "443253", 
+                      "questionID" : "211", 
+                      "answer" : "k", 
+                      "isGood" : "0", 
+                      "answerTime" : "0.7694"
+                   }, 
+				                      { 
+                      "id" : "7751", 
+                      "gamelogID" : "443253", 
+                      "questionID" : "211", 
+                      "answer" : "m", 
+                      "isGood" : "1", 
+                      "answerTime" : "0.7694"
+                   }, 
+				   { 
+                      "id" : "7752", 
+                      "gamelogID" : "443253", 
+                      "questionID" : "211", 
+                      "answer" : "á", 
+                      "isGood" : "1", 
+                      "answerTime" : "0.6804"
+                   }, 
+                   { 
+                      "id" : "7753", 
+                      "gamelogID" : "443253", 
+                      "questionID" : "211", 
+                      "answer" : "z", 
+                      "isGood" : "1", 
+                      "answerTime" : "0.2772"
+                   }
+                ]
+             }
+          }
+       ], 
+       "log" : { 
+          "id" : "443253", 
+          "logTime" : "2022-01-06 18:23:11", 
+          "userID" : "3", 
+          "subjectID" : "19", 
+          "topicID" : "82", 
+          "courseID" : "172", 
+          "curriculumID" : "343", 
+          "gameID" : "3772", 
+          "gamePercent" : "100", 
+          "gameTime" : "5", 
+          "curriculumProgress" : "70", 
+          "curriculumStart" : "2022-01-06 16:15:15", 
+          "appID" : "5", 
+          "learnRoutePathID" : "32", 
+          "learnRoutePathStart" : "2022-01-06 16:14:54", 
+          "learnRoutePathProgress" : "70", 
+          "currentLevel" : "0", 
+          "flowStyle" : "simple", 
+          "gameIsolation" : "2022-01-06 18:23:04", 
+          "levelIsolation" : "2022-01-06 16:15:15", 
+          "levelingIsolation" : "null", 
+          "curriculumCoverage" : "70", 
+          "learnRoutePathCoverage" : "70", 
+          "gameSolved" : "1", 
+          "gameTheme" : "3", 
+          "gameEnding" : "1", 
+          "currentLevelNumber" : "1", 
+          "possibleMaxLevelNumber" : "1", 
+          "replayToken" : "j2KT8clyHx1v52T5V0W2SJT8Bj1Ra1Rm"
+       }, 
+       "userAnswers" : [ 
+          { 
+             "id" : "7751", 
+             "gamelogID" : "443253", 
+             "questionID" : "211", 
+             "answer" : "s", 
+             "isGood" : "1", 
+             "answerTime" : "0.7694"
+          }, 
+          { 
+             "id" : "7752", 
+             "gamelogID" : "443253", 
+             "questionID" : "211", 
+             "answer" : "á", 
+             "isGood" : "1", 
+             "answerTime" : "0.6804"
+          }, 
+          { 
+             "id" : "7753", 
+             "gamelogID" : "443253", 
+             "questionID" : "211", 
+             "answer" : "z", 
+             "isGood" : "1", 
+             "answerTime" : "0.2772"
+          }
+       ]
+    }
+}

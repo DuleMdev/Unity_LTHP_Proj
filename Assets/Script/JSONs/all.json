@@ -1,0 +1,733 @@
+{ 
+    "flows" : [ 
+	
+	{
+		"multiPlayerGameMode" : "ChangeForSubTask",
+		"task" : [
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "Ha a felhőben jégkristályok vannak, és azok lehullanak, villámlás lesz.",
+			"goodAnswer" : false,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A légnemű anyagokra jellemző, hogy mindig kitöltik a rendelkezésükre álló teret.",
+			"goodAnswer" : true,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A sekély szó ellentétes párja a homályos.",
+			"goodAnswer" : false,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A vzsiaj betűkből kirakható egy értelmes szó.",
+			"goodAnswer" : true,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A pocsolya szót így kell elválasztani: pocs-oly-a.",
+			"goodAnswer" : false,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A szó elején csak a lyuk szóban és toldalékos alakjaiban írunk ly-t.",
+			"goodAnswer" : true,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A testrészek megnevezésében a j hangot mindig ly-nal írjuk.",
+			"goodAnswer" : false,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A termés a virágból fejlődik ki.",
+			"goodAnswer" : true,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "Minden növénynek fogyasztjuk a magját.",
+			"goodAnswer" : false,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A petrezselyemnek a magját fogyasztjuk.",
+			"goodAnswer" : false,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A növényi magnak a szaporodásban van szerepe.",
+			"goodAnswer" : true,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A termés a virágból fejlődik ki.",
+			"goodAnswer" : true,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A 3; 7; 11; 15……. sorozat egyik eleme a 184.",
+			"goodAnswer" : false,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A 60; 55; 50; 45..... sorozat eleme a nulla.",
+			"goodAnswer" : true,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A fejessaláta és a karfiol azonos növényi részeit fogyasztjuk.",
+			"goodAnswer" : false,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A paprika és a paradicsom is egynyári növény.",
+			"goodAnswer" : true,
+			"time" : 15,
+		},
+
+	]
+},
+	
+       { 
+			"multiPlayerGameMode" : "ChangeForSubTask",
+			"task" : [
+				{
+					"gameType" : "Hangman",
+			
+					"question" : "nem esik messze az alma a fájától",
+					"keyset" : "hu",
+			
+					"lifeNumber" : 10,
+					"time" : 60,
+				},
+
+				{
+					"gameType" : "Hangman",
+			
+					"question" : "ki mint vet úgy arat",
+					"keyset" : "hu",
+			
+					"lifeNumber" : 10,
+					"time" : 60,
+				},
+		
+				{
+					"gameType" : "Hangman",
+			
+					"question" : "nem mind arany ami fénylik",
+					"keyset" : "hu",
+			
+					"lifeNumber" : 10,
+					"time" : 60,
+				},
+
+				{
+					"gameType" : "Hangman",
+			
+					"question" : "sok lúd disznót győz",
+					"keyset" : "hu",
+			
+					"lifeNumber" : 10,
+					"time" : 60,
+				},
+
+				{
+					"gameType" : "Hangman",
+			
+					"question" : "hallgatni arany",
+					"keyset" : "hu",
+			
+					"lifeNumber" : 10,
+					"time" : 60,
+				},
+
+				{
+					"gameType" : "Hangman",
+			
+					"question" : "sok bába közt elvész a gyerek",
+					"keyset" : "hu",
+			
+					"lifeNumber" : 10,
+					"time" : 60,
+				},
+
+				{
+					"gameType" : "Hangman",
+			
+					"question" : "fején találja a szöget",
+					"keyset" : "hu",
+			
+					"lifeNumber" : 10,
+					"time" : 60,
+				},
+
+				{
+					"gameType" : "Hangman",
+			
+					"question" : "kinek egyszer megégette a száját a kása, az aludttejet is megfújja",
+					"keyset" : "hu",
+			
+					"lifeNumber" : 10,
+					"time" : 60,
+				},
+
+				{
+					"gameType" : "Hangman",
+			
+					"question" : "hamar munka ritkán jó",
+					"keyset" : "hu",
+			
+					"lifeNumber" : 10,
+					"time" : 60,
+				},
+
+
+				
+			],
+       }, 
+	   
+       { 
+          "task" : [ 
+             { 
+                "gameType" : "Bubble", 
+                "question" : "Hány hárommszöget látsz a képen?", 
+                "goodAnswers" : [ 
+                   "20"
+                ], 
+                "wrongAnswers" : [ 
+                   "16", 
+                   "18", 
+                   "22"
+                ], 
+                "goodAnswerNeed" : "true", 
+                "goodAnswerPiece" : "1", 
+                "lifeNumber" : "0", 
+                "time" : "15"
+             }
+          ]
+       }, 
+       { 
+          "task" : [ 
+             { 
+                "gameType" : "Sets", 
+                "question" : "Csoportosítsd az állatokat aszerint, hogy mivel táplálkoznak!", 
+                "set" : [ 
+                   { 
+                      "setName" : "Növényevő", 
+                      "items" : [ 
+                         "őz", 
+                         "ló", 
+                         "cserebogár", 
+                         "szöcske", 
+                         "tehén", 
+                         "liba", 
+                         "selyemhernyó"
+                      ]
+                   }, 
+                   { 
+                      "setName" : "Ragadozó", 
+                      "items" : [ 
+                         "farkas", 
+                         "sas", 
+                         "csuka"
+                      ]
+                   }, 
+                   { 
+                      "setName" : "Mindenevő", 
+                      "items" : [ 
+                         "tyúk", 
+                         "vaddisznó", 
+                         "medve", 
+                         "borz"
+                      ]
+                   }
+                ], 
+                "lifeNumber" : "0", 
+                "time" : "60"
+             }, 
+             { 
+                "gameType" : "Sets", 
+                "question" : "Csoportosítsd az élőlényeket aszerint, hogy hol élnek az erdő szintjeiben!", 
+                "set" : [ 
+                   { 
+                      "setName" : "Talajszint", 
+                      "setPicture" : "talajszint.png", 
+                      "items" : [ 
+                         "hangya", 
+                         "erdei egér", 
+                         "sün", 
+                         "#Pafrany.jpg", 
+                         "#IllatosIbolya.jpg", 
+                         "gyöngyvirág", 
+                         "fű"
+                      ]
+                   }, 
+                   { 
+                      "setName" : "Cserjeszint", 
+                      "setPicture" : "cserjeszint.png", 
+                      "items" : [ 
+                         "#Butterfly.jpg", 
+                         "darazsak", 
+                         "méhek"
+                      ]
+                   }, 
+                   { 
+                      "setName" : "Lombkoronaszint", 
+                      "setPicture" : "lombkorona.png", 
+                      "items" : [ 
+                         "#Squirrel.jpg", 
+                         "#Woodpecker.jpg", 
+                         "cserebogár", 
+                         "szarvasbogár"
+                      ]
+                   }
+                ], 
+                "lifeNumber" : "0", 
+                "time" : "60"
+             }, 
+             { 
+                "gameType" : "Sets", 
+                "question" : "Tedd a számokat a megfelelő csoportba!", 
+                "set" : [ 
+                   { 
+                      "setName" : "0-99", 
+                      "items" : [ 
+                         "54", 
+                         "12", 
+                         "23", 
+                         "81"
+                      ]
+                   }, 
+                   { 
+                      "setName" : "100-199", 
+                      "items" : [ 
+                         "152", 
+                         "120", 
+                         "198"
+                      ]
+                   }
+                ], 
+                "lifeNumber" : "0", 
+                "time" : "60"
+             }, 
+             { 
+                "gameType" : "Sets", 
+                "question" : "Tedd a számokat a megfelelő csoportba!", 
+                "set" : [ 
+                   { 
+                      "setName" : "0-99", 
+                      "items" : [ 
+                         "54", 
+                         "12", 
+                         "23", 
+                         "81"
+                      ]
+                   }, 
+                   { 
+                      "setName" : "100-199", 
+                      "items" : [ 
+                         "152", 
+                         "120", 
+                         "198"
+                      ]
+                   }, 
+                   { 
+                      "setName" : "200-299", 
+                      "items" : [ 
+                         "211", 
+                         "212", 
+                         "219"
+                      ]
+                   }, 
+                   { 
+                      "setName" : "300-399", 
+                      "items" : [ 
+                         "378", 
+                         "325", 
+                         "369"
+                      ]
+                   }
+                ], 
+                "lifeNumber" : "0", 
+                "time" : "60"
+             }, 
+             { 
+                "gameType" : "Sets", 
+                "question" : "Tedd a számokat a megfelelő csoportba!", 
+                "set" : [ 
+                   { 
+                      "setName" : "0-99", 
+                      "items" : [ 
+                         "54", 
+                         "12", 
+                         "23", 
+                         "81"
+                      ]
+                   }, 
+                   { 
+                      "setName" : "100-199", 
+                      "items" : [ 
+                         "152", 
+                         "120", 
+                         "198"
+                      ]
+                   }, 
+                   { 
+                      "setName" : "200-299", 
+                      "items" : [ 
+                         "211", 
+                         "212", 
+                         "219"
+                      ]
+                   }, 
+                   { 
+                      "setName" : "300-399", 
+                      "items" : [ 
+                         "378", 
+                         "325", 
+                         "369"
+                      ]
+                   }, 
+                   { 
+                      "setName" : "400-499", 
+                      "items" : [ 
+                         "478", 
+                         "435", 
+                         "409"
+                      ]
+                   }
+                ], 
+                "lifeNumber" : "0", 
+                "time" : "60"
+             }, 
+             { 
+                "gameType" : "Sets", 
+                "question" : "Tedd a számokat a megfelelő csoportba!", 
+                "set" : [ 
+                   { 
+                      "setName" : "0-99", 
+                      "items" : [ 
+                         "54", 
+                         "12", 
+                         "23", 
+                         "81"
+                      ]
+                   }, 
+                   { 
+                      "setName" : "100-199", 
+                      "items" : [ 
+                         "152", 
+                         "120", 
+                         "198"
+                      ]
+                   }, 
+                   { 
+                      "setName" : "200-299", 
+                      "items" : [ 
+                         "211", 
+                         "212", 
+                         "219"
+                      ]
+                   }, 
+                   { 
+                      "setName" : "300-399", 
+                      "items" : [ 
+                         "378", 
+                         "325", 
+                         "369"
+                      ]
+                   }, 
+                   { 
+                      "setName" : "400-499", 
+                      "items" : [ 
+                         "478", 
+                         "435", 
+                         "409"
+                      ]
+                   }, 
+                   { 
+                      "setName" : "500-599", 
+                      "items" : [ 
+                         "513", 
+                         "528", 
+                         "586"
+                      ]
+                   }
+                ], 
+                "lifeNumber" : "0", 
+                "time" : "60"
+             }
+          ]
+       }, 
+       { 
+          "task" : [ 
+             { 
+                "gameType" : "MathMonster", 
+                "questions" : [ 
+                   { 
+                      "question" : "12x?(6|2-s)=72", 
+                      "answer" : "6"
+                   }, 
+                   { 
+                      "question" : "48:6=?(8)", 
+                      "answer" : "8"
+                   }
+                ], 
+                "wrongAnswers" : [ 
+                   "2", 
+                   "3", 
+                   "5", 
+                   "6"
+                ], 
+                "lifeNumber" : "0", 
+                "time" : "30"
+             }, 
+             { 
+                "gameType" : "MathMonster", 
+                "questions" : [ 
+                   { 
+                      "question" : "3x(14+?(2))=48", 
+                      "answer" : "2"
+                   }, 
+                   { 
+                      "question" : "(6+?(3)):3=3", 
+                      "answer" : "3"
+                   }
+                ], 
+                "wrongAnswers" : [ 
+                   "8", 
+                   "6", 
+                   "5"
+                ], 
+                "lifeNumber" : "0", 
+                "time" : "30"
+             }, 
+             { 
+                "gameType" : "MathMonster", 
+                "questions" : [ 
+                   { 
+                      "question" : "7x?(5)=35", 
+                      "answer" : "5"
+                   }
+                ], 
+                "wrongAnswers" : [ 
+                   "8", 
+                   "6", 
+                   "2", 
+                   "3"
+                ], 
+                "lifeNumber" : "0", 
+                "time" : "30"
+             }
+          ]
+       }, 
+       { 
+          "task" : [ 
+             { 
+                "gameType" : "Fish", 
+                "questions" : [ 
+                   "Lékett kapott a ?(hajó) a tengeren.", 
+                   "A ?(papagáj|keselyű) és a ?(papagáj|keselyű) madár."
+                ], 
+                "answers" : [ 
+                   "hajó", 
+                   "halyó", 
+                   "papagáj", 
+                   "papagály", 
+                   "kesejű", 
+                   "keselyű"
+                ], 
+                "lifeNumber" : "0", 
+                "time" : "60"
+             }, 
+             { 
+                "gameType" : "Fish", 
+                "questions" : [ 
+                   "Lékett kapott a ?(hajó) a tengeren.", 
+                   "A ?(papagáj|keselyű) és a ?(papagáj|keselyű) madár."
+                ], 
+                "answers" : [ 
+                   "hajó", 
+                   "halyó", 
+                   "papagáj", 
+                   "papagály", 
+                   "kesejű", 
+                   "keselyű"
+                ], 
+                "lifeNumber" : "0", 
+                "time" : "60"
+             }
+          ]
+       }, 
+       { 
+          "task" : [ 
+             { 
+                "gameType" : "Affix", 
+                "questions" : [ 
+                   { 
+                      "question" : "könyv", 
+                      "answers" : [ 
+                         "-el"
+                      ]
+                   }, 
+                   { 
+                      "question" : "hal", 
+                      "answers" : [ 
+                         "-ász"
+                      ]
+                   }, 
+                   { 
+                      "question" : "seb", 
+                      "answers" : [ 
+                         "-ész"
+                      ]
+                   }, 
+                   { 
+                      "question" : "vad", 
+                      "answers" : [ 
+                         "-ász"
+                      ]
+                   }
+                ], 
+                "answers" : [ 
+                   "-el", 
+                   "-ász", 
+                   "-és", 
+                   "-ész", 
+                   "-ás", 
+                   "-el", 
+                   "-ász"
+                ], 
+                "lifeNumber" : "0", 
+                "time" : "60"
+             }, 
+             { 
+                "gameType" : "Affix", 
+                "questions" : [ 
+                   { 
+                      "question" : "könyv", 
+                      "answers" : [ 
+                         "-el"
+                      ]
+                   }, 
+                   { 
+                      "question" : "szerep", 
+                      "answers" : [ 
+                         "-el"
+                      ]
+                   }, 
+                   { 
+                      "question" : "seb", 
+                      "answers" : [ 
+                         "-ész"
+                      ]
+                   }
+                ], 
+                "answers" : [ 
+                   "-el", 
+                   "-és", 
+                   "-ész", 
+                   "-el", 
+                   "-ász"
+                ], 
+                "lifeNumber" : "0", 
+                "time" : "60"
+             }
+          ]
+       }, 
+       { 
+          "task" : [ 
+             { 
+                "gameType" : "Boom", 
+                "question" : "Válaszd ki a hárommal osztható számokat a sorozatból!", 
+                "goodanswers" : [ 
+                   "3", 
+                   "9", 
+                   "12", 
+                   "15", 
+                   "18"
+                ], 
+                "wronganswers" : [ 
+                   "2", 
+                   "5", 
+                   "7", 
+                   "11", 
+                   "16", 
+                   "22"
+                ], 
+                "showtime" : "1.0", 
+                "breaktime" : "0.5", 
+                "lifeNumber" : "0", 
+                "round" : "3", 
+                "random" : "true", 
+                "needgoodanswers" : "true", 
+                "time" : "60"
+             }, 
+             { 
+                "gameType" : "Boom", 
+                "question" : "Válaszd ki a hárommal osztható számokat a sorozatból!", 
+                "goodanswers" : [ 
+                   "3", 
+                   "9", 
+                   "12", 
+                   "15", 
+                   "18", 
+                   "69", 
+                   "21", 
+                   "6"
+                ], 
+                "wronganswers" : [ 
+                   "2", 
+                   "5", 
+                   "7", 
+                   "11", 
+                   "16", 
+                   "22", 
+                   "53", 
+                   "14", 
+                   "23", 
+                   "32"
+                ], 
+                "showtime" : "0.8", 
+                "breaktime" : "0.2", 
+                "lifeNumber" : "0", 
+                "round" : "3", 
+                "random" : "true", 
+                "needgoodanswers" : "true", 
+                "time" : "60"
+             }
+          ]
+       }
+    ]
+ }

@@ -1,0 +1,54 @@
+{
+	"task" : [
+		{
+			"gameType" : "Bubble",
+			"question" : "Az alábbi növények közül melyiknek\n nem fogyasztjuk a magját?",
+			"questionPicture" : "",
+			"questionPictureBorder" : false,
+			"goodAnswers" : ["#kaposzta.jpg"],
+			"wrongAnswers" : ["#kukorica.jpg", "#borso.jpg", "#napraforgo.jpg"],
+			"goodAnswerNeed" : true,
+			"goodAnswerPiece" : 1,
+			"lifeNumber" : 0,
+			"time" : 15,
+		},
+		{
+			"gameType" : "Bubble",
+			"question" : "Melyik szám következik az alábbi\n sorozatban? 3,6,9,12,…",
+			"questionPicture" : "",
+			"questionPictureBorder" : false,
+			"goodAnswers" : ["15"],
+			"wrongAnswers" : ["13", "16", "18", "20"],
+			"goodAnswerNeed" : true,
+			"goodAnswerPiece" : 1,
+			"lifeNumber" : 0,
+			"time" : 15,
+		},
+		{
+			"gameType" : "Bubble",
+			"question" : "Az alábbi nevek közül hányban\n jelöljük a j hangot ly-nal?\n Mihá_,  _ános, Ibo_a, Orso_a,\n Káro_, _ózsef, _enő",
+			"questionPicture" : "",
+			"questionPictureBorder" : false,
+			"goodAnswers" : ["4"],
+			"wrongAnswers" : ["2", "5", "6", "7"],
+			"goodAnswerNeed" : true,
+			"goodAnswerPiece" : 1,
+			"lifeNumber" : 0,
+			"time" : 25,
+		},
+		{
+			"gameType" : "Bubble",
+			"question" : "Hány háromszöget látsz a képen?",
+			"questionPicture" : "#triangle.png",
+			"questionPictureBorder" : false,
+			"goodAnswers" : ["20"],
+			"wrongAnswers" : ["16", "18", "22"],
+			"goodAnswerNeed" : true,
+			"goodAnswerPiece" : 1,
+			"lifeNumber" : 0,
+			"time" : 15,
+		},
+
+
+	]
+}

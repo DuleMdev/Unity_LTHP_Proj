@@ -1,0 +1,198 @@
+﻿{ 
+   "error" : "false", 
+   "answer" : { 
+      "pathData" : { 
+         "flowStyle" : "simple", 
+         "gameIsolation" : "2020-02-17 17:16:33", 
+         "currentLevel" : "4", 
+         "levelIsolation" : "2020-02-05 17:03:43", 
+         "userID" : "3", 
+         "learnRoutePathID" : "84", 
+         "learnRoutePathStart" : "2020-02-05 17:03:37", 
+         "subjectID" : "19", 
+         "topicID" : "107", 
+         "courseID" : "286", 
+         "curriculumID" : "499", 
+         "curriculumIsolationTime" : "2020-02-05 17:03:43"
+      }, 
+      "gameData" : { 
+         "id" : "6590", 
+         "engine" : "Texty", 
+         "name" : "TEXTY", 
+         "labels" : "TEST", 
+         "difficulty" : "1", 
+         "keyset" : "HU", 
+		 "gameEnding" : "1",
+		 "isLaTeX" : "1",
+         "screens" : [ 
+            { 
+               "id" : "525", 
+               "task" : "DUCK!", 
+               "text-" : "", 
+               "text" : "Ez a feladat azt teszteli, hogy ha azonos válaszok vannak, akkor is jól működik-e. A válaszok 1, 2, 3, 0, 0, 0 keverve is meg lehet adni őket", 
+               "time" : "18000", 
+               "questions" : [ 
+                  { 
+                     "questionID" : "567", 
+                     "question" : "[?] [?] [?] [?] [?] [?]", 
+                     "inOrder" : "0", 
+                     "answers" : [ 
+                        "1",
+                        "2",
+                        "3",
+                        "0",
+                        "0",
+                        "0"
+                     ]
+                  }
+               ]
+            },            { 
+               "id" : "525", 
+               "task" : "DUCK!", 
+               "text-" : "", 
+               "text" : "Duck duck duck!", 
+               "time" : "180", 
+               "questions" : [ 
+                  { 
+                     "questionID" : "567", 
+                     "question" : "\\frac{1}{2} = [?]", 
+                     "inOrder" : "1", 
+                     "answers" : [ 
+                        "\\frac{1}{fix:2}"
+                     ]
+                  }, 
+                  { 
+                     "questionID" : "567", 
+                     "question" : "[#block]\\frac{1}{2}+\\frac{2}{1}[#/block] = [?] + [?]", 
+                     "inOrder" : "1", 
+                     "answers" : [ 
+                        "\\frac {1} {2}",
+                        "\\frac {2} {1}"
+                     ]
+                  }, 
+                  { 
+                     "questionID" : "567", 
+                     "question" : "[#block]\\frac{1}{2}+\\frac{2}{1}[#/block] = [?] + [?]", 
+                     "inOrder" : "0", 
+                     "answers" : [ 
+                        "\\frac {1} {2}",
+                        "\\frac {2} {1}"
+                     ]
+                  }, 
+                  { 
+                     "questionID" : "565", 
+                     "question" : "ADUCK [?]", 
+                     "inOrder" : "1", 
+                     "answers" : [ 
+                        "DUCK"
+                     ]
+                  }, 
+                  { 
+                     "questionID" : "566", 
+                     "question" : "ADUCK [?] BDUCK [?] CDUCK [?] DUCK DUCK duck a b c d e f g h válasz", 
+                     "inOrder" : "1", 
+                     "answers" : [ 
+                        "DUCK", 
+                        "DUCK", 
+                        "duck"
+                     ]
+                  }, 
+                  { 
+                     "questionID" : "567", 
+                     "question" : "\\frac{1}{2} = [?]", 
+                     "inOrder" : "1", 
+                     "answers" : [ 
+                        "0.5"
+                     ]
+                  }, 
+                  { 
+                     "questionID" : "568", 
+                     "question" : "[#/block]\\frac{1}{2} + \\frac{1}{2}[#/block] = [?]", 
+                     "inOrder" : "1", 
+                     "answers" : [ 
+                        "1"
+                     ]
+                  }, 
+                  { 
+                     "questionID" : "569", 
+                     "question" : "[#block]\\frac{1}{3} + \\frac{1}{3} = \\frac{a}{b}[#/block]; a = [?] , b = [?]", 
+                     "inOrder" : "1", 
+                     "answers" : [ 
+						"2",
+						"3",
+                        "\\frac{2}{2}"
+                     ]
+                  }, 
+                  { 
+                     "questionID" : "570", 
+                     "question" : "[#block]\\frac{1}{2} + \\frac{1}{2}[#block] = [?]", 
+                     "inOrder" : "1", 
+                     "answers" : [ 
+                        "1"
+                     ]
+                  }
+               ]
+            },
+            { 
+               "id" : "525", 
+               "task" : "DUCK!", 
+               "text-" : "", 
+               "text" : "Kacsa kacsa kacsa!", 
+               "time" : "10", 
+               "questions" : [ 
+                  { 
+                     "questionID" : "565", 
+                     "question" : "ADUCK [?]", 
+                     "inOrder" : "1", 
+                     "answers" : [ 
+                        "DUCK"
+                     ]
+                  }, 
+                  { 
+                     "questionID" : "566", 
+                     "question" : "ADUCK [?] BDUCK [?] CDUCK [?] DUCK DUCK duck a b c d e f g h válasz", 
+                     "inOrder" : "1", 
+                     "answers" : [ 
+                        "DUCK", 
+                        "DUCK", 
+                        "duck"
+                     ]
+                  }, 
+                  { 
+                     "questionID" : "567", 
+                     "question" : "\\frac{1}{2} = [?]", 
+                     "inOrder" : "1", 
+                     "answers" : [ 
+                        "0.5"
+                     ]
+                  }, 
+                  { 
+                     "questionID" : "568", 
+                     "question" : "[#/block]\\frac{1}{2} + \\frac{1}{2}[#/block] = [?]", 
+                     "inOrder" : "1", 
+                     "answers" : [ 
+                        "1"
+                     ]
+                  }, 
+                  { 
+                     "questionID" : "569", 
+                     "question" : "[#block]\\frac{1}{2} + \\frac{1}{2} =[#/block] [?]", 
+                     "inOrder" : "1", 
+                     "answers" : [ 
+                        "\\frac{2}{2}"
+                     ]
+                  }, 
+                  { 
+                     "questionID" : "570", 
+                     "question" : "[#block]\\frac{1}{2} + \\frac{1}{2}[#block] = [?]", 
+                     "inOrder" : "1", 
+                     "answers" : [ 
+                        "1"
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   }
+}

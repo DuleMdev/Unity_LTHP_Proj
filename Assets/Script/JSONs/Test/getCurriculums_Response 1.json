@@ -1,0 +1,23 @@
+{ 
+    "error" : "false", 
+    "answer" : { 
+       "curriculums" : [ 
+          { 
+             "curriculumID" : "505", 
+             "name" : "1_1_egyszeru", 
+             "newCurriculumIsolation" : "2020-11-05 23:58:51", 
+             "lastCurriculumIsolation" : "2020-09-16 14:22:30", 
+             "lastLogID" : "251912", 
+             "cssClass" : "adminCurriculum"
+          }, 
+          { 
+             "curriculumID" : "503", 
+             "name" : "1_4_bonyolult", 
+             "newCurriculumIsolation" : "2020-11-05 23:58:51", 
+             "lastCurriculumIsolation" : "-1", 
+             "lastLogID" : "-1", 
+             "cssClass" : "adminCurriculum"
+          }
+       ]
+    }
+ }

@@ -1,0 +1,30 @@
+﻿{
+	"id": "7855",
+	"engine": "Affix",
+	"name": "Aff_1_2_2_1_a",
+	"gameDifficulty": "50.000",
+	"avgPlayTime": "0.000",
+	"screens": [{
+		"id": "84",
+		"time": "900",
+		
+		"screenQuestion" : "Osztályozd a képeket nemük szerint \\pi",
+		
+        "questions": [
+            {
+                "question": "\\size[2]\\pi} =",
+				"solutions": ["3.14"],
+            },
+            {
+                "question": "Ördögi\\frac{1}{2} =",
+				"solutions": ["Angyali\\frac{2}{1}"],
+            },
+            {
+                "question": "E =",
+				"solutions": ["mc^2"],
+            },
+        ],
+		"distractors": ["alma_fa", "fa__ház", "\\frac{2+2}{2x}", "\\math x_{1,2} = \\frac{-b\\pm\\root{b^2-4ac}}{2a}"],
+	}],
+	"lastGamePercent": "null"
+}

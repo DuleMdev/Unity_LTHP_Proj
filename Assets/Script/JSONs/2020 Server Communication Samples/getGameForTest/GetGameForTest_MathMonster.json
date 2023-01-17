@@ -1,0 +1,56 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : { 
+       "id" : "21555", 
+       "engine" : "MathMonster", 
+       "name" : "DÉ_koord_2_S*", 
+       "labels" : "", 
+       "difficulty" : "1", 
+       "keyset" : "aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz", 
+       "code" : "HU", 
+       "gameTheme" : "2", 
+       "gameEnding" : "1", 
+       "screens" : [ 
+          { 
+             "questionID" : "311", 
+             "question" : "Az x és y valós számok között a következő összefüggés áll fenn: y=3x-2", 
+             "info" : "", 
+             "time" : "180", 
+             "questions" : [ 
+                { 
+                   "mathMonsterSentenceID" : "341", 
+                   "sentence" : "Ha az x=5, akkor y= ?(13)", 
+                   "is_swappable" : "0"
+                }
+             ], 
+             "wrongAnswers" : [ 
+                "14", 
+                "12", 
+                "5", 
+                "13"
+             ]
+          }, 
+          { 
+             "questionID" : "312", 
+             "question" : "Az x és y valós számok között a következő összefüggés áll fenn: y=3x-2", 
+             "info" : "", 
+             "time" : "180", 
+             "questions" : [ 
+                { 
+                   "mathMonsterSentenceID" : "342", 
+                   "sentence" : "Ha az y=7, akkor az x ?(3)", 
+                   "is_swappable" : "0"
+                }
+             ], 
+             "wrongAnswers" : [ 
+                "9", 
+                "12", 
+                "0", 
+                "3"
+             ]
+          }
+       ], 
+       "images" : [ 
+       ]
+    }
+ }

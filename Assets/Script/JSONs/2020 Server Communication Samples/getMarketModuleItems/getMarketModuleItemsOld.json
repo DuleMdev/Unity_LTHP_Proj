@@ -1,0 +1,35 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : { 
+       "items" : [ 
+       ], 
+       "ownProfile" : { 
+          "name" : "null", 
+          "profilePicture" : "null", 
+          "yield" : "null", 
+          "investable" : "null", 
+          "invested" : "null", 
+          "marketSituation" : { 
+             "minInvested" : "0", 
+             "maxInvested" : "0", 
+             "ownInvested" : "null", 
+             "ownPlace" : "0"
+          }
+       }, 
+       "companyProfile" : { 
+          "name" : "", 
+          "coinsFromItems" : "0", 
+          "coinsFromLearning" : "0", 
+          "partners" : [ 
+          ], 
+          "marketSituation" : { 
+             "minCompanyValue" : "0", 
+             "maxCompanyValue" : "0", 
+             "ownCompanyValue" : "0", 
+             "ownCompanyPlace" : "0"
+          }
+       }, 
+       "currentModuleRemainingTime" : "-1", 
+       "nextModuleRemainingTime" : "-1"
+    }
+}

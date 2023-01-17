@@ -1,0 +1,15 @@
+{ 
+   "error" : "false", 
+   "answer" : "G7zC8230FPx0oEDZ4dGbkM2d0o5bMLc5", 
+   "debugLocation" : { 
+      "file" : "User.php", 
+      "db" : "classyedu", 
+      "time" : { 
+         "date" : "2020-03-03 19:51:48.078684", 
+         "timezone_type" : "3", 
+         "timezone" : "Europe/Belgrade"
+      }, 
+      "function" : "login", 
+      "line" : "175"
+   }
+}

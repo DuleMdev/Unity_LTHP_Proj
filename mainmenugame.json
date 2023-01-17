@@ -1,0 +1,1247 @@
+{ 
+    "name" : "Single Player", 
+    "lessonMosaics" : [ 
+       { 
+          "name" : "óra-mozaik", 
+          "multiPlayerGameMode" : "ChangeForSubTask", 
+          "games" : [ 
+             { 
+                "task" : [ 
+                   { 
+                      "gameType" : "TrueOrFalse", 
+                      "question" : "Ha a felhőben jégkristályok vannak, és azok lehullanak, villámlás lesz.", 
+                      "goodAnswer" : "false", 
+                      "time" : "15"
+                   }, 
+                   { 
+                      "gameType" : "TrueOrFalse", 
+                      "question" : "A légnemű anyagokra jellemző, hogy mindig kitöltik a rendelkezésükre álló teret.", 
+                      "goodAnswer" : "true", 
+                      "time" : "15"
+                   }, 
+                   { 
+                      "gameType" : "TrueOrFalse", 
+                      "question" : "A sekély szó ellentétes párja a homályos.", 
+                      "goodAnswer" : "false", 
+                      "time" : "15"
+                   }, 
+                   { 
+                      "gameType" : "TrueOrFalse", 
+                      "question" : "A vzsiaj betűkből kirakható egy értelmes szó.", 
+                      "goodAnswer" : "true", 
+                      "time" : "15"
+                   }, 
+                   { 
+                      "gameType" : "TrueOrFalse", 
+                      "question" : "A pocsolya szót így kell elválasztani: pocs-oly-a.", 
+                      "goodAnswer" : "false", 
+                      "time" : "15"
+                   }, 
+                   { 
+                      "gameType" : "TrueOrFalse", 
+                      "question" : "A szó elején csak a lyuk szóban és toldalékos alakjaiban írunk ly-t.", 
+                      "goodAnswer" : "true", 
+                      "time" : "15"
+                   }, 
+                   { 
+                      "gameType" : "TrueOrFalse", 
+                      "question" : "A testrészek megnevezésében a j hangot mindig ly-nal írjuk.", 
+                      "goodAnswer" : "false", 
+                      "time" : "15"
+                   }, 
+                   { 
+                      "gameType" : "TrueOrFalse", 
+                      "question" : "A termés a virágból fejlődik ki.", 
+                      "goodAnswer" : "true", 
+                      "time" : "15"
+                   }, 
+                   { 
+                      "gameType" : "TrueOrFalse", 
+                      "question" : "Minden növénynek fogyasztjuk a magját.", 
+                      "goodAnswer" : "false", 
+                      "time" : "15"
+                   }, 
+                   { 
+                      "gameType" : "TrueOrFalse", 
+                      "question" : "A petrezselyemnek a magját fogyasztjuk.", 
+                      "goodAnswer" : "false", 
+                      "time" : "15"
+                   }, 
+                   { 
+                      "gameType" : "TrueOrFalse", 
+                      "question" : "A növényi magnak a szaporodásban van szerepe.", 
+                      "goodAnswer" : "true", 
+                      "time" : "15"
+                   }, 
+                   { 
+                      "gameType" : "TrueOrFalse", 
+                      "question" : "A 3; 7; 11; 15……. sorozat egyik eleme a 184.", 
+                      "goodAnswer" : "false", 
+                      "time" : "15"
+                   }, 
+                   { 
+                      "gameType" : "TrueOrFalse", 
+                      "question" : "A 60; 55; 50; 45..... sorozat eleme a nulla.", 
+                      "goodAnswer" : "true", 
+                      "time" : "15"
+                   }, 
+                   { 
+                      "gameType" : "TrueOrFalse", 
+                      "question" : "A fejessaláta és a karfiol azonos növényi részeit fogyasztjuk.", 
+                      "goodAnswer" : "false", 
+                      "time" : "15"
+                   }, 
+                   { 
+                      "gameType" : "TrueOrFalse", 
+                      "question" : "A paprika és a paradicsom is egynyári növény.", 
+                      "goodAnswer" : "true", 
+                      "time" : "15"
+                   }
+                ]
+             }
+          ]
+       }, 
+       { 
+          "name" : "óra-mozaik", 
+          "multiPlayerGameMode" : "ChangeForSubTask", 
+          "games" : [ 
+             { 
+                "task" : [ 
+                   { 
+                      "gameType" : "Bubble", 
+                      "question" : "Az alábbi növények közül melyiknek\n nem fogyasztjuk a magját?", 
+                      "questionPictureBorder" : "false", 
+                      "goodAnswers" : [ 
+                         "#kaposzta.jpg"
+                      ], 
+                      "wrongAnswers" : [ 
+                         "#kukorica.jpg", 
+                         "#borso.jpg", 
+                         "#napraforgo.jpg"
+                      ], 
+                      "goodAnswerNeed" : "true", 
+                      "goodAnswerPiece" : "1", 
+                      "lifeNumber" : "0", 
+                      "time" : "15"
+                   }, 
+                   { 
+                      "gameType" : "Bubble", 
+                      "question" : "Melyik szám következik az alábbi\n sorozatban? 3,6,9,12,…", 
+                      "questionPictureBorder" : "false", 
+                      "goodAnswers" : [ 
+                         "15"
+                      ], 
+                      "wrongAnswers" : [ 
+                         "13", 
+                         "16", 
+                         "18", 
+                         "20"
+                      ], 
+                      "goodAnswerNeed" : "true", 
+                      "goodAnswerPiece" : "1", 
+                      "lifeNumber" : "0", 
+                      "time" : "15"
+                   }, 
+                   { 
+                      "gameType" : "Bubble", 
+                      "question" : "Az alábbi nevek közül hányban\n jelöljük a j hangot ly-nal?\n Mihá_,  _ános, Ibo_a, Orso_a,\n Káro_, _ózsef, _enő", 
+                      "questionPictureBorder" : "false", 
+                      "goodAnswers" : [ 
+                         "4"
+                      ], 
+                      "wrongAnswers" : [ 
+                         "2", 
+                         "5", 
+                         "6", 
+                         "7"
+                      ], 
+                      "goodAnswerNeed" : "true", 
+                      "goodAnswerPiece" : "1", 
+                      "lifeNumber" : "0", 
+                      "time" : "25"
+                   }, 
+                   { 
+                      "gameType" : "Bubble", 
+                      "question" : "Hány háromszöget látsz a képen?", 
+                      "questionPicture" : "#triangle.png", 
+                      "questionPictureBorder" : "false", 
+                      "goodAnswers" : [ 
+                         "20"
+                      ], 
+                      "wrongAnswers" : [ 
+                         "16", 
+                         "18", 
+                         "22"
+                      ], 
+                      "goodAnswerNeed" : "true", 
+                      "goodAnswerPiece" : "1", 
+                      "lifeNumber" : "0", 
+                      "time" : "15"
+                   }
+                ]
+             }
+          ]
+       }, 
+       { 
+          "name" : "óra-mozaik", 
+          "multiPlayerGameMode" : "ChangeForSubTask", 
+          "games" : [ 
+             { 
+                "task" : [ 
+                   { 
+                      "gameType" : "Sets", 
+                      "question" : "Húzd a számokat a megfelelő halmazba!", 
+                      "set" : [ 
+                         { 
+                            "setName" : "Páros számok", 
+                            "items" : [ 
+                               "1900", 
+                               "1904", 
+                               "1908", 
+                               "1912", 
+                               "1916"
+                            ]
+                         }, 
+                         { 
+                            "setName" : "Páratlan számok", 
+                            "items" : [ 
+                               "1901", 
+                               "1905", 
+                               "1909", 
+                               "1913", 
+                               "1917", 
+                               "1921", 
+                               "1925", 
+                               "1929"
+                            ]
+                         }
+                      ], 
+                      "lifeNumber" : "0", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Sets", 
+                      "question" : "Húzd a számokat a megfelelő halmazba!", 
+                      "set" : [ 
+                         { 
+                            "setName" : "Egyesek halmaza", 
+                            "items" : [ 
+                               "9", 
+                               "8", 
+                               "7", 
+                               "6", 
+                               "5", 
+                               "4"
+                            ]
+                         }, 
+                         { 
+                            "setName" : "Tízesek halmaza", 
+                            "items" : [ 
+                               "23", 
+                               "22", 
+                               "21", 
+                               "20", 
+                               "19", 
+                               "18"
+                            ]
+                         }, 
+                         { 
+                            "setName" : "Százasok halmaza", 
+                            "items" : [ 
+                               "116", 
+                               "115", 
+                               "114", 
+                               "113", 
+                               "112"
+                            ]
+                         }
+                      ], 
+                      "lifeNumber" : "0", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Sets", 
+                      "set" : [ 
+                         { 
+                            "setName" : "nyitvatermő", 
+                            "items" : [ 
+                               "#erdeifenyo.jpg"
+                            ]
+                         }, 
+                         { 
+                            "setName" : "csonthéjas", 
+                            "items" : [ 
+                               "#szilva.jpg", 
+                               "#dio.jpg", 
+                               "mogyoró", 
+                               "#mandula.jpg"
+                            ]
+                         }, 
+                         { 
+                            "setName" : "magházas", 
+                            "items" : [ 
+                               "#alma.jpg", 
+                               "#korte.jpg"
+                            ]
+                         }
+                      ], 
+                      "lifeNumber" : "0", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Sets", 
+                      "question" : "Csoportosítsd a növényeket fogyaszthatóságuk szerint!", 
+                      "set" : [ 
+                         { 
+                            "setName" : "Fogyasztható termés", 
+                            "items" : [ 
+                               "uborka", 
+                               "paradicsom", 
+                               "#szolo.jpg", 
+                               "#paprika.jpg"
+                            ]
+                         }, 
+                         { 
+                            "setName" : "Nem fogyasztható termés", 
+                            "items" : [ 
+                               "tulipán toktermése", 
+                               "burgonya bogyótermése", 
+                               "#makk.jpg", 
+                               "#toboz.jpg"
+                            ]
+                         }, 
+                         { 
+                            "setName" : "Fogyasztható mag", 
+                            "items" : [ 
+                               "bab", 
+                               "tökmag", 
+                               "#napraforgomag.jpg", 
+                               "#mak.jpg"
+                            ]
+                         }, 
+                         { 
+                            "setName" : "Nem fogyasztható mag", 
+                            "items" : [ 
+                               "hagymamag", 
+                               "répamag", 
+                               "lóheremag", 
+                               "#szilvamag.jpg"
+                            ]
+                         }
+                      ], 
+                      "lifeNumber" : "0", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Sets", 
+                      "question" : "Csoportosítsd az állatokat aszerint, hogy mivel táplálkoznak!", 
+                      "set" : [ 
+                         { 
+                            "setName" : "Növényevő", 
+                            "items" : [ 
+                               "őz", 
+                               "ló", 
+                               "cserebogár", 
+                               "szöcske", 
+                               "tehén", 
+                               "liba", 
+                               "selyemhernyó"
+                            ]
+                         }, 
+                         { 
+                            "setName" : "Ragadozó", 
+                            "items" : [ 
+                               "farkas", 
+                               "sas", 
+                               "csuka"
+                            ]
+                         }, 
+                         { 
+                            "setName" : "Mindenevő", 
+                            "items" : [ 
+                               "tyúk", 
+                               "vaddisznó", 
+                               "medve", 
+                               "borz"
+                            ]
+                         }
+                      ], 
+                      "lifeNumber" : "0", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Sets", 
+                      "question" : "Csoportosítsd az élőlényeket aszerint, hogy hol élnek az erdő szintjeiben!", 
+                      "set" : [ 
+                         { 
+                            "setName" : "Talajszint", 
+                            "setPicture" : "talajszint.png", 
+                            "items" : [ 
+                               "hangya", 
+                               "erdei egér", 
+                               "sün", 
+                               "#Pafrany.jpg", 
+                               "#IllatosIbolya.jpg", 
+                               "gyöngyvirág", 
+                               "fű"
+                            ]
+                         }, 
+                         { 
+                            "setName" : "Cserjeszint", 
+                            "setPicture" : "cserjeszint.png", 
+                            "items" : [ 
+                               "#Butterfly.jpg", 
+                               "darazsak", 
+                               "méhek"
+                            ]
+                         }, 
+                         { 
+                            "setName" : "Lombkoronaszint", 
+                            "setPicture" : "lombkorona.png", 
+                            "items" : [ 
+                               "#Squirrel.jpg", 
+                               "#Woodpecker.jpg", 
+                               "cserebogár", 
+                               "szarvasbogár"
+                            ]
+                         }
+                      ], 
+                      "lifeNumber" : "0", 
+                      "time" : "60"
+                   }
+                ]
+             }
+          ]
+       }, 
+       { 
+          "name" : "óra-mozaik", 
+          "multiPlayerGameMode" : "ChangeForSubTask", 
+          "games" : [ 
+             { 
+                "task" : [ 
+                   { 
+                      "gameType" : "MathMonster", 
+                      "questions" : [ 
+                         { 
+                            "question" : "3, 6, 12, 24, ?(48)", 
+                            "answer" : "48"
+                         }, 
+                         { 
+                            "question" : "113, 118, 123, ?(128), 133", 
+                            "answer" : "128"
+                         }
+                      ], 
+                      "wrongAnswers" : [ 
+                         "26", 
+                         "36", 
+                         "38", 
+                         "124", 
+                         "127", 
+                         "132"
+                      ], 
+                      "lifeNumber" : "0", 
+                      "time" : "30"
+                   }, 
+                   { 
+                      "gameType" : "MathMonster", 
+                      "questions" : [ 
+                         { 
+                            "question" : "791, 781, ?(771), 761, 751", 
+                            "answer" : "771"
+                         }, 
+                         { 
+                            "question" : "660, 648, 636, 624, ?(612)", 
+                            "answer" : "612"
+                         }
+                      ], 
+                      "wrongAnswers" : [ 
+                         "701", 
+                         "671", 
+                         "871", 
+                         "634", 
+                         "652"
+                      ], 
+                      "lifeNumber" : "0", 
+                      "time" : "30"
+                   }
+                ]
+             }
+          ]
+       }, 
+       { 
+          "name" : "óra-mozaik", 
+          "multiPlayerGameMode" : "ChangeForSubTask", 
+          "games" : [ 
+             { 
+                "task" : [ 
+                   { 
+                      "gameType" : "Fish", 
+                      "questions" : [ 
+                         "Léket kapott a ?(hajó) a tengeren.", 
+                         "A ?(papagáj|keselyű) és a ?(papagáj|keselyű) madár."
+                      ], 
+                      "answers" : [ 
+                         "hajó", 
+                         "halyó", 
+                         "papagáj", 
+                         "papagály", 
+                         "kesejű", 
+                         "keselyű"
+                      ], 
+                      "lifeNumber" : "0", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Fish", 
+                      "questions" : [ 
+                         "Léket kapott a ?(hajó) a tengeren.", 
+                         "A ?(papagáj|keselyű) és a ?(papagáj|keselyű) madár."
+                      ], 
+                      "answers" : [ 
+                         "hajó", 
+                         "halyó", 
+                         "papagáj", 
+                         "papagály", 
+                         "kesejű", 
+                         "keselyű"
+                      ], 
+                      "lifeNumber" : "0", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Fish", 
+                      "questions" : [ 
+                         "100, 110, ?(120), 130, ?(140)", 
+                         "191, ?(193), 195, 197, ?(199), 201"
+                      ], 
+                      "answers" : [ 
+                         "120", 
+                         "140", 
+                         "193", 
+                         "199", 
+                         "111", 
+                         "198"
+                      ], 
+                      "lifeNumber" : "0", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Fish", 
+                      "questions" : [ 
+                         "992, ?(994), 996, ?(998), 1000", 
+                         "780, 775, ?(770), ?(765), 760"
+                      ], 
+                      "answers" : [ 
+                         "994", 
+                         "998", 
+                         "770", 
+                         "765", 
+                         "997", 
+                         "785"
+                      ], 
+                      "lifeNumber" : "0", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Fish", 
+                      "questions" : [ 
+                         "8, 16, ?(24), 32, ?(40), 48", 
+                         "40, ?(36), 32, ?(28), 24, 20"
+                      ], 
+                      "answers" : [ 
+                         "24", 
+                         "40", 
+                         "36", 
+                         "28", 
+                         "44", 
+                         "45"
+                      ], 
+                      "lifeNumber" : "0", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Fish", 
+                      "questions" : [ 
+                         "18, ?(27), 36, ?(45), 54", 
+                         "970, ?(960), ?(950), 940, 930"
+                      ], 
+                      "answers" : [ 
+                         "27", 
+                         "45", 
+                         "960", 
+                         "950", 
+                         "34", 
+                         "910"
+                      ], 
+                      "lifeNumber" : "0", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Fish", 
+                      "questions" : [ 
+                         "A sapkámról leszakadt a ?(bojt).", 
+                         "Péter ?(fogja) édesanyja kezét."
+                      ], 
+                      "answers" : [ 
+                         "bojt", 
+                         "fogja", 
+                         "bolyt", 
+                         "foglya"
+                      ], 
+                      "lifeNumber" : "0", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Fish", 
+                      "questions" : [ 
+                         "A hangyák nagy ?(bolyt) építenek.", 
+                         "A vitéznek kiesett a kezéből ?(szablya)."
+                      ], 
+                      "answers" : [ 
+                         "bolyt", 
+                         "szablya", 
+                         "bojt", 
+                         "szabja"
+                      ], 
+                      "lifeNumber" : "0", 
+                      "time" : "60"
+                   }
+                ]
+             }
+          ]
+       }, 
+       { 
+          "name" : "óra-mozaik", 
+          "multiPlayerGameMode" : "ChangeForSubTask", 
+          "games" : [ 
+             { 
+                "task" : [ 
+                   { 
+                      "gameType" : "Affix", 
+                      "questions" : [ 
+                         { 
+                            "question" : "any-", 
+                            "answers" : [ 
+                               "ja"
+                            ]
+                         }, 
+                         { 
+                            "question" : "bé-", 
+                            "answers" : [ 
+                               "lyeg"
+                            ]
+                         }, 
+                         { 
+                            "question" : "cser-", 
+                            "answers" : [ 
+                               "je"
+                            ]
+                         }, 
+                         { 
+                            "question" : "pá-", 
+                            "answers" : [ 
+                               "lya"
+                            ]
+                         }
+                      ], 
+                      "answers" : [ 
+                         "ja", 
+                         "jeg", 
+                         "lya", 
+                         "lyeg", 
+                         "je", 
+                         "lya", 
+                         "lye"
+                      ], 
+                      "lifeNumber" : "0", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Affix", 
+                      "questions" : [ 
+                         { 
+                            "question" : "király", 
+                            "answers" : [ 
+                               "nő", 
+                               "fi"
+                            ]
+                         }, 
+                         { 
+                            "question" : "jeges", 
+                            "answers" : [ 
+                               "medve"
+                            ]
+                         }, 
+                         { 
+                            "question" : "osztály", 
+                            "answers" : [ 
+                               "terem", 
+                               "társ"
+                            ]
+                         }, 
+                         { 
+                            "question" : "kulcs", 
+                            "answers" : [ 
+                               "lyuk", 
+                               "tartó"
+                            ]
+                         }
+                      ], 
+                      "answers" : [ 
+                         "nő", 
+                         "tartó", 
+                         "fi", 
+                         "lyuk", 
+                         "medve", 
+                         "társ", 
+                         "terem"
+                      ], 
+                      "lifeNumber" : "0", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Affix", 
+                      "questions" : [ 
+                         { 
+                            "question" : "6, 8, 10", 
+                            "answers" : [ 
+                               "12"
+                            ]
+                         }, 
+                         { 
+                            "question" : "7, 9, 11", 
+                            "answers" : [ 
+                               "13"
+                            ]
+                         }, 
+                         { 
+                            "question" : "20, 30, 40", 
+                            "answers" : [ 
+                               "50"
+                            ]
+                         }, 
+                         { 
+                            "question" : "25, 50, 75", 
+                            "answers" : [ 
+                               "100"
+                            ]
+                         }
+                      ], 
+                      "answers" : [ 
+                         "12", 
+                         "50", 
+                         "14", 
+                         "95", 
+                         "13", 
+                         "65", 
+                         "100"
+                      ], 
+                      "lifeNumber" : "0", 
+                      "time" : "60"
+                   }
+                ]
+             }
+          ]
+       }, 
+       { 
+          "name" : "óra-mozaik", 
+          "multiPlayerGameMode" : "ChangeForSubTask", 
+          "games" : [ 
+             { 
+                "task" : [ 
+                   { 
+                      "gameType" : "Boom", 
+                      "question" : "Melyik növénynek esszük a gyökerét?", 
+                      "goodanswers" : [ 
+                         "#zeller.jpg", 
+                         "#pasztinak.jpg", 
+                         "#petrezselyem.jpg", 
+                         "#sargarepa.jpg", 
+                         "#cekla.jpg"
+                      ], 
+                      "wronganswers" : [ 
+                         "#alma.jpg", 
+                         "#karalabe.jpg", 
+                         "#zoldbab.jpg", 
+                         "#uborka.jpg"
+                      ], 
+                      "showtime" : "1.0", 
+                      "breaktime" : "0.5", 
+                      "lifeNumber" : "0", 
+                      "round" : "3", 
+                      "random" : "true", 
+                      "needgoodanswers" : "true", 
+                      "showgoodanswersplace" : "true", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Boom", 
+                      "question" : "Válaszd ki a terméseket!", 
+                      "goodanswers" : [ 
+                         "#szilva.jpg", 
+                         "#alma.jpg", 
+                         "#korte.jpg", 
+                         "#paradicsom.jpg"
+                      ], 
+                      "wronganswers" : [ 
+                         "#rozsa.jpg", 
+                         "#spenot.jpg", 
+                         "#salata.jpg", 
+                         "#gyermeklancfu.jpg"
+                      ], 
+                      "showtime" : "1.0", 
+                      "breaktime" : "0.5", 
+                      "lifeNumber" : "0", 
+                      "round" : "3", 
+                      "random" : "true", 
+                      "needgoodanswers" : "true", 
+                      "showgoodanswersplace" : "true", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Boom", 
+                      "question" : "Válaszd ki a terméseket!", 
+                      "goodanswers" : [ 
+                         "eper", 
+                         "dinnye", 
+                         "uborka", 
+                         "paprika", 
+                         "banán", 
+                         "toboz", 
+                         "makk", 
+                         "szőlő"
+                      ], 
+                      "wronganswers" : [ 
+                         "pipacs", 
+                         "orgona"
+                      ], 
+                      "showtime" : "1.0", 
+                      "breaktime" : "0.5", 
+                      "lifeNumber" : "0", 
+                      "round" : "3", 
+                      "random" : "true", 
+                      "needgoodanswers" : "true", 
+                      "showgoodanswersplace" : "true", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Boom", 
+                      "question" : "Válaszd ki a hárommal osztható számokat a sorozatból!", 
+                      "goodanswers" : [ 
+                         "3", 
+                         "9", 
+                         "12", 
+                         "15", 
+                         "18"
+                      ], 
+                      "wronganswers" : [ 
+                         "2", 
+                         "5", 
+                         "7", 
+                         "11", 
+                         "16", 
+                         "22"
+                      ], 
+                      "showtime" : "1.0", 
+                      "breaktime" : "0.5", 
+                      "lifeNumber" : "0", 
+                      "round" : "3", 
+                      "random" : "true", 
+                      "needgoodanswers" : "true", 
+                      "showgoodanswersplace" : "true", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Boom", 
+                      "question" : "Válaszd ki a hárommal osztható számokat a sorozatból!", 
+                      "goodanswers" : [ 
+                         "3", 
+                         "9", 
+                         "12", 
+                         "15", 
+                         "18", 
+                         "69", 
+                         "21", 
+                         "6"
+                      ], 
+                      "wronganswers" : [ 
+                         "2", 
+                         "5", 
+                         "7", 
+                         "11", 
+                         "16", 
+                         "22", 
+                         "53", 
+                         "14", 
+                         "23", 
+                         "32"
+                      ], 
+                      "showtime" : "0.8", 
+                      "breaktime" : "0.2", 
+                      "lifeNumber" : "0", 
+                      "round" : "3", 
+                      "random" : "true", 
+                      "needgoodanswers" : "true", 
+                      "time" : "60"
+                   }
+                ]
+             }
+          ]
+       }, 
+       { 
+          "name" : "óra-mozaik", 
+          "multiPlayerGameMode" : "ChangeForSubTask", 
+          "games" : [ 
+             { 
+                "task" : [ 
+                   { 
+                      "gameType" : "Hangman", 
+                      "question" : "nem esik messze az alma a fájától", 
+                      "keyset" : "hu", 
+                      "lifeNumber" : "10", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Hangman", 
+                      "question" : "ki mint vet úgy arat", 
+                      "keyset" : "hu", 
+                      "lifeNumber" : "10", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Hangman", 
+                      "question" : "nem mind arany ami fénylik", 
+                      "keyset" : "hu", 
+                      "lifeNumber" : "10", 
+                      "time" : "60"
+                   }
+                ]
+             }
+          ]
+       }, 
+       { 
+          "name" : "óra-mozaik", 
+          "multiPlayerGameMode" : "ChangeForSubTask", 
+          "games" : [ 
+             { 
+                "task" : [ 
+                   { 
+                      "gameType" : "Read", 
+                      "storyTitle" : "Piroska és a farkas (részlet)", 
+                      "story" : "Vm9sdCBlZ3lzemVyIGVneSBhcmFueW9zIGtpc2zDoW55LCBtaW5kZW5raSBzemVyZXR0ZSwgYWtpIGNzYWsgbMOhdHRhLCBkZSBsZWdqb2JiYW4gbcOpZ2lzIGEgbmFneW1hbcOhamEuIEF6dCBzZW0gdHVkdGEsIG1pdCBhZGpvbiBuZWtpLCBtaXZlbCBrZXJlc3NlIGEga2VkdsOpdCBraXMgdW5va8OhasOhbmFrLiBFZ3lzemVyIGVneSBzesOpcCBwaXJvcyBiw6Fyc29ueXNhcGvDoXQgdmV0dCBuZWtpIGFqw6FuZMOpa2JhLCBzIG1pdmVsIGF6IG9seWFuIGrDs2wgw6FsbHQgYSBraXNsw6FueW5haywgaG9neSBhem9udMO6bCBtaW5kaWcgY3NhayBhenQgaG9yZHRhLCBlbCBpcyBuZXZlenTDqWsgcsOzbGEgUGlyb3Nrw6FuYWsuIEVneXN6ZXIgYXp0IG1vbmRqYSBuZWtpIGF6IMOpZGVzYW55amE6ICJHeWVyZSBjc2FrLCBraXNsw6FueW9tISBJdHQgZXogYSBrYWzDoWNzIMOpcyBlZ3kgw7x2ZWcgYm9yLCB2aWRkIGVsIGEgbmFneW1hbcOhbmFrLiBCZXRlZyBpcywgZ3llbmdlIGlzLCBqw7NsIGZvZyBlc25pIG5la2kgZXogYSBuw6low6FueSBmYWxhdC4gSW5kdWxqIGVsIGrDsyBrb3LDoW4sIG3DqWcgbWllbMWRdHQgYmXDoWxsIGEgaMWRc8OpZy4gSGEga2ltw6lzeiBheiB1dGPDoXJhLCB2aXNlbGtlZGogcmVuZGVzZW4sIG5lIHTDqXJqIGxlIGF6IMO6dHLDs2wsIG1lcnQgZWxlc2hldHN6LCDDqXMgZWx0w7ZyaGV0ZWQgYXogw7x2ZWdldCwgw6lzIGFra29yIGEgbmFneW1hbcOhbmFrIHNlbW1pIHNlbSBtYXJhZC4gw4lzIGhhIGJlbMOpcHN6IGEgc3pvYsOhYmEsIG5lIGZlbGVqdHMgZWwga8O2c3rDtm5uaSBuZWtpLCDDqXMgbmUga3Vra2FudHMgYmUgZWzFkWJiIG1pbmRlbiBzYXJva2JhISIgIk1pbmRlbiDDumd5IGxlc3osIGFob2d5IG1vbmRvZCIsIGZlbGVsdGUgUGlyb3NrYSBheiDDqWRlc2FueWrDoW5haywgw6lzIG1lZ8O2bGVsdGUgYsO6Y3PDunrDs3VsLiANCkEgbmFneW1hbWEgYXpvbmJhbiBiZW5uIGxha290dCBheiBlcmTFkWJlbiwgZsOpbMOzcsOhbnlpIGrDoXLDoXNyYSBhIGZhbHV0w7NsLCBhaG9sIFBpcm9za2EgbGFrb3R0LiBOb3MgaMOhdCwgYW1pbnQgYSBraXNsw6FueSBheiBlcmTFkSBzxbFyxbFqw6liZSDDqXJ0LCB0YWzDoWxrb3pvdHQgYSBmYXJrYXNzYWwuIE1pdmVsIGF6b25iYW4gbmVtIHR1ZHRhLCBob2d5IG1pbHllbiBnb25vc3ogw6FsbGF0dGFsIHZhbiBkb2xnYSwgbmVtIGbDqWx0IHTFkWxlLiAiSsOzIG5hcG90LCBQaXJvc2thIiwga8O2c3rDtm50IHLDoSBhIGZhcmthcy4gLSAiTmVrZWQgaXMsIGtlZHZlcyBmYXJrYXMuIiAtICJIb3bDoSBpZ3lla3N6ZWwgaWx5ZW4ga29yw6FuLCBrZWR2ZXMgUGlyb3NrYT8iIC0gIkEgbmFneW1hbcOhbWhvei4iIC0gIkF6dMOhbiBtaXQgdmlzemVsIGEga8O2dMOpbnllZGJlbj8iICJLYWzDoWNzb3Qgw6lzIGJvcnQuIFRlZ25hcCBzw7x0w7Z0dGUgw6lkZXNhbnnDoW07IGEgbmFneW1hbcOhbSBiZXRlZyBpcywgZ3llbmdlIGlzLCBqw7N0IGZvZyB0ZW5uaSBuZWtpIGF6IMOpdGVsLWl0YWwsIGVneSBraWNzaXQgZXLFkXJlIGthcCBtYWpkIHTFkWxlLiIgLSJQaXJvc2thLCBob2wgbGFraWsgYSBuYWd5bWFtw6FkPyIgLSAiS8O2csO8bGJlbMO8bCBtw6lnIGVneSBuZWd5ZWTDs3LDoW55aSBqw6Fyw6FzcmEgaW5uZW4sIGJlbm4gYXogZXJkxZEgc8WxcsWxasOpYmVuLCBhIGjDoXJvbSBuYWd5IHTDtmxneWZhIGFsYXR0IMOhbGwgYSBow6F6YS4gTW9neW9yw7Nzw7Z2w6lueSB2ZXN6aSBrw7Zyw7xsLCBiaXp0b3NhbiBpc21lcmVkIHRlIGlzIiwgbWFneWFyw6F6dGEgZ3lhbsO6dGxhbnVsIFBpcm9za2EuIA==", 
+                      "questions" : [ 
+                         { 
+                            "question" : "A piroska nagymamájához vezető utat ?? övezi.", 
+                            "answerGroups" : [ 
+                               [ 
+                                  "mogyorósövény", 
+                                  "tujasor", 
+                                  "virágágyás", 
+                                  "várárok"
+                               ]
+                            ]
+                         }, 
+                         { 
+                            "question" : "Piroska ?? és ?? visz a kötényében", 
+                            "answerGroups" : [ 
+                               [ 
+                                  "kalácsot", 
+                                  "kiflit", 
+                                  "körtét", 
+                                  "levest"
+                               ], 
+                               [ 
+                                  "bort", 
+                                  "vizet", 
+                                  "tejet", 
+                                  "szörpöt"
+                               ]
+                            ]
+                         }, 
+                         { 
+                            "question" : "Piroska bársonysapkája ?? színű.", 
+                            "answerGroups" : [ 
+                               [ 
+                                  "piros", 
+                                  "zöld", 
+                                  "kék", 
+                                  "sárga"
+                               ]
+                            ]
+                         }, 
+                         { 
+                            "question" : "A piroska nagymamája ?? járásra lakott a falutól.", 
+                            "answerGroups" : [ 
+                               [ 
+                                  "fél órányi", 
+                                  "fél napnyi", 
+                                  "két percnyi"
+                               ]
+                            ]
+                         }, 
+                         { 
+                            "question" : "A nagymama ?? is, ?? is.", 
+                            "answerGroups" : [ 
+                               [ 
+                                  "beteg", 
+                                  "egészséges", 
+                                  "fiatal", 
+                                  "szép", 
+                                  "okos"
+                               ], 
+                               [ 
+                                  "gyenge", 
+                                  "erős", 
+                                  "bátor", 
+                                  "pletykás"
+                               ]
+                            ]
+                         }, 
+                         { 
+                            "question" : "A nagymama háza ?? nagy ?? alatt áll.", 
+                            "answerGroups" : [ 
+                               [ 
+                                  "három", 
+                                  "kettő", 
+                                  "négy", 
+                                  "öt", 
+                                  "hat"
+                               ], 
+                               [ 
+                                  "tölgyfa", 
+                                  "jegenyefa", 
+                                  "diófa", 
+                                  "körtefa"
+                               ]
+                            ]
+                         }, 
+                         { 
+                            "question" : "Piroska ?? találkozott az erdőben.", 
+                            "answerGroups" : [ 
+                               [ 
+                                  "farkassal", 
+                                  "nyúllal", 
+                                  "oroszlánnal", 
+                                  "egérrel", 
+                                  "mókussal", 
+                                  "őzzel", 
+                                  "vaddisznóval", 
+                                  "szarvassal", 
+                                  "tyúkkal"
+                               ]
+                            ]
+                         }
+                      ], 
+                      "lifeNumber" : "0", 
+                      "time" : "300"
+                   }, 
+                   { 
+                      "gameType" : "Read", 
+                      "storyTitle" : "Piroska és a farkas (részlet)", 
+                      "story" : "Vm9sdCBlZ3lzemVyIGVneSBhcmFueW9zIGtpc2zDoW55LCBtaW5kZW5raSBzemVyZXR0ZSwgYWtpIGNzYWsgbMOhdHRhLCBkZSBsZWdqb2JiYW4gbcOpZ2lzIGEgbmFneW1hbcOhamEuIEF6dCBzZW0gdHVkdGEsIG1pdCBhZGpvbiBuZWtpLCBtaXZlbCBrZXJlc3NlIGEga2VkdsOpdCBraXMgdW5va8OhasOhbmFrLiBFZ3lzemVyIGVneSBzesOpcCBwaXJvcyBiw6Fyc29ueXNhcGvDoXQgdmV0dCBuZWtpIGFqw6FuZMOpa2JhLCBzIG1pdmVsIGF6IG9seWFuIGrDs2wgw6FsbHQgYSBraXNsw6FueW5haywgaG9neSBhem9udMO6bCBtaW5kaWcgY3NhayBhenQgaG9yZHRhLCBlbCBpcyBuZXZlenTDqWsgcsOzbGEgUGlyb3Nrw6FuYWsuIEVneXN6ZXIgYXp0IG1vbmRqYSBuZWtpIGF6IMOpZGVzYW55amE6ICJHeWVyZSBjc2FrLCBraXNsw6FueW9tISBJdHQgZXogYSBrYWzDoWNzIMOpcyBlZ3kgw7x2ZWcgYm9yLCB2aWRkIGVsIGEgbmFneW1hbcOhbmFrLiBCZXRlZyBpcywgZ3llbmdlIGlzLCBqw7NsIGZvZyBlc25pIG5la2kgZXogYSBuw6low6FueSBmYWxhdC4gSW5kdWxqIGVsIGrDsyBrb3LDoW4sIG3DqWcgbWllbMWRdHQgYmXDoWxsIGEgaMWRc8OpZy4gSGEga2ltw6lzeiBheiB1dGPDoXJhLCB2aXNlbGtlZGogcmVuZGVzZW4sIG5lIHTDqXJqIGxlIGF6IMO6dHLDs2wsIG1lcnQgZWxlc2hldHN6LCDDqXMgZWx0w7ZyaGV0ZWQgYXogw7x2ZWdldCwgw6lzIGFra29yIGEgbmFneW1hbcOhbmFrIHNlbW1pIHNlbSBtYXJhZC4gw4lzIGhhIGJlbMOpcHN6IGEgc3pvYsOhYmEsIG5lIGZlbGVqdHMgZWwga8O2c3rDtm5uaSBuZWtpLCDDqXMgbmUga3Vra2FudHMgYmUgZWzFkWJiIG1pbmRlbiBzYXJva2JhISIgIk1pbmRlbiDDumd5IGxlc3osIGFob2d5IG1vbmRvZCIsIGZlbGVsdGUgUGlyb3NrYSBheiDDqWRlc2FueWrDoW5haywgw6lzIG1lZ8O2bGVsdGUgYsO6Y3PDunrDs3VsLiANCkEgbmFneW1hbWEgYXpvbmJhbiBiZW5uIGxha290dCBheiBlcmTFkWJlbiwgZsOpbMOzcsOhbnlpIGrDoXLDoXNyYSBhIGZhbHV0w7NsLCBhaG9sIFBpcm9za2EgbGFrb3R0LiBOb3MgaMOhdCwgYW1pbnQgYSBraXNsw6FueSBheiBlcmTFkSBzxbFyxbFqw6liZSDDqXJ0LCB0YWzDoWxrb3pvdHQgYSBmYXJrYXNzYWwuIE1pdmVsIGF6b25iYW4gbmVtIHR1ZHRhLCBob2d5IG1pbHllbiBnb25vc3ogw6FsbGF0dGFsIHZhbiBkb2xnYSwgbmVtIGbDqWx0IHTFkWxlLiAiSsOzIG5hcG90LCBQaXJvc2thIiwga8O2c3rDtm50IHLDoSBhIGZhcmthcy4gLSAiTmVrZWQgaXMsIGtlZHZlcyBmYXJrYXMuIiAtICJIb3bDoSBpZ3lla3N6ZWwgaWx5ZW4ga29yw6FuLCBrZWR2ZXMgUGlyb3NrYT8iIC0gIkEgbmFneW1hbcOhbWhvei4iIC0gIkF6dMOhbiBtaXQgdmlzemVsIGEga8O2dMOpbnllZGJlbj8iICJLYWzDoWNzb3Qgw6lzIGJvcnQuIFRlZ25hcCBzw7x0w7Z0dGUgw6lkZXNhbnnDoW07IGEgbmFneW1hbcOhbSBiZXRlZyBpcywgZ3llbmdlIGlzLCBqw7N0IGZvZyB0ZW5uaSBuZWtpIGF6IMOpdGVsLWl0YWwsIGVneSBraWNzaXQgZXLFkXJlIGthcCBtYWpkIHTFkWxlLiIgLSJQaXJvc2thLCBob2wgbGFraWsgYSBuYWd5bWFtw6FkPyIgLSAiS8O2csO8bGJlbMO8bCBtw6lnIGVneSBuZWd5ZWTDs3LDoW55aSBqw6Fyw6FzcmEgaW5uZW4sIGJlbm4gYXogZXJkxZEgc8WxcsWxasOpYmVuLCBhIGjDoXJvbSBuYWd5IHTDtmxneWZhIGFsYXR0IMOhbGwgYSBow6F6YS4gTW9neW9yw7Nzw7Z2w6lueSB2ZXN6aSBrw7Zyw7xsLCBiaXp0b3NhbiBpc21lcmVkIHRlIGlzIiwgbWFneWFyw6F6dGEgZ3lhbsO6dGxhbnVsIFBpcm9za2EuIA==", 
+                      "questions" : [ 
+                         { 
+                            "question" : "A piroska nagymamájához vezető utat ?? övezi.", 
+                            "answerGroups" : [ 
+                               [ 
+                                  "mogyorósövény", 
+                                  "tujasor", 
+                                  "virágágyás", 
+                                  "várárok"
+                               ]
+                            ]
+                         }, 
+                         { 
+                            "question" : "Piroska ?? és ?? visz a kötényében", 
+                            "answerGroups" : [ 
+                               [ 
+                                  "kalácsot", 
+                                  "kiflit", 
+                                  "körtét", 
+                                  "levest"
+                               ], 
+                               [ 
+                                  "bort", 
+                                  "vizet", 
+                                  "tejet", 
+                                  "szörpöt"
+                               ]
+                            ]
+                         }, 
+                         { 
+                            "question" : "Piroska bársonysapkája ?? színű.", 
+                            "answerGroups" : [ 
+                               [ 
+                                  "piros", 
+                                  "zöld", 
+                                  "kék", 
+                                  "sárga"
+                               ]
+                            ]
+                         }, 
+                         { 
+                            "question" : "A piroska nagymamája ?? járásra lakott a falutól.", 
+                            "answerGroups" : [ 
+                               [ 
+                                  "fél órányi", 
+                                  "fél napnyi", 
+                                  "két percnyi"
+                               ]
+                            ]
+                         }, 
+                         { 
+                            "question" : "A nagymama ?? is, ?? is.", 
+                            "answerGroups" : [ 
+                               [ 
+                                  "beteg", 
+                                  "egészséges", 
+                                  "fiatal", 
+                                  "szép", 
+                                  "okos"
+                               ], 
+                               [ 
+                                  "gyenge", 
+                                  "erős", 
+                                  "bátor", 
+                                  "pletykás"
+                               ]
+                            ]
+                         }, 
+                         { 
+                            "question" : "A nagymama háza ?? nagy ?? alatt áll.", 
+                            "answerGroups" : [ 
+                               [ 
+                                  "három", 
+                                  "kettő", 
+                                  "négy", 
+                                  "öt", 
+                                  "hat"
+                               ], 
+                               [ 
+                                  "tölgyfa", 
+                                  "jegenyefa", 
+                                  "diófa", 
+                                  "körtefa"
+                               ]
+                            ]
+                         }, 
+                         { 
+                            "question" : "Piroska ?? találkozott az erdőben.", 
+                            "answerGroups" : [ 
+                               [ 
+                                  "farkassal", 
+                                  "nyúllal", 
+                                  "oroszlánnal", 
+                                  "egérrel", 
+                                  "mókussal", 
+                                  "őzzel", 
+                                  "vaddisznóval", 
+                                  "szarvassal", 
+                                  "tyúkkal"
+                               ]
+                            ]
+                         }
+                      ], 
+                      "lifeNumber" : "0", 
+                      "time" : "300"
+                   }
+                ]
+             }
+          ]
+       }, 
+       { 
+          "name" : "óra-mozaik", 
+          "multiPlayerGameMode" : "ChangeForSubTask", 
+          "games" : [ 
+             { 
+                "task" : [ 
+                   { 
+                      "gameType" : "Millionaire", 
+                      "question" : "Hány hárommszöget látsz a képen?", 
+                      "questionPicture" : "triangle.png", 
+                      "questionPictureBorder" : "False", 
+                      "goodAnswers" : [ 
+                         "20"
+                      ], 
+                      "wrongAnswers" : [ 
+                         "16", 
+                         "18", 
+                         "22"
+                      ], 
+                      "goodAnswerNeed" : "true", 
+                      "lifeNumber" : "0", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Millionaire", 
+                      "question" : "A 63 nagyobb tízes szomszédjára gondoltam. Melyik ez a szám?", 
+                      "questionPictureBorder" : "False", 
+                      "goodAnswers" : [ 
+                         "70"
+                      ], 
+                      "wrongAnswers" : [ 
+                         "60", 
+                         "64", 
+                         "62", 
+                         "100", 
+                         "1000"
+                      ], 
+                      "goodAnswerNeed" : "true", 
+                      "lifeNumber" : "0", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Millionaire", 
+                      "question" : "Válaszd ki az országunkban szabadon nem élő állatokat!", 
+                      "questionPictureBorder" : "False", 
+                      "goodAnswers" : [ 
+                         "tigris", 
+                         "oroszlán", 
+                         "majom", 
+                         "kenguru"
+                      ], 
+                      "wrongAnswers" : [ 
+                         "róka", 
+                         "farkas"
+                      ], 
+                      "goodAnswerNeed" : "true", 
+                      "lifeNumber" : "0", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Millionaire", 
+                      "question" : "Válaszd ki a vízi- vízparti élőhelyeken élő állatokat!", 
+                      "questionPictureBorder" : "False", 
+                      "goodAnswers" : [ 
+                         "pelikán", 
+                         "gólya", 
+                         "béka"
+                      ], 
+                      "wrongAnswers" : [ 
+                         "nyúl"
+                      ], 
+                      "goodAnswerNeed" : "true", 
+                      "lifeNumber" : "0", 
+                      "time" : "60"
+                   }, 
+                   { 
+                      "gameType" : "Millionaire", 
+                      "question" : "Válaszd ki a vízi- vízparti élőhelyeken élő állatokat!", 
+                      "squestionPictureBorder" : "False", 
+                      "goodAnswers" : [ 
+                         "pelikán", 
+                         "béka"
+                      ], 
+                      "wrongAnswers" : [ 
+                         "nyúl"
+                      ], 
+                      "goodAnswerNeed" : "true", 
+                      "lifeNumber" : "0", 
+                      "time" : "60"
+                   }
+                ]
+             }
+          ]
+       }
+    ]
+ }

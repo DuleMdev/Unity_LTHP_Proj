@@ -1,0 +1,170 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : [ 
+       { 
+          "id" : "988", 
+          "name" : "Magyar érettségi felkészítő 2021", 
+          "appID" : "TANLET", 
+          "autoAddUser" : "false", 
+          "picture" : "959/6051d5970f557.png", 
+          "isPublic" : "true", 
+          "joinLevel" : "submission", 
+          "description" : "", 
+          "languageID" : "26", 
+          "languageCode" : "HU", 
+          "cssClass" : "iAmOnMailLists", 
+          "userCount" : "100", 
+          "userStatus" : "subscribed", 
+          "currentPrivileges" : [ 
+             { 
+                "privilege" : "accessToSharedDesktop", 
+                "hasPrivilege" : "false"
+             }, 
+             { 
+                "privilege" : "copyContent", 
+                "hasPrivilege" : "false"
+             }, 
+             { 
+                "privilege" : "editContent", 
+                "hasPrivilege" : "false"
+             }, 
+             { 
+                "privilege" : "editMailListData", 
+                "hasPrivilege" : "false"
+             }, 
+             { 
+                "privilege" : "manageUsers", 
+                "hasPrivilege" : "false"
+             }, 
+             { 
+                "privilege" : "playContent", 
+                "hasPrivilege" : "true"
+             }, 
+             { 
+                "privilege" : "useContent", 
+                "hasPrivilege" : "false"
+             }
+          ], 
+          "isOwn" : "false", 
+          "owner" : { 
+             "userID" : "959", 
+             "userName" : "lukzoltan", 
+             "userEmail" : "lukzoltan@gmail.com", 
+             "joinedDate" : "2020-04-07 13:03:03", 
+             "languageID" : "26", 
+             "profilePicture" : "959/5e8c5de764c2b.png", 
+             "description" : ""
+          }
+       }, 
+       { 
+          "id" : "805", 
+          "name" : "Matek érettségi felkészítő 2021", 
+          "appID" : "TANLET", 
+          "autoAddUser" : "false", 
+          "picture" : "959/5fd88e4fa674e.png", 
+          "isPublic" : "true", 
+          "joinLevel" : "submission", 
+          "description" : "", 
+          "languageID" : "26", 
+          "languageCode" : "HU", 
+          "cssClass" : "iAmOnMailLists", 
+          "userCount" : "96", 
+          "userStatus" : "subscribed", 
+          "currentPrivileges" : [ 
+             { 
+                "privilege" : "accessToSharedDesktop", 
+                "hasPrivilege" : "false"
+             }, 
+             { 
+                "privilege" : "copyContent", 
+                "hasPrivilege" : "false"
+             }, 
+             { 
+                "privilege" : "editContent", 
+                "hasPrivilege" : "false"
+             }, 
+             { 
+                "privilege" : "editMailListData", 
+                "hasPrivilege" : "false"
+             }, 
+             { 
+                "privilege" : "manageUsers", 
+                "hasPrivilege" : "false"
+             }, 
+             { 
+                "privilege" : "playContent", 
+                "hasPrivilege" : "true"
+             }, 
+             { 
+                "privilege" : "useContent", 
+                "hasPrivilege" : "false"
+             }
+          ], 
+          "isOwn" : "false", 
+          "owner" : { 
+             "userID" : "959", 
+             "userName" : "lukzoltan", 
+             "userEmail" : "lukzoltan@gmail.com", 
+             "joinedDate" : "2020-04-07 13:03:03", 
+             "languageID" : "26", 
+             "profilePicture" : "959/5e8c5de764c2b.png", 
+             "description" : ""
+          }
+       }, 
+       { 
+          "id" : "804", 
+          "name" : "Román érettségi felkészítő 2021", 
+          "appID" : "TANLET", 
+          "autoAddUser" : "false", 
+          "picture" : "959/5fd88e0412c43.png", 
+          "isPublic" : "true", 
+          "joinLevel" : "submission", 
+          "description" : "", 
+          "languageID" : "26", 
+          "languageCode" : "HU", 
+          "cssClass" : "iAmOnMailLists", 
+          "userCount" : "95", 
+          "userStatus" : "subscribed", 
+          "currentPrivileges" : [ 
+             { 
+                "privilege" : "accessToSharedDesktop", 
+                "hasPrivilege" : "false"
+             }, 
+             { 
+                "privilege" : "copyContent", 
+                "hasPrivilege" : "false"
+             }, 
+             { 
+                "privilege" : "editContent", 
+                "hasPrivilege" : "false"
+             }, 
+             { 
+                "privilege" : "editMailListData", 
+                "hasPrivilege" : "false"
+             }, 
+             { 
+                "privilege" : "manageUsers", 
+                "hasPrivilege" : "false"
+             }, 
+             { 
+                "privilege" : "playContent", 
+                "hasPrivilege" : "true"
+             }, 
+             { 
+                "privilege" : "useContent", 
+                "hasPrivilege" : "false"
+             }
+          ], 
+          "isOwn" : "false", 
+          "owner" : { 
+             "userID" : "959", 
+             "userName" : "lukzoltan", 
+             "userEmail" : "lukzoltan@gmail.com", 
+             "joinedDate" : "2020-04-07 13:03:03", 
+             "languageID" : "26", 
+             "profilePicture" : "959/5e8c5de764c2b.png", 
+             "description" : ""
+          }
+       }
+    ]
+}

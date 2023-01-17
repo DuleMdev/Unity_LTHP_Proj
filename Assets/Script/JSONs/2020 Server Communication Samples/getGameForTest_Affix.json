@@ -1,0 +1,46 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : { 
+       "id" : "7452", 
+       "engine" : "Affix", 
+       "name" : "Affix", 
+       "difficulty" : "1", 
+       "keyset" : "aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz", 
+       "code" : "HU", 
+       "gameTheme" : "3", 
+       "gameEnding" : "3", 
+       "screens" : [ 
+          { 
+             "questionID" : "326", 
+             "question" : "Old meg a feladatokat", 
+             "time" : "180", 
+             "questions" : [ 
+                { 
+                   "treeItemID" : "771", 
+                   "question" : "2 + 2", 
+                   "solutions" : [ 
+                      { 
+                         "solutionID" : "809", 
+                         "solution" : "4"
+                      }, 
+                      { 
+                         "solutionID" : "810", 
+                         "solution" : "14"
+                      }
+                   ]
+                }
+             ], 
+             "distractors" : [ 
+                { 
+                   "disctractorID" : "411", 
+                   "distractor" : "6"
+                }, 
+                { 
+                   "disctractorID" : "412", 
+                   "distractor" : "8"
+                }
+             ]
+          }
+       ]
+    }
+}

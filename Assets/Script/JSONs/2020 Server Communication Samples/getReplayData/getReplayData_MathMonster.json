@@ -1,0 +1,114 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : { 
+       "id" : "3126", 
+       "userID" : "7", 
+       "created_time" : "2018-08-21 16:31:58", 
+       "modified_time" : "2018-08-21 16:56:38", 
+       "gameEngineID" : "7", 
+       "name" : "mancala 5 oszt", 
+       "labels" : "", 
+       "languageID" : "26", 
+       "difficulty" : "1", 
+       "gameValue" : "100", 
+       "scoreDivider" : "2", 
+       "helperThreshold" : "100", 
+       "tokenForTest" : "null", 
+       "testGameTheme" : "3", 
+       "testGameEnding" : "1", 
+       "isLaTeX" : "1", 
+       "gameID" : "3126", 
+       "engine" : "MathMonster", 
+       "gameEngineName" : "MathMonster", 
+       "gameEngineImage" : "engine_math_monster.png", 
+       "gameEngineWizard" : "wiz_math_monster", 
+       "count_the_score" : "1", 
+       "code" : "HU", 
+       "keyset" : "aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz", 
+       "owner" : { 
+          "userID" : "7", 
+          "userName" : "BGA", 
+          "userEmail" : "bga@classyedu.com", 
+          "joinedDate" : "2018-01-16 14:33:01", 
+          "languageID" : "26", 
+          "profilePicture" : "7/5e6f6c0ce8568.png", 
+          "description" : "null"
+       }, 
+       "isOwn" : "false", 
+       "marketModule" : "false", 
+       "super" : "false", 
+       "curriculums" : "false", 
+       "sharedMailLists" : "false", 
+       "defaultGameTheme" : "3", 
+       "gameTheme" : "1", 
+       "gameEnding" : "3", 
+       "screens" : [ 
+          { 
+             "questionID" : "48", 
+             "question" : "Illeszd be a helyes választ!", 
+             "info" : "", 
+             "time" : "180", 
+             "questions" : [ 
+                { 
+                   "mathMonsterSentenceID" : "74", 
+                   "sentence" : "A Mancalát ?(két) játékos játsza .", 
+                   "is_swappable" : "0"
+                }
+             ], 
+             "wrongAnswers" : [ 
+                "öt", 
+                "hét", 
+                "tíz", 
+                "két"
+             ], 
+             "userAnswers" : { 
+                "answers" : [ 
+                   { 
+                      "id" : "146", 
+                      "gamelogID" : "425041", 
+                      "mathMonsterSentenceID" : "74", 
+                      "answerTime" : "3.25767", 
+                      "isGood" : "1", 
+                      "questionIndex" : "0", 
+                      "answerIndex" : "3", 
+                      "mathMonsterID" : "48"
+                   }
+                ]
+             }
+          }
+       ], 
+       "images" : [ 
+       ], 
+       "log" : { 
+          "id" : "425041", 
+          "logTime" : "2020-11-24 07:32:57", 
+          "userID" : "895", 
+          "subjectID" : "19", 
+          "topicID" : "74", 
+          "courseID" : "151", 
+          "curriculumID" : "315", 
+          "gameID" : "3126", 
+          "gamePercent" : "100", 
+          "gameTime" : "8", 
+          "curriculumProgress" : "84.615", 
+          "curriculumStart" : "2020-11-24 07:28:48", 
+          "appID" : "5", 
+          "learnRoutePathID" : "19", 
+          "learnRoutePathStart" : "2020-11-24 07:28:09", 
+          "learnRoutePathProgress" : "28.205", 
+          "currentLevel" : "0", 
+          "flowStyle" : "simple", 
+          "gameIsolation" : "2020-11-24 07:32:32", 
+          "levelIsolation" : "2020-11-24 07:28:48", 
+          "levelingIsolation" : "null", 
+          "curriculumCoverage" : "84.615", 
+          "learnRoutePathCoverage" : "29.73", 
+          "gameSolved" : "1", 
+          "gameTheme" : "1", 
+          "gameEnding" : "3", 
+          "currentLevelNumber" : "3", 
+          "possibleMaxLevelNumber" : "3", 
+          "replayToken" : "ZgratCYoW3AHdzLWPPp10znP9XxfHCW9"
+       }
+    }
+}

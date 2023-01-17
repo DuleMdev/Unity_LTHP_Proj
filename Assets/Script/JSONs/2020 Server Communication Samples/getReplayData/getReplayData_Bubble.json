@@ -1,0 +1,205 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : { 
+       "id" : "20806", 
+       "userID" : "2324", 
+       "created_time" : "2022-03-01 16:14:34", 
+       "modified_time" : "2022-04-15 08:38:13", 
+       "gameEngineID" : "1", 
+       "name" : "nulla", 
+       "labels" : "", 
+       "languageID" : "26", 
+       "difficulty" : "1", 
+       "gameValue" : "100", 
+       "scoreDivider" : "2", 
+       "helperThreshold" : "100", 
+       "tokenForTest" : "ZXftiYF9EY004Hx9bqKiFX7CtBAJuHsT", 
+       "testGameTheme" : "3", 
+       "testGameEnding" : "1", 
+       "isLaTeX" : "0", 
+       "gameID" : "20806", 
+       "engine" : "Bubble", 
+       "gameEngineName" : "Bubble", 
+       "gameEngineImage" : "engine_bubble.png", 
+       "gameEngineWizard" : "wiz_bubble", 
+       "count_the_score" : "1", 
+       "code" : "HU", 
+       "keyset" : "aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz", 
+       "owner" : { 
+          "userID" : "2324", 
+          "userName" : "NyesteZsolt", 
+          "userEmail" : "nyestezsolt99@gmail.com", 
+          "joinedDate" : "2022-02-08 13:54:26", 
+          "languageID" : "26", 
+          "profilePicture" : "2324/620268027dea1.png", 
+          "description" : "null"
+       }, 
+       "isOwn" : "false", 
+       "marketModule" : "false", 
+       "super" : "false", 
+       "curriculums" : "false", 
+       "sharedMailLists" : "false", 
+       "defaultGameTheme" : "3", 
+       "gameTheme" : "2", 
+       "gameEnding" : "3", 
+       "screens" : [ 
+          { 
+             "id" : "935", 
+             "image" : "", 
+             "question" : "1 1 1", 
+             "info" : "", 
+             "task" : "Pukkaszd ki a helytelen válaszokat!", 
+             "time" : "180", 
+             "answers" : [ 
+                { 
+                   "answerID" : "3796", 
+                   "answer" : "igaz", 
+                   "is_image" : "0", 
+                   "is_correct" : "1"
+                }, 
+                { 
+                   "answerID" : "3797", 
+                   "answer" : "hamis", 
+                   "is_image" : "0", 
+                   "is_correct" : "0"
+                }
+             ], 
+             "userAnswers" : { 
+                "answers" : [ 
+                   { 
+                      "id" : "12276", 
+                      "gamelogID" : "444072", 
+                      "answerID" : "3796", 
+                      "answerTime" : "3.6996", 
+                      "isGood" : "0", 
+                      "bubbleID" : "935"
+                   }, 
+                   { 
+                      "id" : "12277", 
+                      "gamelogID" : "444072", 
+                      "answerID" : "3796", 
+                      "answerTime" : "0.9332", 
+                      "isGood" : "0", 
+                      "bubbleID" : "935"
+                   }, 
+                   { 
+                      "id" : "12278", 
+                      "gamelogID" : "444072", 
+                      "answerID" : "3796", 
+                      "answerTime" : "0.5", 
+                      "isGood" : "0", 
+                      "bubbleID" : "935"
+                   }, 
+                   { 
+                      "id" : "12279", 
+                      "gamelogID" : "444072", 
+                      "answerID" : "3796", 
+                      "answerTime" : "0.4332", 
+                      "isGood" : "0", 
+                      "bubbleID" : "935"
+                   }, 
+                   { 
+                      "id" : "12280", 
+                      "gamelogID" : "444072", 
+                      "answerID" : "3796", 
+                      "answerTime" : "0.5334", 
+                      "isGood" : "0", 
+                      "bubbleID" : "935"
+                   }, 
+                   { 
+                      "id" : "12281", 
+                      "gamelogID" : "444072", 
+                      "answerID" : "3797", 
+                      "answerTime" : "0.6331", 
+                      "isGood" : "1", 
+                      "bubbleID" : "935"
+                   }
+                ]
+             }
+          }
+       ], 
+       "images" : [ 
+       ], 
+       "log" : { 
+          "id" : "444072", 
+          "logTime" : "2022-04-15 08:40:38", 
+          "userID" : "2324", 
+          "subjectID" : "195", 
+          "topicID" : "268", 
+          "courseID" : "879", 
+          "curriculumID" : "1443", 
+          "gameID" : "20806", 
+          "gamePercent" : "16.667", 
+          "gameTime" : "16", 
+          "curriculumProgress" : "16.667", 
+          "curriculumStart" : "2022-04-15 08:40:20", 
+          "appID" : "1", 
+          "learnRoutePathID" : "1725", 
+          "learnRoutePathStart" : "2022-04-15 08:40:09", 
+          "learnRoutePathProgress" : "8.334", 
+          "currentLevel" : "0", 
+          "flowStyle" : "simple", 
+          "gameIsolation" : "2022-04-15 08:40:20", 
+          "levelIsolation" : "2022-04-15 08:40:20", 
+          "levelingIsolation" : "null", 
+          "curriculumCoverage" : "16.667", 
+          "learnRoutePathCoverage" : "8.333", 
+          "gameSolved" : "0", 
+          "gameTheme" : "3", 
+          "gameEnding" : "3", 
+          "currentLevelNumber" : "1", 
+          "possibleMaxLevelNumber" : "4", 
+          "replayToken" : "AuBgSY5geT3hqMVuUPZQ8uEJv8UfjsPR"
+       }, 
+       "userAnswers" : [ 
+          { 
+             "id" : "12276", 
+             "gamelogID" : "444072", 
+             "answerID" : "3796", 
+             "answerTime" : "3.6996", 
+             "isGood" : "0", 
+             "bubbleID" : "935"
+          }, 
+          { 
+             "id" : "12277", 
+             "gamelogID" : "444072", 
+             "answerID" : "3796", 
+             "answerTime" : "0.9332", 
+             "isGood" : "0", 
+             "bubbleID" : "935"
+          }, 
+          { 
+             "id" : "12278", 
+             "gamelogID" : "444072", 
+             "answerID" : "3796", 
+             "answerTime" : "0.5", 
+             "isGood" : "0", 
+             "bubbleID" : "935"
+          }, 
+          { 
+             "id" : "12279", 
+             "gamelogID" : "444072", 
+             "answerID" : "3796", 
+             "answerTime" : "0.4332", 
+             "isGood" : "0", 
+             "bubbleID" : "935"
+          }, 
+          { 
+             "id" : "12280", 
+             "gamelogID" : "444072", 
+             "answerID" : "3796", 
+             "answerTime" : "0.5334", 
+             "isGood" : "0", 
+             "bubbleID" : "935"
+          }, 
+          { 
+             "id" : "12281", 
+             "gamelogID" : "444072", 
+             "answerID" : "3797", 
+             "answerTime" : "0.6331", 
+             "isGood" : "1", 
+             "bubbleID" : "935"
+          }
+       ]
+    }
+}

@@ -1,0 +1,207 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : { 
+       "id" : "12270", 
+       "userID" : "932", 
+       "created_time" : "2020-04-13 15:52:10", 
+       "modified_time" : "2020-05-05 19:12:05", 
+       "gameEngineID" : "4", 
+       "name" : "12", 
+       "labels" : "", 
+       "languageID" : "26", 
+       "difficulty" : "1", 
+       "gameValue" : "100", 
+       "scoreDivider" : "2", 
+       "helperThreshold" : "100", 
+       "tokenForTest" : "PT37MhuCB9IQNHNOUM838HCrepjwsFFL", 
+       "testGameTheme" : "3", 
+       "testGameEnding" : "1", 
+       "isLaTeX" : "1", 
+       "gameID" : "12270", 
+       "engine" : "Affix", 
+       "gameEngineName" : "Affix", 
+       "gameEngineImage" : "engine_affix.png", 
+       "gameEngineWizard" : "wiz_affix", 
+       "count_the_score" : "1", 
+       "code" : "HU", 
+       "keyset" : "aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz", 
+       "owner" : { 
+          "userID" : "932", 
+          "userName" : "Gidó Hajnal", 
+          "userEmail" : "gido_hajnal@yahoo.com", 
+          "joinedDate" : "2020-03-30 16:31:31", 
+          "languageID" : "26", 
+          "profilePicture" : "932/5e8202c342bf2.png", 
+          "description" : "null"
+       }, 
+       "isOwn" : "false", 
+       "marketModule" : "false", 
+       "super" : "false", 
+       "curriculums" : "false", 
+       "sharedMailLists" : "false", 
+       "defaultGameTheme" : "3", 
+       "gameTheme" : "3", 
+       "gameEnding" : "1", 
+       "screens" : [ 
+          { 
+             "questionID" : "676", 
+             "question" : "Milyen számok halmazába tartoznak a következő műveletek megoldásai? Párosítsd!", 
+             "info" : "", 
+             "time" : "180", 
+             "questions" : [ 
+                { 
+                   "treeItemID" : "1959", 
+                   "question" : "4 - 13 =", 
+                   "solutions" : [ 
+                      { 
+                         "solutionID" : "2106", 
+                         "solution" : "Z (Egész számok halmaza)"
+                      }
+                   ]
+                }, 
+                { 
+                   "treeItemID" : "1960", 
+                   "question" : "1/2 + 7/2 =", 
+                   "solutions" : [ 
+                      { 
+                         "solutionID" : "2107", 
+                         "solution" : "Q (Racionális számok halmaza)"
+                      }
+                   ]
+                }, 
+                { 
+                   "treeItemID" : "1961", 
+                   "question" : "-43 + 66 =", 
+                   "solutions" : [ 
+                      { 
+                         "solutionID" : "2108", 
+                         "solution" : "N (Természetes számok halmaza)"
+                      }
+                   ]
+                }
+             ], 
+             "distractors" : [ 
+             ], 
+             "userAnswers" : { 
+                "answers" : [ 
+                   { 
+                      "id" : "29125", 
+                      "gamelogID" : "443931", 
+                      "affixID" : "676", 
+                      "treeItemID" : "1960", 
+                      "solutionID" : "2107", 
+                      "distractorID" : "null", 
+                      "answerTime" : "18.0336", 
+                      "isGood" : "1"
+                   }, 
+                   { 
+                      "id" : "29126", 
+                      "gamelogID" : "443931", 
+                      "affixID" : "676", 
+                      "treeItemID" : "1961", 
+                      "solutionID" : "2106", 
+                      "distractorID" : "null", 
+                      "answerTime" : "8.93265", 
+                      "isGood" : "0"
+                   }, 
+                   { 
+                      "id" : "29127", 
+                      "gamelogID" : "443931", 
+                      "affixID" : "676", 
+                      "treeItemID" : "1961", 
+                      "solutionID" : "2108", 
+                      "distractorID" : "null", 
+                      "answerTime" : "4.29938", 
+                      "isGood" : "1"
+                   }, 
+                   { 
+                      "id" : "29128", 
+                      "gamelogID" : "443931", 
+                      "affixID" : "676", 
+                      "treeItemID" : "1959", 
+                      "solutionID" : "2106", 
+                      "distractorID" : "null", 
+                      "answerTime" : "4.13341", 
+                      "isGood" : "1"
+                   }
+                ]
+             }
+          }
+       ], 
+       "images" : [ 
+       ], 
+       "log" : { 
+          "id" : "443931", 
+          "logTime" : "2022-03-21 13:22:49", 
+          "userID" : "2165", 
+          "subjectID" : "107", 
+          "topicID" : "171", 
+          "courseID" : "577", 
+          "curriculumID" : "945", 
+          "gameID" : "12270", 
+          "gamePercent" : "75", 
+          "gameTime" : "36", 
+          "curriculumProgress" : "30", 
+          "curriculumStart" : "2022-03-21 13:18:58", 
+          "appID" : "5", 
+          "learnRoutePathID" : "1652", 
+          "learnRoutePathStart" : "2022-03-21 13:17:42", 
+          "learnRoutePathProgress" : "30", 
+          "currentLevel" : "0", 
+          "flowStyle" : "simple", 
+          "gameIsolation" : "2022-03-21 13:22:07", 
+          "levelIsolation" : "2022-03-21 13:18:58", 
+          "levelingIsolation" : "null", 
+          "curriculumCoverage" : "30", 
+          "learnRoutePathCoverage" : "30", 
+          "gameSolved" : "0", 
+          "gameTheme" : "3", 
+          "gameEnding" : "1", 
+          "currentLevelNumber" : "1", 
+          "possibleMaxLevelNumber" : "1", 
+          "replayToken" : "xn3b0RTPPqmB1pWqjrd0GQ3F4pGos1W8"
+       }, 
+       "userAnswers" : [ 
+          { 
+             "id" : "29125", 
+             "gamelogID" : "443931", 
+             "affixID" : "676", 
+             "treeItemID" : "1960", 
+             "solutionID" : "2107", 
+             "distractorID" : "null", 
+             "answerTime" : "18.0336", 
+             "isGood" : "1"
+          }, 
+          { 
+             "id" : "29126", 
+             "gamelogID" : "443931", 
+             "affixID" : "676", 
+             "treeItemID" : "1961", 
+             "solutionID" : "2106", 
+             "distractorID" : "null", 
+             "answerTime" : "8.93265", 
+             "isGood" : "0"
+          }, 
+          { 
+             "id" : "29127", 
+             "gamelogID" : "443931", 
+             "affixID" : "676", 
+             "treeItemID" : "1961", 
+             "solutionID" : "2108", 
+             "distractorID" : "null", 
+             "answerTime" : "4.29938", 
+             "isGood" : "1"
+          }, 
+          { 
+             "id" : "29128", 
+             "gamelogID" : "443931", 
+             "affixID" : "676", 
+             "treeItemID" : "1959", 
+             "solutionID" : "2106", 
+             "distractorID" : "null", 
+             "answerTime" : "4.13341", 
+             "isGood" : "1"
+          }
+       ]
+    }
+}

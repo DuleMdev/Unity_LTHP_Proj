@@ -1,0 +1,8 @@
+﻿{
+	"question" : "A felsorolt szavak közül melyek a 'burgonya' szinonimái? Válaszd ki az összes helyes választ!",
+    "goodAnswers" : ["Krumpli", "Pityóka", "Kolompér"],
+	"wrongAnswers" : ["Tengeri", "Naspolya", "Ciróka", "Szakóca", "Gerebel"],
+	"goodAnswerNeed" : true,
+	"goodAnswerPiece" : 3,
+	"lifeNumber" : 1,
+}

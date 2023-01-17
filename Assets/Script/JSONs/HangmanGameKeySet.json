@@ -1,0 +1,29 @@
+﻿{
+	"English" : [
+				"abcdefgh",
+				"ijklmno",
+				"pqrstu",
+				"vwxyz",
+			],
+
+	"Hungarian" : [
+				"aábcdeéfgh",
+				"iíjklmnoó",
+				"öőpqrstu",
+				"úüűvwxyz",
+			],
+			
+	"Romanian" : [
+				"aăâbcdefgh",
+				"iîjklmno",
+				"pqrsștț",
+				"uvwxyz",
+			],
+
+	"Slovak" : [
+				"aáäbcčdďeéfgh",
+				"iíjklĺľmnňo",
+				"óôpqrŕsštť",
+				"uúvwxyýzž",
+			],
+}

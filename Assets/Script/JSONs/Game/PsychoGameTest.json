@@ -1,0 +1,25 @@
+﻿{
+	"id": "7855",
+	"engine": "Psycho",
+	"name": "Psycho_1_2_2_1_a",
+	"gameDifficulty": "50.000",
+	"avgPlayTime": "0.000",
+	"screens": [{
+		"id": "84",
+		"time": "900",
+        "psycho_instruction" : "Ez valamilyen instrukció",
+        "psycho_question" : "A kérdés ... , válaszolj vazzeeee",
+
+        "prevAnswers" : [
+            {
+                "gameEnd" : "Itt valamilyen dátum áll",
+                "answer" : "Nem tok mit mondani, kérem kapcsolja ki.",
+            },
+            {
+                "gameEnd" : "Itt valamilyen dátum áll",
+                "answer" : "Őőőőőőő, izé.",
+            },
+        ],
+	}],
+	"lastGamePercent": "null"
+}

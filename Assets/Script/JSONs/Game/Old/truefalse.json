@@ -1,0 +1,18 @@
+﻿{
+	"task" : [
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "Ha a felhőben jégkristályok vannak, és azok lehullanak, villámlás lesz.",
+			"goodAnswer" : false,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A légnemű anyagokra jellemző, hogy mindig kitöltik a rendelkezésükre álló teret.",
+			"goodAnswer" : true,
+			"time" : 15,
+		},
+
+	]
+}

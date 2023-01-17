@@ -1,0 +1,343 @@
+﻿{
+  "FacebookLogin": "Belépés",
+  "EmailLogin": "Belépés",
+  "EmailRegistration": "Regisztráció",
+  "ForgotPass": "Elfelejtett jelszó",
+
+  "Grettings": "Üdvözlünk a classY EDU rendszerében!",
+  "GrettingsInfo": "Regisztrálj vagy lépj be a Facebook profiloddal és indulhat is a tanulás.",
+  "GrettingsInfo2": "Tanulj, oktass és oszd meg!",
+
+  "OTPGrettings": "Üdvözlünk az oktatási rendszerünkben!",
+  "OTPGrettingsInfo": "Regisztráció csak meghívóval lehetséges.\nHa kaptál meghívót akkor regisztrálj azzal az e-mail címmel, melyre a meghívót kaptad.",
+
+  "ProvocentInfo": "Az applikáció tartalma nem feltétlenül  tükrözi az Európai Unió hivatalos álláspontját.",
+
+  "UserName": "Felhasználó név",
+  "PasswordAgain": "Jelszó megerősítés",
+  "PrivacyPolicy": "Az 'Elfogadás' gombra kattintva beleegyezel az adatvédelmi irányelvekbe.",
+  "EmailAddress": "E-mail cím",
+  "Registration": "Regisztráció",
+  "Login": "Belépés",
+  "RegistrationSuccess": "A regisztráció sikeres!",
+  "ForgotPasswordSuccess": "A felhasználóhoz tartozó email címre levelet küldtünk, aminek segítségével új jelszót állíthat be.",
+
+  "ExitConfirmation": "Biztosan ki szeretnél lépni?",
+
+  "SharedWithMe": "velem megosztott tananyagok",
+  "OwnCurriculum": "saját tananyagok",
+  "MakeNewCurriculum": "új tananyag készítése",
+  "EducationInClassroom": "tanórai oktatás",
+  "Students": "diákok",
+
+  "CurriculumsPlay": "tananyagok lejátszása",
+  "LiveStream": "élő stream",
+  "SubjectsList": "tantárgyak listája",
+  "ExercisedCurriculum": "gyakorolandó tananyagok",
+  "LastPlayedCurriculums": "legutóbb lejátszott tananyagok",
+  "MarketPlace": "Piactér",
+
+  "classYCurriculums": "classY tananyagok",
+  "ClassroomPlay": "tantermi\nlejátszás",
+
+  "Back": "vissza",
+
+  "SortByNewCurriculum": "új tananyagok",
+  "SortByUnaccomplishedCurriculum": "teljesítetlen tananyagok",
+  "SortByName": "név szerint abc",
+  "SortByMakeTime": "készítés ideje",
+  "SortByResult": "eredmény",
+  "SortByProgress": "haladás",
+
+  "NotCurriculum": "nincs megjeleníthető tananyag",
+
+  "NextStream": "Következő élő stream",
+  "WatchStream": "Most nézhető élő stream",
+  "NoStream": "Nincs elérhető stream",
+
+  "ProjectProducts": "project termékek",
+  "CompaniesProfiles": "céges profilok",
+  "OwnProfile": "saját profil",
+
+  "StartInvestmentPeriod": "befektetési időszak kezdetéig hátralévő idő",
+  "EndInvestmentPeriod": "befektetési időszak végéig hátralévő idő",
+  "OwnInvestment": "befektetésed",
+  "Company": "cég: ",
+  "Hours": "óra",
+
+  "AllLearn": "tanulással szerzett összes: ",
+  "AllProjectProduct": "projekt termékekkel szerzett: ",
+  "CompanyMembers": "cégtársak",
+  "CollectByLearn": "tanulással gyűjtött Pcoin",
+  "OwnerShip": "Tulajdonrész:",
+  "HighestCompanyValue": "legmagasabb cégérték a piacon",
+  "OwnCompanyValue": "ti cégetek értéke",
+  "LowestCompanyValue": "legalacsonyabb cégérték a piacon",
+
+  "AllYield": "Eddigi összes hozam",
+  "ThisPeriodInvestable": "ebben az időszakban befektethetsz",
+  "EvenXHours": "Pcoin-t",
+  "EvenXHours2": "Pcoin-t még [x] óráig",
+  "InvestedPcoin": "Pcoint már befektettél",
+
+  "MarketState": "piaci helyzet",
+  "MostSuccessfulInvestor": "legsikeresebb befektető",
+  "OwnPlace": ". helyezett",
+  "LeastSuccessfulInvestor": "legkevésbé sikeres befektető",
+
+  "ImInvestingMyPcoin": "Befektetem a [x] Pcoinom",
+  "ImInvesting": "Befektetem",
+  "PlayProjectProduct": "Projekt termék lejátszása",
+
+  "SureInvestment": "Biztosan befekteted a Pcoinjaidat ebbe a cégbe?",
+
+  "ResultSum": "összesített eredmény:",
+  "StartLearning": "tanulás indítása",
+  "PlayTime": "tanulással eltöltött idő:",
+  "AppPlayTime": "összes tanulással eltöltött idő:",
+
+  "SelectCurriculumLanguage": "Válaszd ki a tananyag nyelvét!",
+
+  "ChoiceYouAreTeacherOrStudent": "Válaszd ki, hogy tanárként vagy diákként használod az alkalmazást",
+  "Teacher": "Tanár",
+  "Student": "Diák",
+
+  "ClassroomEducationStart": "Tantermi oktatás indítása",
+
+  "SelectEducationMode": "Válaszd ki az oktatás módját",
+  "Online": "Online",
+  "Offline": "Offline",
+  "Start": "Indítás",
+  "PathDownload": "Útvonalak letöltése",
+  "ClassroomGroupsDownload": "Tantermi csoportok letöltése",
+  "OfflineDatasUpload": "Offline adatok feltöltése",
+
+  "ClassroomGroupSelect": "Tantermi csoport kiválasztása",
+
+  "DownloadCurriculum": "Tantermi tananyag letöltése Internet kapcsolat nélküli üzemmódhoz.",
+  "Download": "Letöltés",
+
+  "DownloadedCurriculum": "Letöltött útvonalak",
+  "Preview": "Előnézet",
+
+  "userNotLoggedIn": "Bejelentkezés szükséges",
+
+  "emptyUsername": "Üres a felhasználói név mező!",
+  "lengthUsername": "Túl rövid felhasználói név, min. 3 karakter!",
+  "existUsername": "A felhasználói név már foglalt!",
+  "userNotExist": "Nem létezik ilyen felhasználói név!",
+
+  "emptyPass": "Üres a jelszó mező!",
+  "lengthPass": "Túl rövid jelszó, min. 6 karakter!",
+  "matchPass": "A két jelszó nem egyezik!",
+  "wrongPassword": "Hibás jelszó!",
+  "existEmail": "Az email cím már foglalt!",
+  "wrongEmail": "Hibás az email cím formátuma!",
+  "userNotInvitedToApp": "Sajnos nem tudsz belépni mert nem vagy meghíva az alkalmazásba. Kérj meghívót vagy használd a classY alkalmazást.",
+
+  "missingDuck": "Nem létező appID",
+  "missingDuckID": "Az appID nem lett megadva!",
+  "missingDuckVersion": "Az appVerzió nem lett megadva!",
+  "versionMismatchError": "Az alkalmazás elavult, frissítse!",
+
+  "ThisLearnRouteIsFinished": "Ezt a tanulási útvonalat már teljesítetted!",
+  "curriculumPlayWasStopped": "A tanterv lejátszása félbe lett hagyva.",
+  "continue": "folytatás",
+  "restart": "újrakezdés",
+  "gameResultResend": "A játék eredményének elküldése a szervernek sikertelen volt.\nÚjra küldés",
+
+  "nextGame": "Következő tanegység",
+  "nextCurriculum": "Következő tananyag",
+  "exit": "Kilépés",
+  "gameGratulation": "Gratulálunk!\nSikeresen teljesítetted a tananyagot.",
+
+  "Completed": "teljesítve",
+  "New": "új",
+  "MadeBy": "készítette: ",
+  "Date": "dátum: ",
+  "Subject": "tantárgy: ",
+  "SearchWords": "kereső szavak: ",
+  "Points": "pont",
+
+  "ShareWithStudentsForLearn": "Megosztás diákoknak  tanulásra",
+  "ShareInCommonWork": "Megosztás közös munkára",
+  "ShareOnFacebook": "Megosztás Facebookon",
+  "ShareOnClassYStore": "Megosztás classY storeba",
+  "Play": "Lejátszás",
+
+  "Teacher tablet": "Tanári tablet",
+  "Student tablet": "Tanulói tablet",
+  "Server": "Szerver",
+  "Client": "Kliens",
+  "Server address": "Szerver cím",
+  "Port number": "Port szám",
+  "Maximum client number": "Max kliens szám",
+
+  "Save": "Rögzít",
+  "Cancel": "Mégsem",
+  "Ok": "Rendben",
+  "Selection": "Kiválasztás",
+
+  "PortNumberError": "A port szám nem lehet nagyobb mint 65535",
+  "ConnectNumberError": "A maximális kliens szám 99 lehet",
+  "Tablet ID": "Táblagép azonosító",
+  "Order number": "Sorszám",
+  "Client config": "Kliens konfigurálása",
+  "Connect": "Kapcsolódás",
+  "Server config": "Szerver konfigurálása",
+  "Server start": "Szerver indítása",
+
+  "All client": "Összes kliens",
+
+  "Group number": "Csoport szám",
+  "Grouping": "Csoportosítás",
+
+  "GroupNumberError": "A csoport szám nem lehet kevesebb egynél",
+
+  "Connect success": "Kapcsolódás sikerült",
+
+  "UpdateDownload": "Frissítés letöltése",
+  "Update": "Frissítés",
+  "IgnoreUpdate": "Frissítés mellőzése",
+
+  "User name": "Felhasználó neve",
+  "Password": "Jelszó",
+  "Login": "Bejelentkezés",
+
+  "Logout": "Kijelentkezés",
+  "Synchronize": "Szinkronizálás",
+  "Lesson plan": "Óraterv",
+
+  "LessonPlanID": "Azonosító",
+  "LessonPlanLabels": "Cimkék",
+
+  "ExactTime": "Pontos idő",
+  "ElapsedTime": "Eltelt idő",
+
+  "ID": "ID",
+
+  "StudentName": "Diák neve",
+  "Rank": "Rangsor",
+  "Point": "Pont",
+  "Progress": "Haladás",
+  "Mosaic": "Mozaik",
+  "Game": "Játék",
+  "WaitStudentTabletConnect": "Várakozás a diák tablettek csatlakozására...",
+
+  "Red": "Piros",
+  "Green": "Zöld",
+  "Blue": "Kék",
+  "Pink": "Rózsaszín",
+  "Orange": "Narancssárga",
+  "Purple": "Lila",
+  "Yellow": "Sárga",
+  "Cyan": "Világoskék",
+  "Brown": "Barna",
+
+  "group": "csoport",
+
+  "GameID": "Játék azonosító",
+  "Labels": "Cimkék",
+  "Screen": "Képernyő",
+
+  "SureStartLessonPlan": "Biztosan elindítod az óratervet?",
+  "LoadLessonPlan": "Óraterv betöltése.",
+  "ProcessingLessonPlan": "Óraterv feldolgozása.",
+
+  "SureLeaveLessonPlan": "Biztosan elhagyod az óratervet?",
+  "Attention": "Figyelem!",
+  "ConnectBreakBetweenTeacherAndStudent": "Az óraterv elhagyásakor az oktatói és diák tablettek közötti kapcsolat megszakad.",
+
+  "CooperativLessonMosaicStartAutoGroup": "Kooperatív óra-mozaik indítása\nautomatikus csoportkiosztással",
+  "AutoGroup": "Automatikus csoportosítás",
+  "CustomGroup": "Egyéni csoportosítás",
+
+  "IdealPeopleNumberInAGroup": "Add meg a csoportok ideális létszámát!",
+
+  "second": "másodperc",
+  "sec": "mp",
+
+  "GroupingHappened": "A csoportosítás megtörtént.",
+  "GroupsOrderingByScreenColor": "A csoportok a képernyőjükön megjelenő szín szerint rendeződjenek össze.",
+  "GroupsOrderedLessonMosaicStart": "A csoportok rendeződtek, óra-mozaik indítása",
+  "TheLessonMosaicStartAfter(time)Seconds": "Az óra-mozaik (time) sec múlva automatikusan elindul.",
+
+  "StartSinglePlayer": "Egyéni óra-mozaik indítása",
+  "AutomaticStart(time)Sec": "Automatikus indítás: (time) sec",
+
+  "LessonPlanIsBreaking": "Az óraterv szünetel.",
+  "PressPlayButtonToContinue": "A folytatásához nyomd meg a fejlécen a 'play' gombot",
+
+  "LessonPlanIsPaused": "Az óraterv leállítva.",
+
+  "ServerIPaddress": "Szerver IP cím",
+  "ServerPortNumber": "Szerver portszám",
+
+  "ConnectToServer": "Kapcsolódás a szerverhez.",
+  "ConnectToServerUnsuccessful": "A kapcsolódás sikertelen.",
+
+  "ConnectIsBroken": "Megszakadt a szerverrel a kapcsolat",
+
+  "SearchGroupmates": "Keresd meg a csoporttársaidat.",
+
+  "LessonPlanError": "Hiba az óratervben.",
+
+  "ServerError": "Szerver hiba",
+
+  "ServerResponse": "Szerver válasza : ",
+
+  "WrongUserNameOrPassword": "Rossz felhasználónév vagy jelszó!",
+
+  "ErrorUnderProcessing": "Hiba a feldolgozás alatt",
+
+  "SwitchOfflineMode": "A tablet offline üzemmódba kapcsol.",
+
+  "SelectClassToLesson": "Válaszd ki az óratervhez tartozó osztályt!",
+
+  "WaitForGroupmates": "Várakozás a csoporttársaidra.",
+
+  "YouAreFinishedTheLessonPlan": "Ügyes vagy!\nVégigértél az összes játékon!",
+
+  "True": "IGAZ",
+  "False": "HAMIS",
+
+  "PopOutWrongAnswers": "Pukkaszd ki a rossz választ tartalmazó buborékokat.",
+
+  "PickTheRightAnswerAndFindItsPlace": "Válaszd ki a helyes választ és húzd a helyére!",
+
+  "Answer": "Válasz",
+  "History": "Előzmények",
+  "SendAndNext": "Küldés és továbblépés",
+
+  "Questions": "Kérdések",
+  "Task": "Feladat",
+  "Verify": "Ellenőrzés",
+  "Next": "Tovább",
+  "Again": "Újra",
+
+  "LearnThenPlay": "LearnThenPlay",
+
+  "TurnOnLThP1": "Bekapcsolod a LearnThenPlay funkciót?",
+  "TextLongInfo2": "(A blokkoláshoz a szülői PIN kódra lesz szükséged, amit e-mailben kaptál meg. Az eszköz minden más funkciója blokkolva lesz a kötelező feladatok megoldásáig. A blokkolást bármikor feloldhatod a szülői PIN kóddal)",
+  "PinText3": "PIN kód:",
+  "PinStarText4": "* Írdd be a szülői PIN kódot! Ha elfelejtetted, kérj újat, amit a szülői e-mail címre kapsz meg!",
+  "NewPinButton5": "Új PIN kérése",
+  "OkButton": "OK",
+
+  "LearnTHENPlayFunction": "Learn THEN Play funkció",
+  "TextOff": "Ki",
+  "TextOn": "Be",
+
+  "TurnOffLThP1": "Kikapcsolod a Learn THEN Play funkciót?",
+  "TextLongInfoOff2": "A kikapcsoláshoz a szülői PIN kódra lesz szükséged, amit e-mailben kaptál meg. A funkciót bármikor visszakapcsolhatod a PIN kód segítségével.",
+
+  "NewPinCode1": "Új PIN kódodat elküldtük a",
+  "EmailAddress2": "email címre.",
+  "UseThisPin3": "A továbbiakban minden általad felügyelt tanulói felhasználónál ezt a kódot tudod használni!",
+
+  "RequiredTasks1": "Az eszközt jelenleg csak a kötelező feladat elvégzésére használható!",
+  "RequiredTasksDetails2": "Az eszközt újra tudod szabadon használni, ha a feladatokat elvégezted, vagy megadod a PIN kódot.",
+  "UnlockPINButton3": "Feloldás szülői PIN kóddal",
+
+  "503 Service Temporarily Unavailable": "A szerver átmenetileg nem elérhető!"
+}

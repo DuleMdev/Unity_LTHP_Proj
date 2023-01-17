@@ -1,0 +1,40 @@
+{ 
+   "error" : "false", 
+   "answer" : [ 
+      { 
+         "id" : "15", 
+         "code" : "EN", 
+         "name" : "English", 
+         "translate_change" : "2020-02-24 11:09:10"
+      }, 
+      { 
+         "id" : "26", 
+         "code" : "HU", 
+         "name" : "Hungarian", 
+         "translate_change" : "2020-02-26 10:33:27"
+      }, 
+      { 
+         "id" : "51", 
+         "code" : "RO", 
+         "name" : "Romanian", 
+         "translate_change" : "2020-02-24 11:09:10"
+      }, 
+      { 
+         "id" : "55", 
+         "code" : "SK", 
+         "name" : "Slovak", 
+         "translate_change" : "2020-02-24 11:09:10"
+      }
+   ], 
+   "debugLocation" : { 
+      "file" : "LanguageGenerator.php", 
+      "db" : "classyedu", 
+      "time" : { 
+         "date" : "2020-02-26 21:35:30.675704", 
+         "timezone_type" : "3", 
+         "timezone" : "Europe/Belgrade"
+      }, 
+      "function" : "getSupportedLanguages", 
+      "line" : "218"
+   }
+}

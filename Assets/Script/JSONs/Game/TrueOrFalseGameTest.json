@@ -1,0 +1,14 @@
+﻿{
+	"id": "7855",
+	"engine": "TrueOrFalse",
+	"name": "TrueOrFalse_1_2_2_1_a",
+	"gameDifficulty": "50.000",
+	"avgPlayTime": "0.000",
+	"screens": [{
+		"id": "84",
+		"time": "900",
+        "question" : "Ez itt a kérdés. Egyébként a hamis a jó válasz \\math x_{1,2} = \\frac{-b\\pm\\root{b^2-4ac}}{2a}",
+        "true_or_false" : "0"
+	}],
+	"lastGamePercent": "null"
+}

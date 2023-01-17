@@ -1,0 +1,55 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : { 
+       "bonusCoins" : "3", 
+       "availableFrameGameCharacters" : [ 
+          { 
+             "id" : "6", 
+             "userID" : "3", 
+             "name" : "duck character", 
+             "image" : "3/56fb754b28f484a800294dc6866d4719.jpg", 
+             "isDefault" : "1"
+          }, 
+          { 
+             "id" : "7", 
+             "userID" : "3", 
+             "name" : "another duck character", 
+             "image" : "3/05b8d28e0abddc90055efcc9138464a5.jpg", 
+             "isDefault" : "1"
+          }, 
+          { 
+             "id" : "8", 
+             "userID" : "3", 
+             "name" : "rubber duck", 
+             "image" : "3/b83f3163e7a1d095bccc3c79455cedc1.jpg", 
+             "isDefault" : "1"
+          }
+       ], 
+       "availableFrameGameTreasure" : [ 
+          { 
+             "id" : "6", 
+             "userID" : "959", 
+             "name" : "Láda1", 
+             "image" : "959/b1880b47a17323d330f5f0c7960ac3fa.jpg", 
+             "extraURL" : "https://www.youtube.com/watch?v=daNV8PCLgdU&t=2150s", 
+             "isDefault" : "0"
+          }, 
+          { 
+             "id" : "7", 
+             "userID" : "959", 
+             "name" : "Láda2", 
+             "image" : "959/2ef89849a9cc00cda1414b812046180b.jpg", 
+             "extraURL" : "https://www.youtube.com/watch?v=n9Y2Eb4BaSg", 
+             "isDefault" : "0"
+          }
+       ], 
+       "bonusGames" : [ 
+          { 
+             "id" : "1", 
+             "name" : "JumpingBall", 
+             "price" : "1", 
+             "image" : ""
+          }
+       ]
+    }
+ }

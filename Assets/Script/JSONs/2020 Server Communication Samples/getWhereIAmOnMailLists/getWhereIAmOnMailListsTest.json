@@ -1,0 +1,74 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : [ 
+		{ 
+			"requestCommand" : "get1",
+			"groups" : [
+				{
+					"groupName" : "Az első csoport neve",
+					"id" : 1,
+					"makeBy" : "GipszJakab@gmail.com",
+					"description" : "Ez az első csoport leírása. Itt található meg, hogy mit lehet ebben a csoportban tanulni."
+				},
+				{
+					"groupName" : "A második csoport neve",
+					"id" : 2,
+					"makeBy" : "GipszJakab@gmail.com",
+					"description" : "Ez a második csoport leírása. Itt található meg, hogy mit lehet ebben a csoportban tanulni."
+				},
+				{
+					"groupName" : "A harmadik csoport neve",
+					"id" : 3,
+					"makeBy" : "RizOttó@gmail.com",
+					"description" : "Ez a harmadik csoport leírása. Itt található meg, hogy mit lehet ebben a csoportban tanulni."
+				},
+				{
+					"groupName" : "A negyedik csoport neve",
+					"id" : 4,
+					"makeBy" : "PirosArany@freemail.hu",
+					"description" : "Ez a negyedik csoport leírása. Itt található meg, hogy mit lehet ebben a csoportban tanulni."
+				}
+			]
+		},
+		{ 
+			"requestCommand" : "get2",
+			"groups" : [
+				{
+					"groupName" : "Az első csoport neve",
+					"id" : 1,
+					"makeBy" : "GipszJakab@gmail.com",
+					"description" : "Ez az első csoport leírása. Itt található meg, hogy mit lehet ebben a csoportban tanulni."
+				},
+				{
+					"groupName" : "A második csoport neve",
+					"id" : 2,
+					"makeBy" : "GipszJakab@gmail.com",
+					"description" : "Ez a második csoport leírása. Itt található meg, hogy mit lehet ebben a csoportban tanulni."
+				},
+				{
+					"groupName" : "A harmadik csoport neve",
+					"id" : 3,
+					"makeBy" : "RizOttó@gmail.com",
+					"description" : "Ez a harmadik csoport leírása. Itt található meg, hogy mit lehet ebben a csoportban tanulni."
+				}
+			]
+		},
+		{ 
+			"requestCommand" : "get3",
+			"groups" : [
+				{
+					"groupName" : "Az első csoport neve",
+					"id" : 1,
+					"makeBy" : "GipszJakab@gmail.com",
+					"description" : "Ez az első csoport leírása. Itt található meg, hogy mit lehet ebben a csoportban tanulni."
+				},
+				{
+					"groupName" : "A második csoport neve",
+					"id" : 2,
+					"makeBy" : "GipszJakab@gmail.com",
+					"description" : "Ez a második csoport leírása. Itt található meg, hogy mit lehet ebben a csoportban tanulni."
+				}
+			]
+		}
+    ]
+ }

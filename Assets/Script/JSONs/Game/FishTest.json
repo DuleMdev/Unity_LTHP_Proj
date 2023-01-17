@@ -1,0 +1,23 @@
+﻿{
+	"id": "7855",
+	"engine": "Fish",
+	"name": "Fish_1_2_2_1_a",
+	"gameDifficulty": "50.000",
+	"avgPlayTime": "0.000",
+	"screens": [{
+        "question" : "Ez itt a képernyő kérdés helye",
+        "questions" : [
+            "Peti szereti az ?(alma|körte) befőttet",
+            "Mese szám a ?(három|hét|tizenhárom)"
+        ],
+
+        "answers" : [
+            "alma", "körte",
+            "narancs", "eper",
+
+            "három", "hét", "tizenhárom",
+            "egy", "öt"
+        ],
+	}],
+	"lastGamePercent": "null"
+}

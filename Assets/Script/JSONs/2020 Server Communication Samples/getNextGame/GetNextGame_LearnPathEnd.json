@@ -1,0 +1,42 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : { 
+       "gameData" : "null", 
+       "pathData" : "null", 
+       "statusData" : { 
+          "show" : "true", 
+          "isComplete" : "true", 
+          "gamePercent" : "100", 
+          "gameSolved" : "true", 
+          "gameTime" : "2", 
+          "gameScore" : "20", 
+          "maxGameScore" : "50", 
+          "starCount" : "3", 
+          "curriculumProgress" : "100", 
+          "curriculumCoverage" : "66.667", 
+          "curriculumScore" : "315", 
+          "learnRoutePathProgress" : "100", 
+          "learnRoutePathCoverage" : "57.778", 
+          "learnRoutePathScore" : "1585", 
+          "levelIndicator" : "1", 
+          "levelIndicatorText" : "levelUp", 
+          "statusInfo" : "helperGoodAnswerLearnRoutePathIsComplete", 
+          "nextGameScore" : "0", 
+          "learnRoutePathPossibleMaxScore" : "1700", 
+          "currentLevel" : "2", 
+          "currentLevelNumber" : "15", 
+          "possibleMaxLevelNumber" : "15", 
+          "maxLevelNumber" : "15", 
+          "coinReceived" : "false", 
+          "collectedFrameGameChests" : { 
+             "characters" : [ 
+             ], 
+             "treasures" : [ 
+             ]
+          }, 
+          "disposableChestScore" : "1415", 
+          "nextChestValue" : "-170", 
+          "frameGameWalk" : "true"
+       }
+    }
+ }

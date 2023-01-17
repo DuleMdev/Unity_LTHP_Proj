@@ -1,0 +1,100 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : [ 
+       { 
+          "learnRoutePathID" : "86", 
+          "mailListID" : "29", 
+          "name" : "Smartie_bemutató", 
+          "replayable" : "1", 
+          "newLearnRoutePathIsolationTimeForContinue" : "2020-10-19 16:06:00", 
+          "flow_style" : "void", 
+          "lastLearnRoutePathIsolationTimeForContinue" : "2020-09-16 14:22:18", 
+          "playTimeString" : "00:01:53", 
+          "progress" : "68.75", 
+          "scorePercent" : "92.5926666", 
+          "score" : "340.0004", 
+          "appPlayTimeString" : "00:03:52", 
+          "lastLogID" : "251756"
+       }, 
+       { 
+          "learnRoutePathID" : "232", 
+          "mailListID" : "29", 
+          "name" : "random", 
+          "replayable" : "1", 
+          "newLearnRoutePathIsolationTimeForContinue" : "2020-10-19 16:06:00", 
+          "flow_style" : "void", 
+          "lastLearnRoutePathIsolationTimeForContinue" : "null", 
+          "playTimeString" : "00:00:00", 
+          "progress" : "-1", 
+          "scorePercent" : "0", 
+          "score" : "null", 
+          "appPlayTimeString" : "00:03:52", 
+          "lastLogID" : "-1"
+       }, 
+       { 
+          "learnRoutePathID" : "233", 
+          "mailListID" : "29", 
+          "name" : "Albert tesztel", 
+          "replayable" : "1", 
+          "newLearnRoutePathIsolationTimeForContinue" : "2020-10-19 16:06:00", 
+          "flow_style" : "simple", 
+          "lastLearnRoutePathIsolationTimeForContinue" : "null", 
+          "playTimeString" : "00:00:00", 
+          "progress" : "-1", 
+          "scorePercent" : "0", 
+          "score" : "null", 
+          "appPlayTimeString" : "00:03:52", 
+          "lastLogID" : "-1"
+       }
+    ], 
+    "debug" : { 
+       "memory_peak_usage" : "2.06 MiB", 
+       "time" : "2020-10-19 16:06:00 Europe/Belgrade", 
+       "execTime" : "0.646499314", 
+       "backtrace" : [ 
+          { 
+             "file" : "LearnRoutePath.php", 
+             "line" : "307", 
+             "function" : "getBacktrace", 
+             "class" : "Result", 
+             "type" : "::"
+          }, 
+          { 
+             "file" : "Core.php", 
+             "line" : "963", 
+             "function" : "getPlayableLearnRoutePathList", 
+             "class" : "LearnRoutePath", 
+             "object" : { 
+             }, 
+             "type" : "->"
+          }, 
+          { 
+             "file" : "Core.php", 
+             "line" : "362", 
+             "function" : "cmdWithUserID", 
+             "class" : "Core", 
+             "object" : { 
+             }, 
+             "type" : "->"
+          }, 
+          { 
+             "file" : "Core.php", 
+             "line" : "174", 
+             "function" : "cmdWithoutUserID", 
+             "class" : "Core", 
+             "object" : { 
+             }, 
+             "type" : "->"
+          }, 
+          { 
+             "file" : "Core.php", 
+             "line" : "12", 
+             "function" : "runCommand", 
+             "class" : "Core", 
+             "object" : { 
+             }, 
+             "type" : "->"
+          }
+       ]
+    }
+}

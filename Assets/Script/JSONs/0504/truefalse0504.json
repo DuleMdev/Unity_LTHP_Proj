@@ -1,0 +1,109 @@
+{
+	"task" : [
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "Ha a felhőben jégkristályok vannak, és azok lehullanak, villámlás lesz.",
+			"goodAnswer" : false,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A légnemű anyagokra jellemző, hogy mindig kitöltik a rendelkezésükre álló teret.",
+			"goodAnswer" : true,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A sekély szó ellentétes párja a homályos.",
+			"goodAnswer" : false,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A vzsiaj betűkből kirakható egy értelmes szó.",
+			"goodAnswer" : true,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A pocsolya szót így kell elválasztani: pocs-oly-a.",
+			"goodAnswer" : false,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A szó elején csak a lyuk szóban és toldalékos alakjaiban írunk ly-t.",
+			"goodAnswer" : true,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A testrészek megnevezésében a j hangot mindig ly-nal írjuk.",
+			"goodAnswer" : false,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A termés a virágból fejlődik ki.",
+			"goodAnswer" : true,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "Minden növénynek fogyasztjuk a magját.",
+			"goodAnswer" : false,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A petrezselyemnek a magját fogyasztjuk.",
+			"goodAnswer" : false,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A növényi magnak a szaporodásban van szerepe.",
+			"goodAnswer" : true,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A 3; 7; 11; 15……. sorozat egyik eleme a 184.",
+			"goodAnswer" : false,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A 60; 55; 50; 45..... sorozat eleme a nulla.",
+			"goodAnswer" : true,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A fejessaláta és a karfiol azonos növényi részeit fogyasztjuk.",
+			"goodAnswer" : false,
+			"time" : 15,
+		},
+
+		{
+			"gameType" : "TrueOrFalse",
+			"question" : "A paprika és a paradicsom is egynyári növény.",
+			"goodAnswer" : true,
+			"time" : 15,
+		},
+
+	]
+}

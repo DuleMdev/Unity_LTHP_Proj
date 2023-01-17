@@ -1,0 +1,19 @@
+{ 
+    "error" : "false", 
+    "answer" : { 
+       "subjects" : [ 
+          { 
+             "id" : "53", 
+             "name" : "Smart E-maths", 
+             "languageID" : "26", 
+             "code" : "HU"
+          }, 
+          { 
+             "id" : "93", 
+             "name" : "Alberttesztel", 
+             "languageID" : "26", 
+             "code" : "HU"
+          }
+       ]
+    }
+ }

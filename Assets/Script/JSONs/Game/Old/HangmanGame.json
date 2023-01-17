@@ -1,0 +1,33 @@
+﻿{
+	"task" : [
+		{
+			"gameType" : "Hangman",
+			
+			"question" : "nem esik messze az alma a fájától",
+			"keyset" : "hu",
+			
+			"lifeNumber" : 10,
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Hangman",
+			
+			"question" : "ki mint vet úgy arat",
+			"keyset" : "hu",
+			
+			"lifeNumber" : 10,
+			"time" : 60,
+		},
+		
+		{
+			"gameType" : "Hangman",
+			
+			"question" : "nem mind arany ami fénylik",
+			"keyset" : "hu",
+			
+			"lifeNumber" : 10,
+			"time" : 60,
+		},
+	]
+}

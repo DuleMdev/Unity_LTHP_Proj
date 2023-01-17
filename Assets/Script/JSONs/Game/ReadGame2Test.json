@@ -1,0 +1,30 @@
+﻿{
+	"id": "7855",
+	"engine": "Read2",
+	"name": "Read_1_2_2_1_a",
+	"gameDifficulty": "50.000",
+	"avgPlayTime": "0.000",
+	"screens": [{
+		"id": "84",
+		"time": "900",
+        "text_title" : "Ez a szöveg címe",
+        "text_content" : "Itt van a szöveg tartalma \n új sor remélhetőleg\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy\nmég egy",
+        "questions" : [
+            {
+                "question" : "?? és a ?? törpe hadsereg akik szép sorjában mennek a bányába aranyat bányászni vagy répát (nem tudom) df a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+                "answerGroups" : [
+                    [ "Hófehérke", "Piroska" ],
+                    [ "hét", "három", "nyolc" ],
+                ]
+            },
+            {
+                "question" : "?? és a ?? törpe hadsereg akik szép sorjában mennek a bányába aranyat bányászni vagy répát (nem tudom)",
+                "answerGroups" : [
+                    [ "Hófehérke", "Piroska" ],
+                    [ "hét", "három", "nyolc" ],
+                ]
+            },
+        ]
+	}],
+	"lastGamePercent": "null"
+}

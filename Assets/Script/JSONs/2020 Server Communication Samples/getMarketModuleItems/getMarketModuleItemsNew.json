@@ -1,0 +1,63 @@
+﻿{
+    "error" : false,
+	"answer" : {
+		"items" : [
+		],
+		"ownProfile" : {
+		    "name" : null,
+			"profilePicture" : null,
+			"yield" : null,
+			"investable" : null,
+			"invested" : null,
+			"marketSituation" : {
+			    "minInvested" : 0,
+				"maxInvested" : 1,
+				"ownInvested" : null,
+				"ownPlace" : 0
+			}
+		},
+		"companyProfile" : {
+			"name" : "Ildik\u00f33",
+			"coinsFromItems" : 0,
+			"coinsFromLearning" : 1016.333,
+			"partners" : [
+				{
+					"userID" : 2467,
+					"name" : "vilagi.karolin",
+					"profilePicture" : "2467\/605c5290a7fe5.png",
+					"coinsFromLearning" : 2275,
+					"mailListItemID" : 1539711,
+					"mailListID" : 985,
+					"ownership" : "33.33%"
+				},
+				{
+					"userID" : 2474,
+					"name" : "hegyi.esztella",
+					"profilePicture" : "2474\/605c538fc6f01.png",
+					"coinsFromLearning" : 5555,
+					"mailListItemID" : 1539808,
+					"mailListID" : 985,
+					"ownership" : "33.33%"
+				},
+				{
+					"userID" : 2473,
+					"name" : "farkas.reka",
+					"profilePicture" : "2473\/605c535cb6b55.png",
+					"coinsFromLearning" : 2333.33,
+					"mailListItemID" : 1539843,
+					"mailListID" : 985,
+					"ownership" : "33.33%"
+				}
+			],
+			"marketSituation":
+			{
+				"minCompanyValue" : 0,
+				"maxCompanyValue" : 2318.3569999999995,
+				"ownCompanyValue" : 1016.333,
+				"ownCompanyPlace" : 59
+			}
+		},
+		"currentModuleRemainingTime" : -1,
+		"nextModuleRemainingTime" : 1466869
+	},
+}

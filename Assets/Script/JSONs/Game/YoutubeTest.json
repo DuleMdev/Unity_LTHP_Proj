@@ -1,0 +1,13 @@
+﻿{
+	"id": "7855",
+	"engine": "Youtube",
+	"name": "Youtube teszt",
+	"gameDifficulty": "50.000",
+	"avgPlayTime": "0.000",
+	"screens": [{
+		"id": "84",
+		"time": "0",
+		"link": "https://www.youtube.com/watch?v=wMqEES5o-Ok"
+	}],
+	"lastGamePercent": "null"
+}

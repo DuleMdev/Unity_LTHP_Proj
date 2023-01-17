@@ -1,0 +1,342 @@
+{
+  "FacebookLogin": "Facebook Login",
+  "EmailLogin": "E-mail login",
+  "EmailRegistration": "Registration",
+  "ForgotPass": "Have you forget your password?",
+
+  "Grettings": "Welcome to the system of classY EDU!",
+  "GrettingsInfo": "Please, register or login with your facebook profile to start to learn!",
+  "GrettingsInfo2": "Learn, teach and share!",
+
+  "OTPGrettings": "Welcome to our educational system!",
+  "OTPGrettingsInfo": "To register you have to have an invitation.\nIf you have your invitation, please register with the email-address, which is connected to your invitation.",
+
+  "ProvocentInfo": "The content of this application does not necessarily represent the official position of the European Union.",
+
+  "UserName": "Username",
+  "PasswordAgain": "Retype password",
+  "PrivacyPolicy": "By clicking the 'Accept' button, you agree to the privacy policy.",
+  "EmailAddress": "E-mail address",
+  "Registration": "Registration",
+  "Login": "Login",
+  "RegistrationSuccess": "Your registration was succesful!",
+  "ForgotPasswordSuccess": "We have sent an email to your email-address, which is connected to your username. \nPlease, use that email to reset your old password and set a new one!",
+
+  "ExitConfirmation": "Are you sure you want to exit?",
+
+  "SharedWithMe": "Shared lesson plans",
+  "OwnCurriculum": "My lesson plans",
+  "MakeNewCurriculum": "Create new lesson plan",
+  "EducationInClassroom": "Classroom education",
+  "Students": "Students",
+
+  "CurriculumsPlay": "Play lesson plan",
+  "LiveStream": "Live stream",
+  "SubjectsList": "List of subjects",
+  "ExercisedCurriculum": "Exercises to practice",
+  "LastPlayedCurriculums": "Previously played lesson plans",
+  "MarketPlace": "Marketplace",
+
+  "classYCurriculums": "classY Curriculums",
+  "ClassroomPlay": "Classroom\nplay",
+
+  "Back": "Back",
+
+  "SortByNewCurriculum": "New lesson plans",
+  "SortByUnaccomplishedCurriculum": "Unaccomplished lesson plans",
+  "SortByName": "Sort by name",
+  "SortByMakeTime": "Sort by time",
+  "SortByResult": "Sort by results",
+  "SortByProgress": "Sort by progress",
+
+  "NotCurriculum": "There is no lesson plan to view",
+
+  "NextStream": "Next live stream",
+  "WatchStream": "Live streams you can watch now",
+  "NoStream": "There is no live stream at the moment",
+
+  "ProjectProducts": "Project products",
+  "CompaniesProfiles": "Company profiles",
+  "OwnProfile": "My own profile",
+
+  "StartInvestmentPeriod": "Time till the beginning of the investment period",
+  "EndInvestmentPeriod": "Time left from the investment period",
+  "OwnInvestment": "Your own investments",
+  "Company": "Company: ",
+  "Hours": "Hours",
+
+  "AllLearn": "All that you have gained by learning: ",
+  "AllProjectProduct": "All that you have gained with project products: ",
+  "CompanyMembers": "Company members",
+  "CollectByLearn": "Pcoin collected with learning",
+  "OwnerShip": "Ownership:",
+  "HighestCompanyValue": "Highest company value in the market",
+  "OwnCompanyValue": "Your own company's value",
+  "LowestCompanyValue": "Lowest company value in the market",
+
+  "AllYield": "All yield",
+  "ThisPeriodInvestable": "All that you can invest in this period",
+  "EvenXHours": "Pcoin to invest",
+  "EvenXHours2": "Pcoin to invest until [x] hours",
+  "InvestedPcoin": "Your invested Pcoins",
+
+  "MarketState": "Market state",
+  "MostSuccessfulInvestor": "The most succesful investor is",
+  "OwnPlace": ". Your own place",
+  "LeastSuccessfulInvestor": "The least succesful investor is",
+
+  "ImInvestingMyPcoin": "I will invest [x] of my Pcoins",
+  "ImInvesting": "I am investing",
+  "PlayProjectProduct": "Play all my project products",
+
+  "SureInvestment": "Are you sure you want to invest your Pcoins into this company?",
+
+  "ResultSum": "Summarized results:",
+  "StartLearning": "Start learning",
+  "PlayTime": "Time spent with learning:",
+  "AppPlayTime": "All the time spent with learning:",
+
+  "SelectCurriculumLanguage": "Choose the language of your lesson plan!",
+
+  "ChoiceYouAreTeacherOrStudent": "Please, choose your role! Select if you are a student or a teacher!",
+  "Teacher": "Teacher",
+  "Student": "Student",
+
+  "ClassroomEducationStart": "Start classroom education",
+
+  "SelectEducationMode": "Select the mode of education!",
+  "Online": "Online",
+  "Offline": "Offline",
+  "Start": "Start",
+  "PathDownload": "Download learning pathways",
+  "ClassroomGroupsDownload": "Download classroom groups",
+  "OfflineDatasUpload": "Upload offline data",
+
+  "ClassroomGroupSelect": "Select classroom groups",
+
+  "DownloadCurriculum": "Download lesson plans to use it without connection.",
+  "Download": "Download",
+
+  "DownloadedCurriculum": "Downloaded pathways",
+  "Preview": "Preview",
+
+  "userNotLoggedIn": "User login needed.",
+
+  "emptyUsername": "The Username field is empty!",
+  "lengthUsername": "Your username is too short, the username has to be at least 3 characters!",
+  "existUsername": "That username is already taken!",
+  "userNotExist": "That username does not exist!",
+
+  "emptyPass": "The Password field is empty!",
+  "lengthPass": "Your password is too short, the password has to be at least 6 characters long!",
+  "matchPass": "The two passwords are not matching!",
+  "wrongPassword": "The password is wrong!",
+  "existEmail": "That email-address is already in use!",
+  "wrongEmail": "The format of the email-address you are trying to use is wrong!",
+  "userNotInvitedToApp": "Unfortunatelly, you can not enter, since you don't own an invitation. Please, ask for an invitation or use the ClassY Application.",
+
+  "missingDuck": "AppID does not exist.",
+  "missingDuckID": "The appID is not selected!",
+  "missingDuckVersion": "The appVersion is not selected!",
+  "versionMismatchError": "Your application is out of date, please update it!",
+
+  "ThisLearnRouteIsFinished": "You have already completed this learning route!",
+  "curriculumPlayWasStopped": "The playing of the curriculum was stopped.",
+  "continue": "Continue",
+  "restart": "Restart",
+  "gameResultResend": "The sending of the game results to the server was unsuccesful.\nResend",
+
+  "nextGame": "Next game",
+  "nextCurriculum": "Next lesson plan",
+  "exit": "Exit",
+  "gameGratulation": "Congratulations!\nYou have completed the game!",
+
+  "Completed": "Completed",
+  "New": "New",
+  "MadeBy": "Made by: ",
+  "Date": "Date: ",
+  "Subject": "Subject: ",
+  "SearchWords": "Search words: ",
+  "Points": "Points:",
+
+  "ShareWithStudentsForLearn": "Share with the students to start learning",
+  "ShareInCommonWork": "Share for common work",
+  "ShareOnFacebook": "Share on Facebook",
+  "ShareOnClassYStore": "Share on classY store",
+  "Play": "Play",
+
+  "Teacher tablet": "Teacher's tablet",
+  "Student tablet": "Student's tablet",
+  "Server": "Server",
+  "Client": "Client",
+  "Server address": "Server address",
+  "Port number": "Port number",
+  "Maximum client number": "Maximum client number",
+
+  "Save": "Save",
+  "Cancel": "Cancel",
+  "Ok": "Okay",
+  "Selection": "Select",
+
+  "PortNumberError": "The port number can not be higher than 65535",
+  "ConnectNumberError": "The maximum number of clients can only be 99",
+  "Tablet ID": "Tablet ID",
+  "Order number": "Order number",
+  "Client config": "Configurate client",
+  "Connect": "Connect",
+  "Server config": "Configurate server",
+  "Server start": "Start server",
+
+  "All client": "All clients",
+
+  "Group number": "Group number",
+  "Grouping": "Grouping",
+
+  "GroupNumberError": "The group number can not be smaller than one!",
+
+  "Connect success": "Connection successful",
+
+  "UpdateDownload": "Download update",
+  "Update": "Update",
+  "IgnoreUpdate": "Ignore update",
+
+  "User name": "Username",
+  "Password": "Password",
+  "Login": "Login",
+
+  "Logout": "Logout",
+  "Synchronize": "Synchronize",
+  "Lesson plan": "Lesson plan",
+
+  "LessonPlanID": "Lesson plan ID",
+  "LessonPlanLabels": "Lesson plan label",
+
+  "ExactTime": "Exact time",
+  "ElapsedTime": "Time spent",
+
+  "ID": "ID",
+
+  "StudentName": "Student's name",
+  "Rank": "Ranking",
+  "Point": "Points",
+  "Progress": "Progress",
+  "Mosaic": "Mosaic",
+  "Game": "Game",
+  "WaitStudentTabletConnect": "Waiting for the connection of the students' tablets...",
+
+  "Red": "Red",
+  "Green": "Green",
+  "Blue": "Blue",
+  "Pink": "Pink",
+  "Orange": "Orange",
+  "Purple": "Purple",
+  "Yellow": "Yellow",
+  "Cyan": "Cyan",
+  "Brown": "Brown",
+
+  "group": "Group",
+
+  "GameID": "Game ID",
+  "Labels": "Labels",
+  "Screen": "Screen",
+
+  "SureStartLessonPlan": "Are you sure you want to start the lesson plan?",
+  "LoadLessonPlan": "Loading lesson plan.",
+  "ProcessingLessonPlan": "Processing lesson plan.",
+
+  "SureLeaveLessonPlan": "Are you sure you are going to exit from the lesson plan?",
+  "Attention": "Attention!",
+  "ConnectBreakBetweenTeacherAndStudent": "When leaving the lesson plan, the connection between the teacher's tablet and the students' tablet will be broken.",
+
+  "CooperativLessonMosaicStartAutoGroup": "Start cooperative lesson-mosaic\nWith automacitly generated grouping",
+  "AutoGroup": "Automatic grouping",
+  "CustomGroup": "Custom grouping",
+
+  "IdealPeopleNumberInAGroup": "Please give the number of people in the ideal groups!",
+
+  "second": "Second",
+  "sec": "sec",
+
+  "GroupingHappened": "The grouping is finished!",
+  "GroupsOrderingByScreenColor": "Please, order the groups according to the colors on their screens.",
+  "GroupsOrderedLessonMosaicStart": "The groups are ready, start the lesson-mosaic now.",
+  "TheLessonMosaicStartAfter(time)Seconds": "The lesson-mosaic will start in (time) sec automatically.",
+
+  "StartSinglePlayer": "Start single player lesson-mosaic",
+  "AutomaticStart(time)Sec": "Automatic start in: (time) sec",
+
+  "LessonPlanIsBreaking": "The lesson plan is on pause.",
+  "PressPlayButtonToContinue": "To continue please, press the 'play' button on the heading!",
+
+  "LessonPlanIsPaused": "Pause lesson plan.",
+
+  "ServerIPaddress": "Server IP address",
+  "ServerPortNumber": "Server port number",
+
+  "ConnectToServer": "Connect to server.",
+  "ConnectToServerUnsuccessful": "The connecting to the server is unsuccessful.",
+
+  "ConnectIsBroken": "Connection is broken.",
+
+  "SearchGroupmates": "Search for your groupmates.",
+
+  "LessonPlanError": "Error in the lesson plan!",
+
+  "ServerError": "Server error",
+
+  "ServerResponse": "Server response: ",
+
+  "WrongUserNameOrPassword": "Wrong username or password!",
+
+  "ErrorUnderProcessing": "An error occured under the processing.",
+
+  "SwitchOfflineMode": "The tablet is switching off to offline mode.",
+
+  "SelectClassToLesson": "Please, select the classroom connected to the lesson plan!",
+
+  "WaitForGroupmates": "Please, wait for your groupmates.",
+
+  "YouAreFinishedTheLessonPlan": "Well done!\nYou have finished the lesson plan!",
+
+  "True": "TRUE",
+  "False": "FALSE",
+
+  "PopOutWrongAnswers": "Pop out the bubbles which are containing the wrong answers!",
+
+  "PickTheRightAnswerAndFindItsPlace": "Pick the correct answer and find its place!",
+
+  "Answer": "Answer",
+  "History": "History",
+  "SendAndNext": "Send and next",
+
+  "Questions": "Questions",
+  "Task": "Task",
+  "Verify": "Self verify",
+  "Next": "Next",
+
+  "LearnThenPlay": "LearnThenPlay",
+
+  "TurnOnLThP1": "Are you turning on Learn Then Play?",
+  "TextLongInfo2": "(To block your account, you will need the parental PIN you received by email. All other functions of the device will be blocked until the mandatory tasks are completed. You can unblock the device at any time by entering your parental PIN)",
+  "PinText3": "PIN code:",
+  "PinStarText4": "* Enter the parental PIN code! If you forgot it, request a new one, which you will receive to your parent email address!",
+  "NewPinButton5": "",
+  "OkButton": "OK",
+  
+  "LearnTHENPlayFunction": "",
+  "TextOff": "Off",
+  "TextOn": "On",
+
+  "TurnOffLThP1": "",
+  "TextLongInfoOff2": "",
+
+  "NewPinCode1": "",
+  "EmailAddress2": "",
+  "UseThisPin3": "",
+
+  "RequiredTasks1": "",
+  "RequiredTasksDetails2": "",
+  "UnlockPINButton3": "",
+
+  "503 Service Temporarily Unavailable": "The server is temporarily unavailable!"
+}

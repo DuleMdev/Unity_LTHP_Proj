@@ -1,0 +1,36 @@
+{ 
+   "error" : "false", 
+   "answer" : { 
+      "pathData" : { 
+         "flowStyle" : "simple", 
+         "gameIsolation" : "2020-01-22 19:47:04", 
+         "currentLevel" : "0", 
+         "levelIsolation" : "2020-01-22 19:47:04", 
+         "userID" : "3", 
+         "learnRoutePathID" : "16", 
+         "learnRoutePathStart" : "2020-01-22 19:39:58", 
+         "subjectID" : "19", 
+         "topicID" : "72", 
+         "courseID" : "145", 
+         "curriculumID" : "311", 
+         "curriculumIsolationTime" : "2020-01-22 19:47:04"
+      }, 
+      "gameData" : { 
+         "id" : "3081", 
+         "engine" : "PDF", 
+         "name" : "cover_tananyag_4.oszt", 
+         "difficulty" : "0"
+      }
+   }, 
+   "debugLocation" : { 
+      "file" : "LearnRoutePath.php", 
+      "db" : "classyedu", 
+      "time" : { 
+         "date" : "2020-01-22 19:47:04.968435", 
+         "timezone_type" : "3", 
+         "timezone" : "Europe/Belgrade"
+      }, 
+      "function" : "getSingleGameData", 
+      "line" : "830"
+   }
+}

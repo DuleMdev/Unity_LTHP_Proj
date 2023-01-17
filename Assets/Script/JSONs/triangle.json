@@ -1,0 +1,29 @@
+﻿{
+	"task" : [
+		{
+			"gameType" : "Bubble",
+			"question" : "Hány hárommszöget látsz a képen?",
+			"questionPicture" : "#triangle.jpg",
+			"questionPictureBorder" : "False",
+			"goodAnswers" : ["20"],
+			"wrongAnswers" : ["16", "18", "22"],
+			"goodAnswerNeed" : true,
+			"goodAnswerPiece" : 1,
+			"lifeNumber" : 0,
+			"time" : 15,
+		},
+		
+		{
+			"gameType" : "Bubble",
+			"question" : "Hány hárommszöget látsz a képen?",
+			"questionPicture" : "#triangle.jpg",
+			"questionPictureBorder" : "False",
+			"goodAnswers" : ["20"],
+			"wrongAnswers" : ["16", "18", "22"],
+			"goodAnswerNeed" : true,
+			"goodAnswerPiece" : 1,
+			"lifeNumber" : 0,
+			"time" : 15,
+		},
+	]
+}

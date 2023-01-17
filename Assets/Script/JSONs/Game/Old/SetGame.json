@@ -1,0 +1,156 @@
+﻿{
+	"task" : [
+		{
+			"gameType" : "Sets",
+			"question" : "Csoportosítsd az állatokat aszerint, hogy mivel táplálkoznak!",
+	
+			"set" : [
+				{	"setName" : "Növényevő",
+					"setPicture" : "",
+					"items" : ["őz", "ló", "cserebogár", "szöcske", "tehén", "liba", "selyemhernyó"] },
+			
+				{	"setName" : "Ragadozó",
+					"setPicture" : "",
+					"items" : ["farkas", "sas", "csuka"] },
+			
+				{	"setName" : "Mindenevő",
+					"setPicture" : "",
+					"items" : ["tyúk", "vaddisznó", "medve", "borz"] },
+			],
+	
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Sets",
+			"question" : "Csoportosítsd az élőlényeket aszerint, hogy hol élnek az erdő szintjeiben!",
+	
+			"set" : [
+				{	"setName" : "Talajszint",
+					"setPicture" : "talajszint.png",
+					"items" : ["hangya", "erdei egér", "sün", "#Pafrany.jpg", "#IllatosIbolya.jpg", "gyöngyvirág", "fű"] },
+			
+				{	"setName" : "Cserjeszint",
+					"setPicture" : "cserjeszint.png",
+					"items" : ["#Butterfly.jpg", "darazsak", "méhek"] },
+			
+				{	"setName" : "Lombkoronaszint",
+					"setPicture" : "lombkorona.png",
+					"items" : ["#Squirrel.jpg", "#Woodpecker.jpg", "cserebogár", "szarvasbogár"] },
+			],
+	
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Sets",
+			"question" : "Tedd a számokat a megfelelő csoportba!",
+	
+			"set" : [
+				{	"setName" : "0-99",
+					"setPicture" : "",
+					"items" : ["54", "12", "23", "81"] },
+			
+				{	"setName" : "100-199",
+					"setPicture" : "",
+					"items" : ["152", "120", "198"] },
+			],
+			
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Sets",
+			"question" : "Tedd a számokat a megfelelő csoportba!",
+	
+			"set" : [
+				{	"setName" : "0-99",
+					"setPicture" : "",
+					"items" : ["54", "12", "23", "81"] },
+			
+				{	"setName" : "100-199",
+					"setPicture" : "",
+					"items" : ["152", "120", "198"] },
+
+				{	"setName" : "200-299",
+					"setPicture" : "",
+					"items" : ["211", "212", "219"] },
+
+				{	"setName" : "300-399",
+					"setPicture" : "",
+					"items" : ["378", "325", "369"] },
+			],
+				
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Sets",
+			"question" : "Tedd a számokat a megfelelő csoportba!",
+	
+			"set" : [
+				{	"setName" : "0-99",
+					"setPicture" : "",
+					"items" : ["54", "12", "23", "81"] },
+			
+				{	"setName" : "100-199",
+					"setPicture" : "",
+					"items" : ["152", "120", "198"] },
+
+				{	"setName" : "200-299",
+					"setPicture" : "",
+					"items" : ["211", "212", "219"] },
+
+				{	"setName" : "300-399",
+					"setPicture" : "",
+					"items" : ["378", "325", "369"] },
+
+				{	"setName" : "400-499",
+					"setPicture" : "",
+					"items" : ["478", "435", "409"] },
+			],
+			
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+
+		{
+			"gameType" : "Sets",
+			"question" : "Tedd a számokat a megfelelő csoportba!",
+	
+			"set" : [
+				{	"setName" : "0-99",
+					"setPicture" : "",
+					"items" : ["54", "12", "23", "81"] },
+			
+				{	"setName" : "100-199",
+					"setPicture" : "",
+					"items" : ["152", "120", "198"] },
+
+				{	"setName" : "200-299",
+					"setPicture" : "",
+					"items" : ["211", "212", "219"] },
+
+				{	"setName" : "300-399",
+					"setPicture" : "",
+					"items" : ["378", "325", "369"] },
+
+				{	"setName" : "400-499",
+					"setPicture" : "",
+					"items" : ["478", "435", "409"] },
+				
+				{	"setName" : "500-599",
+					"setPicture" : "",
+					"items" : ["513", "528", "586"] },
+			],
+				
+			"lifeNumber" : 0,
+			"time" : 60,
+		},
+		
+	]
+}

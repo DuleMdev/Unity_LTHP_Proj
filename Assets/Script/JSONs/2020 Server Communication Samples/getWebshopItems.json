@@ -1,0 +1,30 @@
+﻿{
+  "error" : false,
+  "answer": [
+    {
+      "id"           : 1,
+      "appID"        : 11,
+      "webshopStart" : "2021-05-31 15:55:21",
+      "webshopEnd"   : "2021-06-11 23:59:59",
+      "remainingTime": 979081,
+      "items"        : [
+        {
+          "id"               : 1,
+          "webshopID"        : 1,
+          "itemName"         : "duck1",
+          "itemImage"        : "duck1.png",
+          "itemPrice"        : 66,
+          "purchasedQuantity": 0
+        },
+        {
+          "id"               : 2,
+          "webshopID"        : 1,
+          "itemName"         : "duck2",
+          "itemImage"        : "duck2.png",
+          "itemPrice"        : 99,
+          "purchasedQuantity": 0
+        }
+      ]
+    }
+  ]
+}

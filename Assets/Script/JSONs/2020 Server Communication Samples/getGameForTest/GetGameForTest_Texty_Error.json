@@ -1,0 +1,66 @@
+﻿{ 
+    "error" : "false", 
+    "answer" : { 
+       "id" : "20741", 
+       "engine" : "Texty", 
+       "name" : "DÉ_számok_6", 
+       "labels" : "", 
+       "difficulty" : "1", 
+       "keyset" : "aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz", 
+       "code" : "HU", 
+       "gameTheme" : "3", 
+       "gameEnding" : "1", 
+       "screens" : [ 
+          { 
+             "id" : "1408", 
+             "task" : "Ebben a feladatban minden nagybetű értéke egy-egy szám. A SÜTI szó értéke a szót alkotó betűk értékeinek összege.", 
+             "text" : "Mennyit érnek a betűk, és mennyi a {SÜTI} értéke?", 
+             "time" : "300", 
+             "questions" : [ 
+                { 
+                   "questionID" : "1824", 
+                   "question" : "S= 15 és 24 legkisebb közös többszöröse S= [?]", 
+                   "inOrder" : "1", 
+                   "answers" : [ 
+                      "120"
+                   ]
+                }, 
+                { 
+                   "questionID" : "1825", 
+                   "question" : "Ü= 91-nek az \\frac{5}{13}-ad része. Ü= [?]", 
+                   "inOrder" : "1", 
+                   "answers" : [ 
+                      "35"
+                   ]
+                }, 
+                { 
+                   "questionID" : "1826", 
+                   "question" : "T= (-3) \\cdot (-10) \\cdot (-4) T= [?]", 
+                   "inOrder" : "1", 
+                   "answers" : [ 
+                      "-120"
+                   ]
+                }, 
+                { 
+                   "questionID" : "1827", 
+                   "question" : "I=\\frac{16}{3}-5\\frac{4}{3}= [?]", 
+                   "inOrder" : "1", 
+                   "answers" : [ 
+                      "-4"
+                   ]
+                }, 
+                { 
+                   "questionID" : "1828", 
+                   "question" : "SÜTI= [?]", 
+                   "inOrder" : "1", 
+                   "answers" : [ 
+                      "31"
+                   ]
+                }
+             ]
+          }
+       ], 
+       "images" : [ 
+       ]
+    }
+ }
